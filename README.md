@@ -1,8 +1,8 @@
 # SKN30-2ND-3TEAM
 
-## 프로젝트명
+# 프로젝트명
 
-### 🏨 외부 환경 요인을 반영한 호텔 예약 취소 예측 및 운영 최적화 분석
+## 🏨 외부 환경 요인을 반영한 호텔 예약 취소 예측 및 운영 최적화 분석
 
 온라인 예약 플랫폼의 확산으로 간소화된 예약/취소 절차 속에서, 호텔의 예약 변동성과 노쇼(No-show) 리스크를 방어하기 위한 프로젝트입니다. 내부 예약 데이터에 날씨, 환율 변동 등 거시적 외부 환경 요인을 결합하여, 보다 정교한 취소 예측 모델(머신러닝 & 딥러닝)을 구축하고 데이터 기반의 객실 운영 최적화 전략을 제안합니다.
 
@@ -47,6 +47,7 @@
 
 ## 프로젝트 구조
 
+```text
 SKN30-2nd-3Team/
 │
 ├── README.md                       # 프로젝트 개요
@@ -59,21 +60,20 @@ SKN30-2nd-3Team/
 │
 ├── sql/                            # 테이블 생성, ERD
 │   ├── schema.sql
-│   └── merge_query.sql            
+│   └── merge_query.sql
 │
-├── notebooks/                       # 팀원별 작업
+├── notebooks/                      # 팀원별 작업
 │   ├── preprocessing.ipynb
 │   ├── eda.ipynb
 │   ├── ml_model.ipynb
 │   └── dl_model.ipynb
 │
-├── images/                          # 그래프 저장
+├── images/                         # 그래프 저장
+├── presentation/                   # 최종 발표자료
 │
-├── presentation/                    # 최종 발표자료
-│
-└── docs/                            # 규칙 정리
-    └── convention.md                # 커밋 규칙
-
+└── docs/
+    └── convention.md
+```
 ---
 
 ## 기술스택
