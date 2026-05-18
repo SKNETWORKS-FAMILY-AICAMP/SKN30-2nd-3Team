@@ -1,20 +1,47 @@
-## 커밋 메시지 규칙
+# Git Convention
 
-ex) docs: README 프로젝트 개요 작성
-feat: 환율 데이터 병합 코드 추가
-fix: 결측치 처리 오류 수정
-refactor: 전처리 함수 구조 정리
-style: 시각화 그래프 레이아웃 수정
-chore: 폴더 구조 정리
+## 브랜치 전략
+- main : 최종 제출
+- develop : 팀 공용 작업 브랜치
 
-### docs : 문서 수정
+---
 
-### feat : 새 기능 추가, 새 코드 작성할 때
+## 작업 순서
 
-### fix : 오류 수정
+### 1. 최신 코드 받기
+```bash
+git pull origin develop
+```
 
-### refactor : 전처리 함수 모듈화
+### 2. 작업 진행
 
-### style : 출력/형식 수정
+담당 파일 수정
 
-### chore :  기타(폴더 생성, 파일 이동, 환경설정)
+### 3. 변경사항 저장
+```bash
+git add .
+git commit -m "feat: 작업 내용"
+```
+
+### 4. 원격 저장소 반영
+```bash
+git push origin develop
+```
+
+---
+
+## Commit Message Rule
+
+- feat : 기능 추가
+- fix : 오류 수정
+- docs : 문서 수정
+- chore : 기타 설정
+- refactor : 코드 구조 개선
+
+---
+
+## 협업 규칙
+- 작업 시작 전 반드시 pull
+- 동일 파일 동시 수정 지양
+- 충돌 발생 시 즉시 공유
+- 의미 없는 커밋명 금지
