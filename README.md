@@ -93,40 +93,44 @@ SKN30-2nd-3Team/
 ```
 ---
 
-## 기술 스택
+## 기술 스택 (업데이트 예정)
 
-- **Language**: Python
-- **Database**: MySQL
-- **Analysis / Modeling**: Pandas, Scikit-learn, TensorFlow
-- **Visualization**: Matplotlib, Seaborn
-- **Collaboration**: Git, GitHub
-- **Environment**: Jupyter Notebook, DBeaver, MySQLWorkbench
+> 프로젝트 진행 과정에서 확정된 기술 스택 및 라이브러리를 반영하여 업데이트 예정
   
+---
+
+## Git 협업 가이드
+
+본 프로젝트는 `develop` 브랜치 기반 협업 방식으로 진행됩니다.
+
+자세한 Git 작업 절차 및 커밋 규칙은  
+`docs/convention.md`를 참고해주세요.
+
 ---
 
 ## 데이터 전처리
 
 > 프로젝트 진행 후 업데이트 예정
 
---
+---
 
 ## ERD
 
 > 프로젝트 진행 후 업데이트 예정
 
---
+---
 
 ## 피처 엔지니어링
 
 > 프로젝트 진행 후 업데이트 예정
 
---
+---
 
 ## 모델링
 
 > 프로젝트 진행 후 업데이트 예정
 
---
+---
 
 ## 프로젝트 파이프라인
 
