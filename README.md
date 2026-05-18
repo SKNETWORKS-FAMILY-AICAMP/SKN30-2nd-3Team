@@ -38,19 +38,19 @@
 
 - **`main`**: 최종 배포 및 발표용 마스터 브랜치 (완벽히 검증된 코드 및 산출물만 포함)
 - **`develop`**: 파트별 코드를 모아서 싱크를 맞추는 중간 통합 브랜치
-- [cite_start]**`feature/data-preprocessing`**: 내부 데이터 정제 및 외부 환율/날씨 데이터 병합 파트 [cite: 39, 41]
-- [cite_start]**`feature/eda-plots`**: 데이터 시각화 및 통계적 탐색 분석(EDA) 파트 [cite: 40]
-- [cite_start]**`feature/ml-modeling`**: XGBoost, LightGBM 등 정형 데이터 기반 머신러닝 알고리즘 파트 [cite: 42]
-- [cite_start]**`feature/dl-modeling`**: 신경망 기반 딥러닝 알고리즘 구현 및 성능 비교 파트 [cite: 42]
-- [cite_start]**`feature/database-erd`**: 데이터 정규화, 테이블 생성 SQL 및 ERD 구조 설계 파트 [cite: 39]
-- [cite_start]**`feature/presentation`**: 발표 슬라이드(PPT) 및 최종 보고서 문서 작성 파트 [cite: 57]
+- **`feature/data-preprocessing`**: 내부 데이터 정제 및 외부 환율/날씨 데이터 병합 파트 
+- **`feature/eda-plots`**: 데이터 시각화 및 통계적 탐색 분석(EDA) 파트 
+- **`feature/ml-modeling`**: XGBoost, LightGBM 등 정형 데이터 기반 머신러닝 알고리즘 파트
+- **`feature/dl-modeling`**: 신경망 기반 딥러닝 알고리즘 구현 및 성능 비교 파트
+- **`feature/database-erd`**: 데이터 정규화, 테이블 생성 SQL 및 ERD 구조 설계 파트
+- **`feature/presentation`**: 발표 슬라이드(PPT) 및 최종 보고서 문서 작성 파트 
 
 ---
 
 ## 📂 최종 산출물 (Deliverables)
-- [cite_start]호텔 예약 및 취소 패턴 데이터 분석 결과 보고서 [cite: 64]
-- [cite_start]인사이트 발굴을 위한 데이터 시각화 자료 [cite: 65]
-- [cite_start]외부 환경 요인(날씨, 환율)이 반영된 예약 취소 예측 모델 [cite: 66]
-- [cite_start]적용 알고리즘 간 머신러닝/딥러닝 모델 성능 비교 결과 [cite: 67]
-- [cite_start]취소 여부에 가장 큰 영향을 미치는 핵심 변수 영향 분석(Feature Importance) 결과 [cite: 68]
-- [cite_start]데이터 기반 객실 운영 및 취소 방어 마케팅 전략 제안서 [cite: 69, 70]
+- 호텔 예약 및 취소 패턴 데이터 분석 결과 보고서
+- 인사이트 발굴을 위한 데이터 시각화 자료
+- 외부 환경 요인(날씨, 환율)이 반영된 예약 취소 예측 모델
+- 적용 알고리즘 간 머신러닝/딥러닝 모델 성능 비교 결과
+- 취소 여부에 가장 큰 영향을 미치는 핵심 변수 영향 분석(Feature Importance) 결과 
+- 데이터 기반 객실 운영 및 취소 방어 마케팅 전략 제안서
