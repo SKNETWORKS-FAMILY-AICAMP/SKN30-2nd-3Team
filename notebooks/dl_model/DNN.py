@@ -67,7 +67,7 @@ def evaluate(x_val_tensor, y_val_tensor, model, loss_fn, device):
 
 #=============================== 학습 곡선 함수(같은 파일 위치 내 results파일에 저장) =========================================
 
-def dl_learning_curve(tr_loss_list, val_loss_list, save_dir="./results", file_name="learning_curve2.png"):
+def dl_learning_curve(tr_loss_list, val_loss_list, save_dir="./results", file_name="learning_curve1.png"):
 
     # 1. 지정한 폴더가 서버에 없으면 자동으로 생성해 주는 안심 코드
     if not os.path.exists(save_dir):
@@ -100,7 +100,8 @@ def dl_learning_curve(tr_loss_list, val_loss_list, save_dir="./results", file_na
 device = "cuda" if torch.cuda.is_available() else "cpu"
 print(f"Using {device} device")
 
-path = 'hotel_bookings.csv'
+current_dir = os.path.dirname(os.path.abspath(__file__))
+path = os.path.abspath(os.path.join(current_dir, "..", "..", "data", "preprocessed", "hotel_bookings.csv"))
 df = pd.read_csv(path)
 
 string_cols = df.select_dtypes(include=['object']).columns
