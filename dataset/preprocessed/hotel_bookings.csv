@@ -40519,7 +40519,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,39,August,1,1,BB,Groups,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,62.0,0,0,Group,0,1,0,1,PRT
 0,0,August,1,1,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,110.0,0,0,Family,1,0,0,1,OTH
 1,1,August,1,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,105.0,0,0,Group,0,1,1,1,EUR
-0,1,August,1,1,BB,Direct,Direct,0,0,0,1,No Deposit,0,Transient-Party,9.0,0,0,Family,0,0,0,1,PRT
+0,1,August,1,1,BB,Direct,Direct,0,0,0,1,No Deposit,0,Transient-Party,9.0,0,0,Group,0,0,0,1,PRT
 0,3,August,1,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Contract,162.0,1,0,Family,0,1,0,1,EUR
 0,39,August,1,1,BB,Groups,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,62.0,0,1,Group,0,1,0,1,PRT
 0,39,August,1,1,BB,Groups,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,62.0,0,1,Group,1,1,0,1,EUR
@@ -40583,7 +40583,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,3,August,0,2,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,107.0,1,0,Family,0,1,0,1,EUR
 0,1,August,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,114.0,0,0,Single,0,1,0,1,EUR
 1,3,August,0,3,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,153.0,0,0,Group,0,1,0,1,PRT
-0,104,August,0,3,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,6.0,0,2,Family,0,1,0,1,EUR
+0,104,August,0,3,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,6.0,0,2,Group,0,1,0,1,EUR
 0,1,August,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Contract,105.0,0,3,Group,0,1,0,1,EUR
 0,1,August,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Contract,105.0,0,3,Group,0,1,0,1,EUR
 1,147,August,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,76.5,0,0,Group,0,1,0,1,PRT
@@ -40981,7 +40981,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,5,August,1,0,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,75.0,0,0,Single,0,1,0,1,PRT
 0,137,August,1,0,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,76.5,0,0,Group,0,1,0,1,EUR
 0,3,August,2,0,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient-Party,75.0,0,1,Group,0,0,0,1,PRT
-0,3,August,2,0,BB,Direct,Direct,0,0,0,1,No Deposit,0,Transient-Party,6.0,0,1,Family,0,0,0,1,PRT
+0,3,August,2,0,BB,Direct,Direct,0,0,0,1,No Deposit,0,Transient-Party,6.0,0,1,Group,0,0,0,1,PRT
 0,0,August,2,1,BB,Direct,Direct,0,0,0,2,No Deposit,0,Transient,124.0,0,0,Group,0,0,0,1,PRT
 0,1,August,2,1,BB,Direct,Direct,0,0,0,1,No Deposit,0,Group,139.0,0,0,Group,0,1,0,1,EUR
 0,5,August,2,1,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,67.0,0,0,Single,0,1,0,1,EUR
@@ -41487,7 +41487,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,119,August,2,6,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,82.87,0,1,Group,0,1,0,1,OTH
 1,0,August,2,6,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,62.8,0,0,Group,0,0,0,1,PRT
 1,10,August,0,1,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Contract,80.0,0,1,Single,0,1,0,1,PRT
-0,15,August,0,1,BB,Complementary,Direct,0,0,0,0,No Deposit,0,Transient,0.0,0,1,Family,0,0,1,1,PRT
+0,15,August,0,1,BB,Complementary,Direct,0,0,0,0,No Deposit,0,Transient,0.0,0,1,Group,0,0,1,1,PRT
 0,24,August,0,1,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,75.0,1,1,Group,0,1,0,1,PRT
 1,10,August,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Contract,90.0,0,2,Family,0,1,0,1,PRT
 0,15,August,0,1,BB,Complementary,Direct,0,0,0,0,No Deposit,0,Transient,0.0,0,4,Family,0,0,1,1,PRT
@@ -44679,7 +44679,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,48,October,1,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Contract,94.5,0,1,Group,0,1,0,1,EUR
 0,66,October,1,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Contract,89.25,0,1,Group,0,1,0,1,EUR
 0,47,October,1,3,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient,72.36,0,1,Group,0,1,0,1,EUR
-1,48,October,1,3,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,6.0,0,1,Family,0,1,0,1,PRT
+1,48,October,1,3,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,6.0,0,1,Group,0,1,0,1,PRT
 0,66,October,1,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Contract,89.25,0,2,Group,0,1,0,1,EUR
 0,61,October,1,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,78.54,0,2,Group,0,1,0,1,EUR
 0,61,October,1,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Contract,89.25,0,2,Group,0,1,0,1,EUR
@@ -45653,7 +45653,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,100,December,2,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Contract,63.75,0,2,Single,0,1,0,1,EUR
 0,100,December,2,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Contract,72.25,0,2,Group,0,1,0,1,EUR
 0,100,December,2,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Contract,72.25,0,2,Group,0,1,0,1,EUR
-1,6,December,1,0,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,104.25,0,1,Family,0,1,0,1,PRT
+1,6,December,1,0,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,104.25,0,1,Group,0,1,0,1,PRT
 1,8,December,1,0,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,104.25,0,1,Group,0,1,0,1,PRT
 0,11,December,2,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,62.37,0,1,Single,0,1,0,1,EUR
 0,1,December,1,0,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,81.0,0,0,Single,1,1,0,1,EUR
@@ -45671,7 +45671,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,6,December,0,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,97.0,0,0,Single,0,1,0,1,OTH
 1,124,December,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,72.25,0,1,Group,0,1,0,1,PRT
 0,8,December,0,3,BB,Direct,Direct,0,0,0,4,No Deposit,0,Transient,95.0,0,0,Group,0,1,0,1,OTH
-0,6,December,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,77.0,0,2,Family,0,1,0,1,PRT
+0,6,December,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,77.0,0,2,Group,0,1,0,1,PRT
 0,6,December,0,1,BB,Online TA,TA/TO,0,0,0,3,No Deposit,0,Transient-Party,86.5,1,0,Group,0,1,0,1,PRT
 0,2,December,0,1,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,74.25,0,0,Family,0,1,0,1,PRT
 0,9,December,0,1,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,85.0,0,1,Group,0,1,0,1,PRT
@@ -45707,7 +45707,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,19,December,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,77.25,0,1,Group,0,1,0,1,OTH
 0,15,December,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,97.0,0,0,Group,0,1,0,1,PRT
 0,1,December,0,3,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,86.25,1,0,Group,0,1,0,1,EUR
-0,1,December,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,6.0,0,0,Family,0,1,0,1,EUR
+0,1,December,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,6.0,0,0,Group,0,1,0,1,EUR
 1,10,December,0,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,87.0,0,0,Group,0,1,0,1,EUR
 0,125,December,0,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Contract,72.25,0,2,Group,0,1,0,1,EUR
 1,10,December,0,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,87.0,0,0,Group,0,1,0,1,EUR
@@ -45717,7 +45717,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,0,December,0,1,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,85.0,0,0,Group,0,1,0,1,PRT
 0,2,December,0,1,SC,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,67.5,0,1,Group,0,1,0,1,PRT
 1,12,December,0,2,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,77.25,0,1,Group,0,1,0,1,EUR
-1,12,December,0,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,77.25,0,1,Family,0,1,0,1,EUR
+1,12,December,0,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,77.25,0,1,Group,0,1,0,1,EUR
 0,5,December,0,2,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,72.75,1,1,Group,0,1,0,1,PRT
 0,2,December,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,66.99,0,1,Group,0,1,0,1,EUR
 1,115,December,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Contract,72.25,0,1,Group,0,1,0,1,PRT
@@ -45741,7 +45741,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,11,December,2,1,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,92.58,0,1,Family,0,1,0,1,EUR
 0,22,December,2,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,59.09,0,0,Group,0,1,0,1,EUR
 0,119,December,2,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,72.25,0,3,Group,0,1,0,1,EUR
-0,7,December,2,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,83.58,0,0,Family,0,1,0,1,EUR
+0,7,December,2,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,83.58,0,0,Group,0,1,0,1,EUR
 0,14,December,2,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,111.67,1,0,Group,0,1,0,1,EUR
 0,14,December,2,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,93.67,0,1,Group,0,1,0,1,EUR
 1,14,December,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,99.5,0,0,Group,0,1,0,1,EUR
@@ -46009,7 +46009,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,0,January,1,0,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,81.0,0,0,Single,1,1,0,1,PRT
 0,2,January,1,0,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,79.6,0,0,Group,0,1,0,1,PRT
 1,1,January,1,0,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,75.0,0,0,Group,0,1,0,1,OTH
-0,30,January,1,0,BB,Online TA,TA/TO,0,0,0,2,No Deposit,0,Transient-Party,15.0,0,1,Family,0,1,0,1,PRT
+0,30,January,1,0,BB,Online TA,TA/TO,0,0,0,2,No Deposit,0,Transient-Party,15.0,0,1,Group,0,1,0,1,PRT
 0,0,January,1,0,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,97.0,0,0,Group,0,1,0,1,EUR
 0,31,January,1,0,BB,Online TA,TA/TO,0,0,0,4,No Deposit,0,Transient-Party,71.52,0,1,Group,0,1,0,1,OTH
 0,2,January,1,0,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,71.6,0,0,Group,0,1,0,1,EUR
@@ -46067,7 +46067,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,0,January,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,73.9,0,1,Single,0,1,0,1,PRT
 0,0,January,0,1,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,75.0,0,0,Single,0,0,0,1,OTH
 0,1,January,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,89.0,0,0,Group,1,1,0,1,OTH
-0,33,January,0,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,6.0,0,1,Family,0,1,0,1,OTH
+0,33,January,0,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,6.0,0,1,Group,0,1,0,1,OTH
 0,0,January,0,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,80.3,0,1,Group,0,1,0,1,EUR
 0,24,January,0,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,89.0,0,0,Group,0,1,0,1,OTH
 0,24,January,0,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,115.5,1,1,Group,0,1,0,1,OTH
@@ -46080,7 +46080,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,1,January,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,82.0,0,0,Single,0,1,0,1,OTH
 0,0,January,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,88.0,0,0,Single,0,1,0,1,PRT
 0,0,January,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,88.25,0,0,Group,0,1,0,1,EUR
-0,0,January,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,6.0,0,0,Family,0,1,0,1,EUR
+0,0,January,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,6.0,0,0,Group,0,1,0,1,EUR
 1,5,January,0,1,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,75.0,0,0,Group,0,1,0,1,EUR
 0,2,January,0,3,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,77.25,0,0,Group,0,1,0,1,OTH
 0,6,January,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,89.0,0,0,Group,0,1,0,1,EUR
@@ -46167,16 +46167,16 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,10,January,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,89.3,0,0,Group,0,1,0,1,PRT
 1,9,January,0,2,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,67.5,0,0,Group,0,1,0,1,PRT
 1,9,January,0,2,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,67.5,0,0,Group,0,1,0,1,PRT
-0,40,January,0,3,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,6.0,0,1,Family,0,1,0,1,EUR
+0,40,January,0,3,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,6.0,0,1,Group,0,1,0,1,EUR
 1,43,January,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,86.75,0,0,Family,0,1,0,1,EUR
-0,40,January,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,6.0,0,1,Family,0,1,0,1,EUR
+0,40,January,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,6.0,0,1,Group,0,1,0,1,EUR
 0,40,January,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,77.55,0,1,Group,0,1,0,1,EUR
 0,40,January,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,77.55,0,1,Group,0,1,0,1,EUR
 1,43,January,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,86.75,0,0,Family,0,1,0,1,EUR
 1,43,January,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,86.75,0,0,Group,0,1,0,1,EUR
 1,43,January,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,86.75,0,0,Family,0,1,0,1,EUR
 1,43,January,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,86.75,0,1,Family,0,1,0,1,EUR
-0,40,January,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,6.67,0,1,Family,0,1,0,1,EUR
+0,40,January,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,6.67,0,1,Group,0,1,0,1,EUR
 1,43,January,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,86.75,0,1,Group,0,1,0,1,EUR
 0,40,January,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,77.55,0,1,Group,0,1,0,1,EUR
 1,38,January,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,78.3,0,1,Group,0,1,0,1,EUR
@@ -46209,7 +46209,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,9,January,1,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,87.0,0,0,Group,0,1,0,1,EUR
 1,43,January,1,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,60.29,0,0,Group,0,1,0,1,PRT
 1,12,January,2,2,SC,Online TA,TA/TO,0,0,0,2,No Deposit,0,Transient-Party,77.0,0,0,Group,0,1,0,1,OTH
-1,11,January,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,77.25,0,0,Family,0,1,0,1,OTH
+1,11,January,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,77.25,0,0,Group,0,1,0,1,OTH
 1,12,January,2,2,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,75.0,0,0,Family,0,1,0,1,OTH
 0,18,January,2,3,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,169.0,0,0,Family,0,1,0,1,OTH
 0,18,January,2,3,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,89.0,0,1,Group,0,1,0,1,OTH
@@ -46261,7 +46261,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,15,January,1,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,87.0,0,0,Group,0,1,0,1,OTH
 0,150,January,1,2,BB,Offline TA/TO,TA/TO,0,0,0,2,No Deposit,63,Transient-Party,71.0,0,0,Single,0,1,0,1,EUR
 1,16,January,1,3,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,86.25,0,0,Group,0,1,0,1,OTH
-1,16,January,1,3,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,77.25,0,0,Family,0,1,0,1,OTH
+1,16,January,1,3,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,77.25,0,0,Group,0,1,0,1,OTH
 0,0,January,1,3,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,89.0,0,0,Group,0,0,0,1,OTH
 1,150,January,1,4,BB,Offline TA/TO,TA/TO,0,0,0,1,No Deposit,63,Transient-Party,80.0,0,0,Single,0,1,0,1,PRT
 0,18,January,1,2,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,87.0,0,1,Group,0,1,0,1,PRT
@@ -46567,7 +46567,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,8,February,0,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,127.0,0,1,Group,0,1,0,1,EUR
 1,31,February,0,2,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,67.5,0,0,Group,0,1,0,1,EUR
 1,8,February,0,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,91.0,0,1,Group,0,1,0,1,EUR
-1,43,February,1,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,69.53,0,0,Family,0,1,0,1,EUR
+1,43,February,1,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,69.53,0,0,Group,0,1,0,1,EUR
 0,60,February,1,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,78.3,0,0,Group,0,1,0,1,OTH
 0,33,February,1,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,80.3,0,1,Group,0,1,0,1,EUR
 1,12,February,1,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,85.0,0,0,Single,0,1,0,1,OTH
@@ -46595,7 +46595,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,12,February,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,109.0,0,0,Family,0,1,0,1,PRT
 1,32,February,1,1,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,67.5,0,2,Group,0,1,0,1,OTH
 1,15,February,1,1,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,79.0,0,0,Single,0,1,0,1,EUR
-0,35,February,1,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,69.5,0,1,Family,0,1,0,1,PRT
+0,35,February,1,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,69.5,0,1,Group,0,1,0,1,PRT
 0,33,February,1,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,98.3,1,1,Group,0,1,0,1,EUR
 1,85,February,1,1,BB,Offline TA/TO,TA/TO,0,0,0,1,No Deposit,0,Contract,57.0,0,0,Group,1,1,0,1,PRT
 1,16,February,1,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,85.0,0,0,Single,0,1,0,1,EUR
@@ -46631,7 +46631,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,35,February,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,80.3,0,1,Group,0,1,0,1,EUR
 0,46,February,2,3,BB,Direct,Direct,0,0,0,1,No Deposit,0,Transient,65.11,0,0,Group,0,1,0,1,EUR
 1,46,February,2,3,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,79.35,0,1,Group,0,1,0,1,EUR
-0,46,February,2,3,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,63.12,0,0,Family,0,1,0,1,PRT
+0,46,February,2,3,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,63.12,0,0,Single,0,1,0,1,PRT
 1,27,February,4,5,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,70.0,0,0,Single,0,1,0,1,OTH
 0,33,February,1,0,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,80.3,0,1,Group,0,1,0,1,EUR
 0,39,February,1,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,64.64,0,1,Group,0,1,0,1,OTH
@@ -46642,7 +46642,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,56,February,1,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,71.52,0,0,Group,0,1,0,1,OTH
 1,31,February,1,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,72.9,0,0,Single,0,1,0,1,EUR
 0,33,February,1,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,80.3,0,1,Group,0,1,0,1,PRT
-1,44,February,1,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,66.5,0,1,Family,0,1,0,1,EUR
+1,44,February,1,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,66.5,0,1,Group,0,1,0,1,EUR
 0,37,February,1,4,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,78.5,1,1,Group,0,1,0,1,EUR
 0,34,February,1,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,73.9,0,0,Single,0,1,0,1,EUR
 0,33,February,1,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,75.23,0,2,Family,0,1,0,1,EUR
@@ -46654,7 +46654,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,1,February,0,1,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,79.0,0,0,Group,0,1,0,1,EUR
 1,17,February,0,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,136.0,0,0,Group,0,1,0,1,OTH
 0,41,February,0,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,57.83,0,1,Single,0,1,0,1,EUR
-0,64,February,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,69.5,0,1,Family,0,1,0,1,EUR
+0,64,February,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,69.5,0,1,Group,0,1,0,1,EUR
 1,1,February,0,3,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,79.0,0,0,Single,0,0,0,1,PRT
 1,1,February,0,3,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,79.0,0,0,Single,0,0,0,1,PRT
 0,66,February,0,3,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,80.55,1,1,Group,0,1,0,1,EUR
@@ -46696,7 +46696,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,41,February,1,3,BB,Direct,Direct,0,0,0,1,No Deposit,0,Transient-Party,67.15,0,0,Group,0,1,0,1,EUR
 0,35,February,1,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,61.16,0,0,Group,0,1,0,1,EUR
 0,44,February,1,3,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,67.5,0,0,Group,0,1,0,1,EUR
-0,40,February,1,3,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient-Party,67.15,0,0,Family,0,1,0,1,OTH
+0,40,February,1,3,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient-Party,67.15,0,0,Group,0,1,0,1,OTH
 1,70,February,0,3,SC,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,78.3,0,1,Group,0,1,0,1,EUR
 0,39,February,2,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,80.3,0,1,Group,0,1,0,1,EUR
 1,38,February,2,3,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,67.5,0,0,Group,0,1,0,1,EUR
@@ -46722,7 +46722,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,19,February,0,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,91.0,0,1,Group,0,1,0,1,EUR
 1,15,February,0,2,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,79.0,0,0,Group,0,1,0,1,OTH
 1,40,February,1,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,78.3,0,1,Group,0,1,0,1,EUR
-0,37,February,1,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,69.5,0,1,Family,0,1,0,1,OTH
+0,37,February,1,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,69.5,0,1,Group,0,1,0,1,OTH
 0,42,February,1,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,71.6,0,0,Group,0,1,0,1,PRT
 1,9,February,1,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,85.0,0,1,Single,0,1,0,1,EUR
 1,17,February,1,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,93.0,0,0,Group,0,1,0,1,EUR
@@ -46955,7 +46955,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,7,February,2,0,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,79.0,0,2,Group,0,1,0,1,OTH
 0,73,February,2,1,BB,Online TA,TA/TO,0,0,0,3,No Deposit,0,Transient-Party,71.52,0,1,Group,0,1,0,1,EUR
 1,19,February,2,0,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,100.0,0,1,Group,0,1,0,1,EUR
-0,73,February,2,1,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,69.53,0,1,Family,0,1,0,1,PRT
+0,73,February,2,1,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,69.53,0,1,Group,0,1,0,1,PRT
 1,9,February,2,1,BB,Online TA,TA/TO,0,0,0,3,No Deposit,0,Transient-Party,85.0,0,0,Single,0,1,0,1,EUR
 0,76,February,2,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,80.3,0,1,Group,0,1,0,1,EUR
 1,9,February,2,1,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,79.0,0,0,Single,0,1,0,1,EUR
@@ -47089,7 +47089,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,54,February,2,1,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,73.5,0,1,Group,0,1,0,1,EUR
 1,66,February,2,2,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,65.66,0,0,Group,0,1,0,1,EUR
 1,115,February,2,2,BB,Offline TA/TO,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,60.0,0,0,Single,1,1,0,1,PRT
-1,65,February,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,65.66,0,0,Family,0,1,0,1,EUR
+1,65,February,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,65.66,0,0,Group,0,1,0,1,EUR
 1,115,February,2,2,BB,Offline TA/TO,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,61.0,0,0,Single,1,1,0,1,PRT
 1,115,February,2,3,BB,Offline TA/TO,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,60.0,0,0,Single,0,1,0,1,PRT
 0,57,February,2,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,59.21,0,1,Group,0,1,0,1,EUR
@@ -47338,7 +47338,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,62,March,1,2,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,69.5,0,1,Group,0,1,0,1,PRT
 1,29,March,1,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,104.73,0,0,Family,0,1,0,1,OTH
 0,62,March,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,58.94,0,1,Group,0,1,0,1,EUR
-1,7,March,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,85.96,0,1,Family,0,1,0,1,OTH
+1,7,March,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,85.96,0,1,Group,0,1,0,1,OTH
 1,8,March,2,2,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,85.96,0,1,Group,0,1,0,1,OTH
 1,14,March,2,7,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,88.33,0,0,Single,0,1,0,1,OTH
 1,14,March,2,7,HB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,132.33,0,0,Group,0,1,0,1,OTH
@@ -47745,7 +47745,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,38,March,2,3,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,184.0,0,0,Family,0,1,0,1,EUR
 1,83,March,2,5,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,76.38,0,0,Group,0,1,0,1,EUR
 1,5,March,0,1,BB,Groups,TA/TO,0,0,0,0,Non Refund,0,Transient,90.0,0,0,Single,0,1,0,1,PRT
-1,72,March,0,1,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,78.0,0,0,Family,0,1,0,1,PRT
+1,72,March,0,1,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,78.0,0,0,Group,0,1,0,1,PRT
 0,85,March,0,1,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,67.5,0,0,Group,0,1,0,1,EUR
 1,72,March,0,1,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,78.15,0,0,Group,0,1,0,1,PRT
 1,17,March,1,1,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,97.0,0,0,Single,0,1,0,1,EUR
@@ -47754,7 +47754,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,45,March,1,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,131.4,0,1,Group,0,1,0,1,EUR
 1,5,March,2,1,BB,Groups,TA/TO,0,0,0,0,Non Refund,0,Transient,90.0,0,0,Group,0,1,0,1,PRT
 1,5,March,2,1,BB,Groups,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,90.0,0,0,Group,0,1,0,1,PRT
-1,75,March,2,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,78.0,0,0,Family,0,1,0,1,OTH
+1,75,March,2,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,78.0,0,0,Group,0,1,0,1,OTH
 1,393,March,2,1,BB,Groups,TA/TO,0,0,0,0,Non Refund,0,Transient,70.53,0,0,Group,0,1,0,1,PRT
 1,393,March,2,1,BB,Groups,TA/TO,0,0,0,2,Non Refund,0,Transient,70.53,0,0,Group,0,1,0,1,PRT
 1,393,March,2,1,BB,Groups,TA/TO,0,0,0,0,Non Refund,0,Transient,62.8,0,0,Group,0,1,0,1,PRT
@@ -47976,7 +47976,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,37,March,2,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,127.8,0,2,Family,0,1,0,1,EUR
 1,36,March,2,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,125.1,0,1,Group,0,1,0,1,EUR
 0,108,March,2,5,BB,Direct,Direct,0,0,0,1,No Deposit,0,Transient-Party,75.99,0,1,Group,0,1,0,1,EUR
-0,107,March,2,5,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient-Party,75.0,0,1,Family,0,1,0,1,EUR
+0,107,March,2,5,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient-Party,75.0,0,1,Group,0,1,0,1,EUR
 1,36,March,2,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,125.1,0,2,Group,0,1,0,1,EUR
 0,81,March,2,5,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,89.31,0,0,Group,0,1,0,1,EUR
 1,36,March,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,115.2,0,0,Family,0,1,0,1,EUR
@@ -48029,7 +48029,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,108,March,2,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,120.0,0,1,Group,0,1,0,1,EUR
 1,85,March,2,3,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,157.25,0,1,Family,0,1,0,1,EUR
 1,85,March,2,3,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,97.75,0,0,Group,0,1,0,1,EUR
-0,108,March,2,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,120.0,0,1,Family,0,1,0,1,PRT
+0,108,March,2,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,120.0,0,1,Group,0,1,0,1,PRT
 1,85,March,2,3,BB,Online TA,TA/TO,0,0,0,2,No Deposit,0,Transient-Party,157.25,0,0,Family,0,1,0,1,EUR
 0,106,March,1,3,BB,Direct,Direct,0,0,0,2,No Deposit,0,Transient,108.5,0,0,Group,1,1,0,1,EUR
 1,83,March,1,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,93.6,0,0,Group,0,1,0,1,EUR
@@ -48151,7 +48151,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,81,March,2,2,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,4,Transient-Party,65.0,0,0,Group,0,1,0,1,PRT
 1,81,March,2,2,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,4,Transient-Party,65.0,0,0,Group,0,1,0,1,PRT
 1,81,March,2,2,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,4,Transient-Party,65.0,0,0,Group,0,1,0,1,PRT
-0,34,March,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,79.8,0,2,Family,0,1,0,1,EUR
+0,34,March,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,79.8,0,2,Group,0,1,0,1,EUR
 1,81,March,2,2,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,4,Transient-Party,65.0,0,0,Group,0,1,0,1,PRT
 1,80,March,2,2,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient,74.8,0,0,Group,0,1,0,1,PRT
 1,39,March,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,134.1,0,0,Family,0,1,0,1,EUR
@@ -48296,7 +48296,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,123,March,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,89.92,0,0,Group,0,1,0,1,PRT
 1,29,March,0,3,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,140.0,0,0,Group,0,1,0,1,OTH
 1,123,March,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,110.33,0,0,Group,0,1,0,1,PRT
-1,123,March,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,89.92,0,0,Family,0,1,0,1,PRT
+1,123,March,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,89.92,0,0,Group,0,1,0,1,PRT
 1,108,March,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,87.3,0,2,Group,0,1,0,1,OTH
 0,89,March,0,3,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,76.5,0,0,Group,0,1,0,1,EUR
 1,61,March,0,3,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,160.1,0,0,Group,0,1,0,1,EUR
@@ -48367,7 +48367,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,30,March,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,150.3,0,0,Group,0,1,0,1,EUR
 1,58,March,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,123.3,0,2,Group,0,1,0,1,EUR
 1,76,March,0,3,SC,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,80.1,0,0,Group,0,1,0,1,PRT
-0,113,March,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,78.0,0,1,Family,0,1,0,1,EUR
+0,113,March,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,78.0,0,1,Group,0,1,0,1,EUR
 1,173,March,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Contract,100.8,0,2,Group,0,1,0,1,PRT
 1,60,March,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,107.1,0,1,Family,0,1,0,1,EUR
 0,90,March,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,96.3,0,0,Group,0,1,0,1,EUR
@@ -48421,7 +48421,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,48,April,2,3,BB,Online TA,TA/TO,0,0,0,2,No Deposit,0,Transient,131.4,0,0,Group,0,1,0,1,EUR
 1,75,April,2,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,82.45,0,0,Group,0,1,0,1,EUR
 1,50,April,2,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,101.31,0,0,Group,0,1,0,1,OTH
-0,109,April,2,4,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,73.74,0,1,Family,0,1,0,1,EUR
+0,109,April,2,4,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,73.74,0,1,Single,0,1,0,1,EUR
 0,111,April,2,4,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,73.74,0,1,Group,0,1,0,1,EUR
 1,64,April,4,10,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,109.65,0,1,Single,0,1,0,1,PRT
 1,31,April,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,117.9,0,0,Group,0,1,0,1,PRT
@@ -48528,7 +48528,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,101,April,1,2,BB,Offline TA/TO,TA/TO,0,0,0,0,Non Refund,41,Transient,80.0,0,0,Group,0,1,0,1,PRT
 1,101,April,1,2,BB,Offline TA/TO,TA/TO,0,0,0,0,Non Refund,41,Transient,80.0,0,0,Group,0,1,0,1,PRT
 1,101,April,1,2,BB,Offline TA/TO,TA/TO,0,0,0,0,Non Refund,41,Transient,80.0,0,0,Group,0,1,0,1,PRT
-1,147,April,1,3,BB,Online TA,TA/TO,0,0,0,2,No Deposit,0,Transient-Party,6.0,0,1,Family,0,1,0,1,PRT
+1,147,April,1,3,BB,Online TA,TA/TO,0,0,0,2,No Deposit,0,Transient-Party,6.0,0,1,Group,0,1,0,1,PRT
 1,91,April,1,2,BB,Offline TA/TO,TA/TO,0,0,0,0,Non Refund,0,Transient,80.0,0,0,Group,0,1,0,1,PRT
 1,147,April,1,3,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,96.5,0,1,Group,0,1,0,1,PRT
 0,111,April,1,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,82.45,0,1,Group,0,1,0,1,EUR
@@ -48536,7 +48536,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,50,April,1,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,112.2,0,0,Group,0,1,0,1,EUR
 1,5,April,1,3,BB,Aviation,Corporate,0,0,0,0,No Deposit,0,Transient-Party,95.0,0,0,Single,0,0,1,1,PRT
 0,111,April,1,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,82.45,0,1,Group,0,1,0,1,EUR
-0,91,April,1,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,73.74,0,0,Family,0,1,0,1,EUR
+0,91,April,1,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,73.74,0,0,Group,0,1,0,1,EUR
 0,93,April,1,3,BB,Online TA,TA/TO,0,0,0,3,No Deposit,0,Transient-Party,73.74,0,0,Group,0,1,0,1,PRT
 0,89,April,1,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,82.45,0,0,Group,0,1,0,1,EUR
 0,90,April,1,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,82.45,0,1,Group,1,1,0,1,EUR
@@ -48924,7 +48924,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,76,April,0,4,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,80.75,0,0,Group,0,1,0,1,OTH
 1,78,April,0,4,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,62.18,0,0,Group,0,1,0,1,PRT
 0,120,April,0,4,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,80.75,0,1,Group,0,1,0,1,EUR
-0,123,April,0,5,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,81.5,0,1,Family,0,1,0,1,EUR
+0,123,April,0,5,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,81.5,0,1,Group,0,1,0,1,EUR
 0,125,April,0,5,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,99.45,0,0,Group,0,1,0,1,EUR
 1,9,April,0,5,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,143.6,0,0,Group,0,1,0,1,OTH
 1,90,April,0,4,BB,Online TA,TA/TO,0,0,0,2,No Deposit,0,Transient,99.45,0,0,Group,0,1,0,1,EUR
@@ -49683,7 +49683,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,57,April,2,1,HB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,228.6,0,0,Family,0,1,0,1,EUR
 1,68,April,2,2,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient,79.56,0,0,Family,0,1,0,1,PRT
 1,80,April,2,2,HB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,173.19,0,0,Family,0,1,0,1,OTH
-1,68,April,2,2,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,108.38,0,1,Family,0,1,0,1,EUR
+1,68,April,2,2,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,108.38,0,1,Group,0,1,0,1,EUR
 0,111,April,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,85.86,0,0,Group,0,1,0,1,EUR
 1,198,April,2,2,BB,Direct,Direct,0,0,0,2,No Deposit,0,Group,95.4,0,0,Group,0,1,0,1,PRT
 1,11,April,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,203.5,0,0,Family,0,1,0,1,EUR
@@ -50851,7 +50851,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,29,May,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,156.0,0,0,Group,0,1,0,1,OTH
 1,10,May,0,2,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,119.5,0,0,Group,0,1,0,1,EUR
 1,81,May,0,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,126.9,0,0,Group,0,1,0,1,EUR
-1,9,May,0,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,119.5,0,0,Family,0,1,0,1,EUR
+1,9,May,0,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,119.5,0,0,Group,0,1,0,1,EUR
 1,57,May,0,2,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient,111.6,0,0,Group,1,1,0,1,PRT
 1,40,May,0,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,140.4,0,0,Group,0,1,0,1,EUR
 1,37,May,0,2,BB,Corporate,Corporate,0,0,0,0,No Deposit,0,Transient,89.0,0,0,Single,0,0,1,1,PRT
@@ -51106,7 +51106,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,28,May,2,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,117.74,0,0,Group,0,1,0,1,EUR
 1,59,May,2,3,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,116.1,0,1,Group,0,1,0,1,OTH
 1,23,May,2,4,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,128.49,0,0,Group,0,1,0,1,OTH
-1,23,May,2,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,128.49,0,0,Family,0,1,0,1,OTH
+1,23,May,2,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,128.49,0,0,Group,0,1,0,1,OTH
 1,138,May,2,5,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,117.91,0,1,Group,0,1,0,1,EUR
 1,76,May,1,0,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,116.1,0,0,Group,0,1,0,1,OTH
 1,2,May,1,0,BB,Aviation,Corporate,0,0,0,0,No Deposit,0,Transient,110.0,0,0,Single,0,0,1,1,PRT
@@ -51677,7 +51677,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,113,May,0,3,BB,Corporate,TA/TO,0,0,0,0,Non Refund,0,Transient,100.0,0,0,Single,0,0,1,1,PRT
 1,113,May,0,3,BB,Corporate,TA/TO,0,0,0,0,Non Refund,0,Transient,100.0,0,0,Single,0,0,1,1,PRT
 1,124,May,0,3,BB,Online TA,TA/TO,0,0,0,2,No Deposit,0,Transient,143.1,0,1,Family,0,1,0,1,EUR
-0,150,May,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,95.82,0,1,Family,0,1,0,1,EUR
+0,150,May,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,95.82,0,1,Group,0,1,0,1,EUR
 1,113,May,0,3,BB,Corporate,TA/TO,0,0,0,0,Non Refund,0,Transient,100.0,0,0,Single,0,0,1,1,PRT
 1,113,May,0,3,BB,Corporate,TA/TO,0,0,0,0,Non Refund,0,Transient,100.0,0,0,Single,0,0,1,1,PRT
 1,21,May,0,3,BB,Online TA,TA/TO,0,0,0,2,No Deposit,0,Transient,139.0,0,0,Family,0,1,0,1,OTH
@@ -52855,7 +52855,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,15,June,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,177.0,0,0,Group,0,1,0,1,OTH
 1,71,June,2,2,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,93.08,0,1,Family,0,1,0,1,PRT
 1,71,June,2,2,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,80.75,0,1,Group,0,1,0,1,PRT
-1,45,June,2,2,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient-Party,6.0,0,1,Family,0,0,0,1,PRT
+1,45,June,2,2,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient-Party,6.0,0,1,Group,0,0,0,1,PRT
 1,26,June,2,4,BB,Online TA,TA/TO,0,0,0,2,No Deposit,0,Transient,161.6,0,0,Group,0,1,0,1,EUR
 1,161,June,2,5,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,95.69,0,2,Group,0,1,0,1,EUR
 1,38,June,2,5,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,126.77,0,1,Single,0,1,0,1,OTH
@@ -53162,7 +53162,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,65,June,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,137.7,0,0,Group,0,1,0,1,PRT
 1,116,June,2,2,BB,Online TA,TA/TO,0,0,0,2,No Deposit,0,Transient,184.24,0,1,Family,0,1,0,1,EUR
 1,60,June,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,108.9,0,1,Group,0,1,0,1,EUR
-1,115,June,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,92.12,0,0,Family,0,1,0,1,EUR
+1,115,June,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,92.12,0,0,Group,0,1,0,1,EUR
 1,99,June,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,130.05,0,0,Group,0,1,0,1,OTH
 1,55,June,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,108.9,0,1,Group,0,1,0,1,EUR
 1,31,June,2,2,HB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,192.6,0,0,Group,0,1,0,1,EUR
@@ -53521,7 +53521,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,140,July,1,5,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,116.45,0,1,Group,0,1,0,1,OTH
 1,101,July,2,5,BB,Online TA,TA/TO,0,0,0,2,No Deposit,0,Transient,114.3,0,0,Group,0,1,0,1,EUR
 1,140,July,1,5,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,116.45,0,0,Group,0,1,0,1,OTH
-0,193,July,3,10,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,81.82,0,2,Family,0,1,0,1,EUR
+0,193,July,3,10,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,81.82,0,2,Group,0,1,0,1,EUR
 0,196,July,3,10,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,81.81,0,3,Group,0,1,0,1,EUR
 1,188,July,7,17,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,90.95,0,1,Group,0,1,0,1,OTH
 1,47,July,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,134.1,0,0,Family,0,1,0,1,EUR
@@ -53643,7 +53643,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,365,July,0,2,BB,Groups,TA/TO,0,0,0,0,Non Refund,0,Transient,62.0,0,0,Group,0,1,0,1,PRT
 1,365,July,0,2,BB,Groups,TA/TO,0,0,0,0,Non Refund,0,Transient,62.0,0,0,Group,0,1,0,1,PRT
 1,365,July,0,2,BB,Groups,TA/TO,0,0,0,0,Non Refund,0,Transient,62.0,0,0,Group,0,1,0,1,PRT
-0,187,July,0,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,86.5,0,1,Family,1,1,0,1,PRT
+0,187,July,0,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,86.5,0,1,Group,1,1,0,1,PRT
 1,365,July,0,2,BB,Groups,TA/TO,0,0,0,0,Non Refund,0,Transient,62.0,0,0,Group,0,1,0,1,PRT
 1,365,July,0,2,BB,Groups,TA/TO,0,0,0,0,Non Refund,0,Transient,62.0,0,0,Group,0,1,0,1,PRT
 1,365,July,0,2,BB,Groups,TA/TO,0,0,0,0,Non Refund,0,Transient,62.0,0,0,Group,0,1,0,1,PRT
@@ -53657,11 +53657,11 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,365,July,0,2,BB,Groups,TA/TO,0,0,0,0,Non Refund,0,Transient,62.0,0,0,Group,0,1,0,1,PRT
 1,365,July,0,2,BB,Groups,TA/TO,0,0,0,0,Non Refund,0,Transient,62.0,0,0,Group,0,1,0,1,PRT
 1,365,July,0,2,BB,Groups,TA/TO,0,0,0,0,Non Refund,0,Transient,62.0,0,0,Group,0,1,0,1,PRT
-1,187,July,0,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,86.5,0,0,Family,0,1,0,1,EUR
+1,187,July,0,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,86.5,0,0,Group,0,1,0,1,EUR
 1,188,July,0,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,168.3,0,0,Family,0,1,0,1,EUR
 0,188,July,0,2,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,86.75,0,1,Group,1,1,0,1,EUR
 1,365,July,0,2,BB,Groups,TA/TO,0,0,0,0,Non Refund,0,Transient,62.0,0,0,Group,0,1,0,1,PRT
-0,187,July,0,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,86.5,0,1,Family,0,1,0,1,PRT
+0,187,July,0,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,86.5,0,1,Group,0,1,0,1,PRT
 1,365,July,0,2,BB,Groups,TA/TO,0,0,0,0,Non Refund,0,Transient,62.0,0,0,Group,0,1,0,1,PRT
 1,365,July,0,2,BB,Groups,TA/TO,0,0,0,0,Non Refund,0,Transient,62.0,0,0,Group,0,1,0,1,PRT
 1,365,July,0,2,BB,Groups,TA/TO,0,0,0,0,Non Refund,0,Transient,62.0,0,0,Group,0,1,0,1,PRT
@@ -53745,7 +53745,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,49,July,1,1,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,105.3,0,0,Group,0,1,0,1,EUR
 1,17,July,1,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,166.0,0,0,Group,0,1,0,1,EUR
 1,17,July,1,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,187.0,0,0,Group,0,1,0,1,EUR
-1,194,July,2,1,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,86.63,0,0,Family,0,1,0,1,EUR
+1,194,July,2,1,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,86.63,0,0,Group,0,1,0,1,EUR
 1,194,July,2,1,BB,Online TA,TA/TO,0,0,0,4,No Deposit,0,Transient,86.62,0,0,Group,0,1,0,1,EUR
 0,193,July,2,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,70.44,0,0,Group,0,1,0,1,EUR
 0,193,July,2,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,70.44,0,1,Group,0,1,0,1,EUR
@@ -53931,7 +53931,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,193,July,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,86.5,0,0,Group,1,1,0,1,EUR
 1,106,July,0,1,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,94.5,0,0,Group,0,1,0,1,EUR
 1,131,July,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,177.3,0,0,Family,0,1,0,1,EUR
-0,193,July,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,86.5,0,0,Family,1,1,0,1,EUR
+0,193,July,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,86.5,0,0,Group,1,1,0,1,EUR
 0,194,July,0,1,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,86.75,0,0,Group,0,1,0,1,EUR
 1,18,July,0,2,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,139.0,0,1,Group,0,1,0,1,EUR
 1,32,July,1,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,168.3,0,0,Group,0,1,0,1,EUR
@@ -53993,7 +53993,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,139,July,4,9,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,131.36,0,0,Group,0,1,0,1,EUR
 1,68,July,2,5,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,123.17,0,0,Group,0,1,0,1,EUR
 1,134,July,1,0,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,94.5,0,1,Group,0,1,0,1,OTH
-0,197,July,1,0,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,86.5,0,0,Family,0,1,0,1,EUR
+0,197,July,1,0,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,86.5,0,0,Group,0,1,0,1,EUR
 1,25,July,1,0,SC,Direct,Direct,0,0,0,0,No Deposit,0,Transient,139.0,0,0,Group,0,1,0,1,OTH
 1,179,July,1,0,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,85.5,0,1,Group,1,1,0,1,EUR
 0,198,July,1,0,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,86.75,0,0,Group,0,1,0,1,EUR
@@ -54116,7 +54116,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,99,July,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,130.5,0,0,Family,0,1,0,1,EUR
 0,202,July,0,1,BB,Online TA,TA/TO,0,0,0,4,No Deposit,0,Transient-Party,86.75,0,0,Group,1,1,0,1,EUR
 1,379,July,0,1,BB,Groups,TA/TO,0,0,0,0,Non Refund,0,Transient,59.0,0,0,Single,0,1,0,1,PRT
-0,201,July,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,86.5,0,0,Family,1,1,0,1,PRT
+0,201,July,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,86.5,0,0,Group,1,1,0,1,PRT
 1,150,July,0,1,SC,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient,63.75,0,0,Group,0,1,0,1,PRT
 1,379,July,0,1,BB,Groups,TA/TO,0,0,0,0,Non Refund,0,Transient,59.0,0,0,Single,0,1,0,1,PRT
 1,379,July,0,2,BB,Groups,TA/TO,0,0,0,0,Non Refund,0,Transient,62.0,0,0,Group,0,1,0,1,PRT
@@ -54247,7 +54247,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,64,July,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,121.5,0,0,Family,0,1,0,1,OTH
 1,101,July,2,3,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient,72.25,0,0,Group,0,1,0,1,PRT
 1,135,July,2,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,99.45,0,0,Group,0,1,0,1,OTH
-1,59,July,2,4,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,9.0,0,2,Family,0,0,0,1,PRT
+1,59,July,2,4,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,9.0,0,2,Group,0,0,0,1,PRT
 1,59,July,2,4,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,103.5,0,2,Group,0,0,0,1,PRT
 1,156,July,4,5,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,114.75,0,0,Family,0,1,0,1,EUR
 0,206,July,1,0,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,96.3,0,2,Group,0,1,0,1,EUR
@@ -54298,7 +54298,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,70,July,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,137.7,0,0,Group,0,1,0,1,EUR
 1,40,July,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,168.3,0,0,Group,0,1,0,1,EUR
 1,62,July,0,3,BB,Online TA,TA/TO,0,0,0,2,No Deposit,0,Transient,114.3,0,1,Group,0,1,0,1,EUR
-1,230,July,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,86.5,0,1,Family,0,1,0,1,EUR
+1,230,July,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,86.5,0,1,Group,0,1,0,1,EUR
 1,65,July,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,146.7,0,0,Group,0,1,0,1,EUR
 1,30,July,0,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,135.9,0,1,Group,0,1,0,1,EUR
 1,182,July,0,4,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient-Party,85.25,0,0,Group,0,1,0,1,EUR
@@ -54408,8 +54408,8 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,237,July,2,4,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,81.5,0,1,Group,0,1,0,1,EUR
 0,207,July,2,4,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,80.75,0,0,Group,0,1,0,1,EUR
 1,227,July,2,4,BB,Direct,Direct,0,0,0,2,No Deposit,0,Transient,79.26,0,0,Family,0,1,0,1,EUR
-0,236,July,2,4,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,6.0,0,1,Family,0,1,0,1,EUR
-1,225,July,2,4,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,79.27,0,1,Family,0,1,0,1,EUR
+0,236,July,2,4,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,6.0,0,1,Group,0,1,0,1,EUR
+1,225,July,2,4,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,79.27,0,1,Group,0,1,0,1,EUR
 1,188,July,2,5,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,90.95,0,0,Group,0,1,0,1,EUR
 1,188,July,2,5,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,90.95,0,0,Group,0,1,0,1,EUR
 1,17,July,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,129.0,0,2,Family,0,1,0,1,OTH
@@ -54520,7 +54520,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,114,August,0,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,266.3,0,0,Family,0,1,0,1,PRT
 1,173,August,0,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,105.3,0,0,Group,0,1,0,1,EUR
 1,20,August,0,2,BB,Corporate,Corporate,0,0,0,0,No Deposit,0,Transient,65.0,0,0,Single,0,1,0,1,PRT
-1,36,August,0,3,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,118.15,0,0,Family,0,1,0,1,EUR
+1,36,August,0,3,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,118.15,0,0,Group,0,1,0,1,EUR
 1,175,August,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,105.3,0,0,Group,0,1,0,1,EUR
 1,166,August,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,118.8,0,2,Group,0,1,0,1,EUR
 1,25,August,0,3,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,139.0,0,1,Single,0,1,0,1,EUR
@@ -54639,7 +54639,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,238,August,0,2,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,86.75,0,0,Group,0,1,0,1,EUR
 1,207,August,0,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,105.3,0,1,Group,0,1,0,1,OTH
 1,81,August,0,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,131.4,0,0,Group,0,1,0,1,EUR
-1,237,August,0,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,86.5,0,1,Family,0,1,0,1,EUR
+1,237,August,0,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,86.5,0,1,Group,0,1,0,1,EUR
 0,229,August,1,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,96.3,0,1,Group,0,1,0,1,EUR
 1,109,August,1,2,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,100.5,0,0,Group,0,1,0,1,OTH
 1,94,August,1,2,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,134.1,0,0,Family,0,1,0,1,OTH
@@ -54840,7 +54840,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,405,August,0,2,BB,Groups,TA/TO,0,0,0,0,Non Refund,0,Transient,65.0,0,0,Group,0,1,0,1,PRT
 1,405,August,0,2,BB,Groups,TA/TO,0,0,0,0,Non Refund,0,Transient,65.0,0,0,Group,0,1,0,1,PRT
 1,221,August,0,3,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,86.75,0,0,Group,0,1,0,1,OTH
-1,219,August,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,86.5,0,0,Family,0,1,0,1,OTH
+1,219,August,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,86.5,0,0,Group,0,1,0,1,OTH
 1,178,August,0,4,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,89.25,0,0,Group,0,1,0,1,EUR
 0,237,August,0,4,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,80.75,0,0,Group,0,1,0,1,OTH
 1,76,August,0,4,BB,Online TA,TA/TO,0,0,0,2,No Deposit,0,Transient,122.4,0,1,Group,0,1,0,1,EUR
@@ -54945,7 +54945,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,12,August,0,1,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,149.0,0,0,Group,0,0,0,1,PRT
 1,76,August,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,207.9,0,0,Family,0,1,0,1,EUR
 1,76,August,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,207.9,0,0,Family,0,1,0,1,EUR
-1,14,August,1,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,0.0,0,1,Family,0,1,0,1,PRT
+1,14,August,1,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,0.0,0,1,Group,0,1,0,1,PRT
 1,188,August,1,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,105.3,0,0,Group,0,1,0,1,OTH
 1,212,August,1,1,HB,Groups,TA/TO,0,0,0,0,Non Refund,0,Transient,96.0,0,0,Group,0,1,0,1,PRT
 1,212,August,1,1,HB,Groups,TA/TO,0,0,0,0,Non Refund,0,Transient,96.0,0,0,Group,0,1,0,1,PRT
@@ -55021,7 +55021,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,44,August,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,168.3,0,2,Group,0,1,0,1,EUR
 1,84,August,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,134.1,0,0,Family,0,1,0,1,EUR
 1,252,August,2,3,BB,Online TA,TA/TO,0,0,0,2,No Deposit,0,Transient-Party,163.63,0,1,Family,0,1,0,1,EUR
-1,251,August,2,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,81.5,0,1,Family,0,1,0,1,EUR
+1,251,August,2,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,81.5,0,1,Group,0,1,0,1,EUR
 1,164,August,2,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,106.53,0,0,Group,0,1,0,1,EUR
 1,111,August,2,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,150.3,0,0,Group,0,1,0,1,OTH
 1,158,August,2,4,HB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,138.83,0,0,Group,0,1,0,1,EUR
@@ -55247,7 +55247,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,303,August,2,3,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,78.0,0,0,Group,0,1,0,1,PRT
 1,303,August,2,3,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,78.0,0,0,Group,0,1,0,1,PRT
 1,303,August,2,3,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,78.0,0,0,Group,0,1,0,1,PRT
-1,151,August,2,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,99.3,0,1,Family,0,1,0,1,EUR
+1,151,August,2,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,99.3,0,1,Group,0,1,0,1,EUR
 1,157,August,2,3,HB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,217.6,0,0,Family,0,1,0,1,EUR
 1,303,August,2,3,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,78.0,0,0,Group,0,1,0,1,PRT
 1,303,August,2,3,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,78.0,0,0,Group,0,1,0,1,PRT
@@ -55389,7 +55389,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,13,August,0,2,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,129.0,0,2,Single,0,1,0,1,EUR
 1,3,August,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,163.67,0,0,Group,0,1,0,1,EUR
 1,19,August,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,156.0,0,2,Group,0,1,0,1,EUR
-1,178,August,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,94.62,0,1,Family,0,1,0,1,EUR
+1,178,August,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,94.62,0,1,Group,0,1,0,1,EUR
 1,178,August,0,3,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,94.62,0,0,Group,0,1,0,1,EUR
 1,133,August,0,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,100.8,0,0,Group,0,1,0,1,EUR
 1,137,August,0,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,133.2,0,0,Group,0,1,0,1,EUR
@@ -55550,7 +55550,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,226,August,1,1,HB,Groups,TA/TO,0,0,0,0,Non Refund,0,Transient,96.0,0,0,Group,0,1,0,1,PRT
 1,226,August,1,1,HB,Groups,TA/TO,0,0,0,0,Non Refund,0,Transient,96.0,0,0,Group,0,1,0,1,PRT
 1,226,August,1,1,HB,Groups,TA/TO,0,0,0,0,Non Refund,0,Transient,96.0,0,0,Group,0,1,0,1,PRT
-1,247,August,1,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,86.63,0,1,Family,0,1,0,1,OTH
+1,247,August,1,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,86.63,0,1,Group,0,1,0,1,OTH
 1,226,August,1,1,HB,Groups,TA/TO,0,0,0,0,Non Refund,0,Transient,96.0,0,0,Group,0,1,0,1,PRT
 1,226,August,1,1,HB,Groups,TA/TO,0,0,0,0,Non Refund,0,Transient,96.0,0,0,Group,0,1,0,1,PRT
 1,176,August,1,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,96.3,0,0,Group,0,1,0,1,OTH
@@ -55697,7 +55697,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,157,August,0,3,BB,Online TA,TA/TO,0,0,0,4,No Deposit,0,Transient,108.66,0,0,Group,0,1,0,1,EUR
 1,29,August,0,3,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,92.4,0,0,Single,0,1,0,1,OTH
 1,42,August,0,3,HB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,157.5,0,0,Group,0,1,0,1,EUR
-1,156,August,0,3,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,108.66,0,0,Family,0,1,0,1,EUR
+1,156,August,0,3,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,108.66,0,0,Group,0,1,0,1,EUR
 1,55,August,0,3,HB,Online TA,TA/TO,0,0,0,3,No Deposit,0,Transient,144.0,0,2,Group,0,1,0,1,EUR
 1,142,August,0,3,HB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,175.65,0,0,Family,0,1,0,1,EUR
 1,175,August,0,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,112.63,0,0,Group,0,1,0,1,EUR
@@ -55814,7 +55814,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,119,September,2,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,131.4,0,0,Group,0,1,0,1,EUR
 1,179,September,2,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,119.85,0,0,Group,0,1,0,1,EUR
 1,54,September,2,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,139.86,0,0,Group,0,1,0,1,OTH
-1,179,September,2,5,BB,Online TA,TA/TO,0,0,0,3,No Deposit,0,Transient-Party,121.01,0,0,Family,0,1,0,1,EUR
+1,179,September,2,5,BB,Online TA,TA/TO,0,0,0,3,No Deposit,0,Transient-Party,121.01,0,0,Group,0,1,0,1,EUR
 1,87,September,2,7,BB,Offline TA/TO,TA/TO,0,0,0,2,No Deposit,0,Transient-Party,85.0,0,1,Single,0,1,0,1,PRT
 1,223,September,4,12,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,89.73,0,1,Group,0,1,0,1,EUR
 1,178,September,2,5,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,112.01,0,0,Group,0,1,0,1,EUR
@@ -55904,7 +55904,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,174,September,2,2,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,109.65,0,0,Group,0,1,0,1,EUR
 1,62,September,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,98.55,0,1,Single,0,1,0,1,EUR
 1,62,September,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,98.55,0,1,Single,0,1,0,1,EUR
-1,62,September,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,96.23,0,0,Family,0,1,0,1,OTH
+1,62,September,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,96.23,0,0,Group,0,1,0,1,OTH
 1,164,September,2,2,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,116.1,0,0,Group,0,1,0,1,EUR
 1,69,September,2,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,135.9,0,1,Group,0,1,0,1,EUR
 1,42,September,2,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,182.34,0,1,Family,0,1,0,1,EUR
@@ -55913,7 +55913,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,41,September,2,3,BB,Online TA,TA/TO,0,0,0,3,No Deposit,0,Transient,208.93,0,0,Family,0,1,0,1,EUR
 1,67,September,2,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,119.16,0,0,Group,0,1,0,1,EUR
 1,58,September,2,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,128.1,0,1,Group,0,1,0,1,EUR
-1,40,September,2,5,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,106.9,0,0,Family,0,1,0,1,EUR
+1,40,September,2,5,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,106.9,0,0,Group,0,1,0,1,EUR
 1,53,September,2,5,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,131.14,0,0,Group,0,1,0,1,EUR
 1,88,September,2,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,149.4,0,0,Group,0,1,0,1,PRT
 1,65,September,2,5,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,106.84,0,0,Group,0,1,0,1,EUR
@@ -56165,7 +56165,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,198,September,1,2,BB,Groups,TA/TO,0,0,0,0,Non Refund,0,Transient,120.0,0,0,Group,0,1,0,1,PRT
 1,198,September,1,2,BB,Offline TA/TO,TA/TO,0,0,0,0,Non Refund,0,Transient,90.0,0,0,Group,0,1,0,1,PRT
 1,198,September,1,2,BB,Offline TA/TO,TA/TO,0,0,0,0,Non Refund,0,Transient,90.0,0,0,Group,0,1,0,1,PRT
-1,17,September,1,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,109.45,0,2,Family,0,1,0,1,EUR
+1,17,September,1,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,109.45,0,2,Group,0,1,0,1,EUR
 1,198,September,1,2,BB,Groups,TA/TO,0,0,0,0,Non Refund,0,Transient,120.0,0,0,Group,0,1,0,1,PRT
 1,198,September,1,2,BB,Groups,TA/TO,0,0,0,0,Non Refund,0,Transient,120.0,0,0,Group,0,1,0,1,PRT
 1,198,September,1,2,BB,Offline TA/TO,TA/TO,0,0,0,0,Non Refund,0,Transient,90.0,0,0,Group,0,1,0,1,PRT
@@ -56275,7 +56275,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,3,September,1,3,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,148.31,0,0,Group,0,0,0,1,PRT
 1,230,September,1,3,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,109.65,0,1,Group,0,1,0,1,EUR
 1,144,September,1,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,126.9,0,3,Group,0,1,0,1,EUR
-1,32,September,1,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,124.25,0,0,Family,0,1,0,1,OTH
+1,32,September,1,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,124.25,0,0,Group,0,1,0,1,OTH
 0,277,September,1,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,100.3,0,0,Group,0,1,0,1,EUR
 1,33,September,1,4,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,124.25,0,0,Group,0,1,0,1,OTH
 1,255,September,1,5,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,100.3,0,0,Group,0,1,0,1,EUR
@@ -56559,7 +56559,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,205,September,1,2,BB,Groups,TA/TO,0,0,0,0,Non Refund,0,Transient,120.0,0,0,Group,0,1,0,1,PRT
 1,32,September,2,2,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,124.25,0,2,Single,0,1,0,1,OTH
 1,145,September,2,2,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,118.8,0,0,Group,0,1,0,1,EUR
-1,31,September,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,124.25,0,2,Family,0,1,0,1,OTH
+1,31,September,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,124.25,0,2,Group,0,1,0,1,OTH
 1,159,September,2,3,BB,Online TA,TA/TO,0,0,0,3,No Deposit,0,Transient,130.14,0,2,Group,0,1,0,1,EUR
 1,69,September,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,149.4,0,0,Group,0,1,0,1,EUR
 1,151,September,0,1,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,107,Transient-Party,130.0,0,0,Group,0,1,0,1,PRT
@@ -56732,7 +56732,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,62,September,0,1,HB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,75.0,0,0,Single,0,1,0,1,PRT
 1,20,September,0,1,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient,85.5,0,0,Group,0,1,0,1,PRT
 1,62,September,0,1,HB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,75.0,0,0,Single,0,1,0,1,PRT
-1,76,September,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,127.38,0,3,Family,0,1,0,1,EUR
+1,76,September,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,127.38,0,3,Group,0,1,0,1,EUR
 1,77,September,0,3,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,127.38,0,3,Group,0,1,0,1,EUR
 1,271,September,0,3,HB,Offline TA/TO,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,95.0,0,0,Single,0,1,0,1,PRT
 1,296,September,0,4,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,85.0,0,0,Group,0,1,0,1,PRT
@@ -59175,7 +59175,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,97,October,2,1,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient,80.75,0,0,Group,0,1,0,1,PRT
 1,105,October,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,85.05,0,0,Single,0,1,0,1,EUR
 1,102,October,2,2,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,79.65,0,0,Group,0,1,0,1,EUR
-1,158,October,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,83.5,0,2,Family,0,1,0,1,EUR
+1,158,October,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,83.5,0,2,Group,0,1,0,1,EUR
 1,72,October,2,2,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,79.65,0,0,Group,0,1,0,1,EUR
 1,82,October,2,2,BB,Online TA,TA/TO,0,0,0,2,No Deposit,0,Transient,90.45,0,2,Group,0,1,0,1,EUR
 1,159,October,2,2,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,83.5,0,2,Group,0,1,0,1,EUR
@@ -60032,7 +60032,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,78,November,2,5,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,90.63,0,2,Group,0,1,0,1,EUR
 1,259,November,2,5,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,72.0,0,0,Group,0,1,0,1,OTH
 1,105,November,2,5,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,102.83,0,3,Family,0,1,0,1,OTH
-1,255,November,2,5,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,72.0,0,0,Family,0,1,0,1,OTH
+1,255,November,2,5,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,72.0,0,0,Group,0,1,0,1,OTH
 1,12,November,3,6,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,71.87,0,1,Single,0,1,0,1,PRT
 1,39,November,5,11,SC,Online TA,TA/TO,0,0,0,2,No Deposit,0,Transient,70.87,0,1,Single,0,1,0,1,PRT
 1,166,November,2,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,87.5,0,3,Group,0,1,0,1,EUR
@@ -60237,7 +60237,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,1,November,6,12,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,77.44,0,1,Single,0,1,0,1,OTH
 1,11,November,6,14,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,75.86,0,0,Group,0,1,0,1,OTH
 1,3,November,0,1,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,95.0,0,1,Group,0,1,0,1,OTH
-1,44,November,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,82.44,0,2,Family,0,1,0,1,PRT
+1,44,November,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,82.44,0,2,Group,0,1,0,1,PRT
 1,45,November,0,1,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,82.44,0,2,Group,0,1,0,1,PRT
 1,128,November,1,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,90.0,0,0,Group,0,1,0,1,EUR
 1,39,November,1,1,SC,Online TA,TA/TO,0,0,0,2,No Deposit,0,Transient,88.0,0,2,Group,0,1,0,1,OTH
@@ -60351,7 +60351,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,308,November,0,3,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,78.3,0,2,Group,0,1,0,1,EUR
 1,308,November,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,78.3,0,2,Single,0,1,0,1,EUR
 1,69,November,0,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,74.8,0,1,Single,0,1,0,1,EUR
-1,30,November,0,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,77.86,0,1,Family,0,1,0,1,OTH
+1,30,November,0,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,77.86,0,1,Group,0,1,0,1,OTH
 1,67,November,0,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,88.4,0,2,Group,0,1,0,1,EUR
 1,29,November,0,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,68.07,0,0,Group,0,1,0,1,PRT
 1,31,November,0,4,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,77.86,0,2,Group,0,1,0,1,OTH
@@ -60517,7 +60517,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,258,November,1,3,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,67.5,0,0,Group,0,1,0,1,EUR
 1,1,November,1,3,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,78.53,0,0,Single,0,1,0,1,OTH
 1,137,November,1,4,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,85.16,0,1,Group,0,1,0,1,OTH
-1,136,November,1,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,76.16,0,0,Family,0,1,0,1,OTH
+1,136,November,1,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,76.16,0,0,Group,0,1,0,1,OTH
 1,42,November,0,3,BB,Groups,TA/TO,0,0,0,0,Non Refund,0,Transient,90.0,0,0,Group,0,0,1,1,PRT
 1,42,November,0,3,BB,Groups,TA/TO,0,0,0,0,Non Refund,0,Transient,90.0,0,0,Group,0,0,1,1,PRT
 1,42,November,0,3,BB,Groups,TA/TO,0,0,0,0,Non Refund,0,Transient,90.0,0,0,Group,0,0,1,1,PRT
@@ -60556,7 +60556,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,8,November,0,3,BB,Online TA,TA/TO,0,0,0,2,No Deposit,0,Transient,114.0,0,0,Group,0,1,0,1,EUR
 1,30,November,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,104.0,0,2,Group,0,1,0,1,EUR
 1,43,November,0,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,88.4,0,4,Group,0,1,0,1,EUR
-1,215,November,0,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,67.26,0,0,Family,0,1,0,1,EUR
+1,215,November,0,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,67.26,0,0,Group,0,1,0,1,EUR
 1,79,November,0,4,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,119.0,0,1,Group,0,1,0,1,EUR
 1,79,November,0,4,BB,Online TA,TA/TO,0,0,0,3,No Deposit,0,Transient,88.4,0,2,Group,0,1,0,1,EUR
 1,215,November,0,4,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,67.26,0,0,Group,0,1,0,1,EUR
@@ -60613,7 +60613,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,24,December,4,10,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,74.8,0,0,Group,0,1,0,1,PRT
 1,47,December,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,93.6,0,1,Group,1,1,0,1,EUR
 1,195,December,0,2,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,71.22,0,0,Group,0,1,0,1,EUR
-1,195,December,0,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,71.22,0,0,Family,0,1,0,1,EUR
+1,195,December,0,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,71.22,0,0,Group,0,1,0,1,EUR
 1,315,December,0,2,BB,Offline TA/TO,TA/TO,0,0,0,0,Non Refund,0,Transient,52.0,0,0,Group,0,1,0,1,PRT
 1,315,December,0,2,BB,Offline TA/TO,TA/TO,0,0,0,0,Non Refund,0,Transient,52.0,0,0,Group,0,1,0,1,PRT
 1,266,December,0,2,BB,Offline TA/TO,TA/TO,0,0,0,0,Non Refund,0,Transient,75.0,0,0,Single,0,1,0,1,PRT
@@ -60944,7 +60944,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,0,December,4,7,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,71.25,0,0,Group,0,1,0,1,OTH
 1,42,December,2,2,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,74.8,0,1,Group,0,1,0,1,PRT
 1,173,December,2,3,HB,Online TA,TA/TO,0,0,0,3,No Deposit,0,Transient,167.45,0,2,Group,0,1,0,1,OTH
-1,9,December,0,1,BB,Complementary,Direct,0,0,0,0,No Deposit,0,Transient-Party,0.0,0,1,Family,1,0,1,1,PRT
+1,9,December,0,1,BB,Complementary,Direct,0,0,0,0,No Deposit,0,Transient-Party,0.0,0,1,Group,1,0,1,1,PRT
 1,12,December,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,161.0,0,0,Group,0,1,0,1,EUR
 1,74,December,0,1,HB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,127.8,0,2,Group,0,1,0,1,EUR
 1,38,December,0,1,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient-Party,101.0,0,1,Group,0,0,0,1,PRT
@@ -61213,7 +61213,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,60,December,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,156.6,0,1,Family,0,1,0,1,EUR
 1,60,December,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,156.6,0,0,Family,0,1,0,1,EUR
 1,59,December,0,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,93.6,0,0,Group,0,1,0,1,EUR
-1,381,December,1,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,69.5,0,1,Family,0,1,0,1,EUR
+1,381,December,1,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,69.5,0,1,Group,0,1,0,1,EUR
 1,62,December,1,2,HB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,111.88,0,1,Family,0,1,0,1,PRT
 1,342,December,1,2,HB,Direct,Direct,0,0,0,1,No Deposit,0,Transient,103.5,0,0,Group,0,1,0,1,EUR
 1,62,December,1,2,HB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,120.88,0,1,Family,0,1,0,1,PRT
@@ -61305,7 +61305,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,136,December,1,3,HB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,138.76,0,1,Group,0,1,0,1,EUR
 1,124,December,1,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,156.61,0,2,Family,0,1,0,1,EUR
 1,56,December,1,3,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,88.4,0,0,Group,0,1,0,1,EUR
-1,102,December,1,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,101.34,0,0,Family,0,1,0,1,EUR
+1,102,December,1,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,101.34,0,0,Group,0,1,0,1,EUR
 1,83,December,1,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,105.61,0,1,Group,0,1,0,1,EUR
 1,262,December,1,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,104.55,0,0,Group,0,1,0,1,EUR
 1,262,December,1,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,73.95,0,0,Group,0,1,0,1,EUR
@@ -61450,7 +61450,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,237,December,2,5,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,80.26,0,0,Family,0,1,0,1,OTH
 1,252,December,2,7,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,69.42,0,1,Group,0,1,0,1,OTH
 1,252,December,2,9,BB,Online TA,TA/TO,0,0,0,3,No Deposit,0,Transient,148.58,0,2,Family,0,1,0,1,EUR
-1,251,December,2,9,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,74.29,0,2,Family,0,1,0,1,EUR
+1,251,December,2,9,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,74.29,0,2,Group,0,1,0,1,EUR
 1,22,December,4,10,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,126.04,0,1,Group,0,1,0,1,OTH
 1,15,December,2,5,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,98.11,0,2,Group,0,1,0,1,EUR
 1,237,December,2,5,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,148.26,0,0,Family,0,1,0,1,OTH
@@ -61647,7 +61647,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,4,January,1,3,HB,Online TA,TA/TO,0,0,0,2,No Deposit,0,Transient,111.78,0,0,Group,0,1,0,1,EUR
 1,15,January,1,3,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,81.6,0,0,Group,0,1,0,1,EUR
 1,33,January,1,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,105.4,0,1,Family,0,1,0,1,OTH
-1,111,January,1,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,91.6,0,2,Family,0,1,0,1,OTH
+1,111,January,1,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,91.6,0,2,Group,0,1,0,1,OTH
 1,38,January,1,3,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,74.8,0,2,Group,0,1,0,1,EUR
 1,49,January,1,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,88.4,0,2,Group,0,1,0,1,EUR
 1,203,January,1,3,BB,Online TA,TA/TO,0,0,0,2,No Deposit,0,Transient,91.6,0,2,Group,0,1,0,1,OTH
@@ -61655,7 +61655,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,306,January,1,3,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,67.15,0,0,Group,0,1,0,1,EUR
 1,138,January,1,3,HB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,164.05,0,3,Group,0,1,0,1,EUR
 1,6,January,1,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,96.9,0,0,Group,0,1,0,1,EUR
-1,268,January,1,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,141.14,0,1,Family,0,1,0,1,OTH
+1,268,January,1,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,141.14,0,1,Group,0,1,0,1,OTH
 1,113,January,1,4,HB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,142.0,0,3,Group,0,1,0,1,EUR
 1,268,January,1,4,BB,Online TA,TA/TO,0,0,0,3,No Deposit,0,Transient,141.14,0,1,Group,0,1,0,1,OTH
 1,335,January,1,4,HB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,109.65,0,0,Group,0,1,0,1,EUR
@@ -62809,7 +62809,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,322,February,2,3,BB,Online TA,TA/TO,0,0,0,2,No Deposit,0,Transient,92.65,0,0,Family,0,1,0,1,EUR
 1,25,February,2,5,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,74.8,0,0,Group,0,1,0,1,OTH
 1,25,February,2,5,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,74.8,0,0,Group,0,1,0,1,OTH
-1,148,February,2,5,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,91.6,0,2,Family,0,1,0,1,EUR
+1,148,February,2,5,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,91.6,0,2,Group,0,1,0,1,EUR
 1,24,February,2,5,BB,Groups,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,75.0,0,0,Single,1,0,1,1,PRT
 1,148,February,2,5,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,91.6,0,2,Group,0,1,0,1,EUR
 1,26,February,1,0,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,113.4,0,0,Family,0,1,0,1,OTH
@@ -63333,7 +63333,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,9,February,0,4,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,195.5,0,0,Family,0,1,0,1,EUR
 1,4,February,1,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,200.0,0,0,Family,0,1,0,1,OTH
 1,136,February,1,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,96.9,0,0,Group,0,1,0,1,EUR
-1,134,February,2,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,82.44,0,1,Family,0,1,0,1,OTH
+1,134,February,2,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,82.44,0,1,Group,0,1,0,1,OTH
 1,259,February,2,4,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,74.8,0,1,Group,0,0,0,1,PRT
 1,134,February,2,4,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,82.44,0,1,Group,0,1,0,1,OTH
 1,259,February,2,4,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,74.8,0,1,Group,0,0,0,1,PRT
@@ -63412,7 +63412,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,19,February,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,102.43,0,0,Group,0,1,0,1,EUR
 1,39,February,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,100.3,0,0,Group,0,1,0,1,EUR
 1,149,February,2,2,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,91.6,0,1,Group,0,1,0,1,OTH
-1,148,February,2,2,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,91.6,0,1,Family,0,1,0,1,OTH
+1,148,February,2,2,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,91.6,0,1,Group,0,1,0,1,OTH
 1,149,February,2,2,SC,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,74.8,0,1,Group,0,1,0,1,OTH
 1,195,February,2,3,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,74.8,0,2,Group,0,1,0,1,EUR
 1,70,February,2,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,158.38,0,1,Family,0,1,0,1,PRT
@@ -63806,7 +63806,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,39,March,1,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,118.0,0,0,Group,0,1,0,1,EUR
 1,97,March,2,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,97.2,0,1,Group,0,1,0,1,EUR
 1,144,March,2,1,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,91.6,0,1,Group,0,1,0,1,OTH
-1,144,March,2,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,91.6,0,1,Family,0,1,0,1,OTH
+1,144,March,2,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,91.6,0,1,Group,0,1,0,1,OTH
 1,64,March,2,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,106.2,0,0,Group,0,1,0,1,EUR
 1,30,March,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,91.8,0,0,Group,0,1,0,1,EUR
 1,165,March,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,119.0,0,1,Group,0,1,0,1,EUR
@@ -64376,7 +64376,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,69,March,2,3,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient,68.0,0,0,Group,0,1,0,1,PRT
 1,65,March,2,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,104.55,0,0,Group,0,1,0,1,EUR
 1,161,March,2,6,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,89.88,0,1,Group,0,1,0,1,OTH
-1,160,March,2,6,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,89.88,0,1,Family,0,1,0,1,OTH
+1,160,March,2,6,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,89.88,0,1,Group,0,1,0,1,OTH
 1,0,March,0,1,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,12.0,0,0,Group,0,0,0,1,PRT
 1,93,March,0,1,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,79.2,0,2,Group,0,1,0,1,EUR
 1,60,March,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,106.2,0,0,Group,0,1,0,1,PRT
@@ -64627,15 +64627,15 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,126,March,1,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,93.6,0,2,Group,0,1,0,1,EUR
 1,39,March,1,2,SC,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,91.33,0,3,Group,1,1,0,1,OTH
 1,74,March,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,117.3,0,2,Group,0,1,0,1,EUR
-1,200,March,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,77.86,0,2,Family,0,1,0,1,EUR
+1,200,March,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,77.86,0,2,Group,0,1,0,1,EUR
 1,202,March,2,2,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,77.86,0,1,Group,0,1,0,1,EUR
 1,264,March,2,2,HB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,164.05,0,0,Group,0,1,0,1,EUR
-1,200,March,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,77.86,0,2,Family,0,1,0,1,EUR
+1,200,March,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,77.86,0,2,Group,0,1,0,1,EUR
 1,202,March,2,2,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,77.86,0,1,Group,0,1,0,1,EUR
 1,75,March,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,100.3,0,0,Group,0,1,0,1,EUR
 1,58,March,2,6,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,198.0,0,0,Family,0,1,0,1,OTH
 1,173,March,2,6,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,84.73,0,0,Group,0,1,0,1,OTH
-1,172,March,2,6,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,84.73,0,0,Family,0,1,0,1,OTH
+1,172,March,2,6,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,84.73,0,0,Group,0,1,0,1,OTH
 1,37,March,3,7,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,210.4,0,1,Family,0,1,0,1,OTH
 1,41,March,3,7,BB,Online TA,TA/TO,0,0,0,2,No Deposit,0,Transient,144.98,0,2,Group,0,1,0,1,OTH
 1,305,March,0,1,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,71.1,0,2,Group,0,1,0,1,OTH
@@ -64789,7 +64789,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,56,March,0,3,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,85.8,0,0,Single,0,1,0,1,EUR
 1,160,March,1,3,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,90.46,0,2,Group,0,1,0,1,EUR
 1,63,March,1,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,148.15,0,0,Group,0,1,0,1,EUR
-1,160,March,1,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,90.46,0,2,Family,0,1,0,1,EUR
+1,160,March,1,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,90.46,0,2,Group,0,1,0,1,EUR
 1,60,March,1,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,104.4,0,0,Group,0,1,0,1,EUR
 1,70,March,2,3,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,89.32,0,0,Group,0,1,0,1,PRT
 1,63,March,1,3,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,86.9,0,0,Group,0,1,0,1,EUR
@@ -65188,7 +65188,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,82,April,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,127.8,0,0,Group,0,1,0,1,EUR
 1,139,April,0,3,BB,Offline TA/TO,TA/TO,0,0,0,0,Non Refund,46,Transient,95.0,0,0,Group,0,1,0,1,PRT
 1,175,April,0,3,BB,Online TA,TA/TO,0,0,0,2,No Deposit,0,Transient,121.33,0,1,Group,0,1,0,1,EUR
-1,230,April,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,101.25,0,0,Family,0,1,0,1,EUR
+1,230,April,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,101.25,0,0,Group,0,1,0,1,EUR
 1,69,April,0,3,BB,Corporate,Corporate,0,0,0,0,Non Refund,0,Transient,85.0,0,0,Single,0,0,1,1,PRT
 1,69,April,0,3,BB,Corporate,Corporate,0,0,0,0,Non Refund,0,Transient,85.0,0,0,Single,0,0,1,1,PRT
 1,69,April,0,3,BB,Corporate,Corporate,0,0,0,0,Non Refund,0,Transient,85.0,0,0,Single,0,0,1,1,PRT
@@ -65267,14 +65267,14 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,92,April,1,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,117.0,0,0,Group,0,1,0,1,EUR
 1,2,April,1,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,171.0,0,1,Group,0,1,0,1,OTH
 1,25,April,1,2,SC,Online TA,TA/TO,0,0,0,2,No Deposit,0,Transient,108.0,0,0,Group,0,1,0,1,OTH
-1,179,April,1,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,110.68,0,1,Family,0,1,0,1,EUR
+1,179,April,1,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,110.68,0,1,Group,0,1,0,1,EUR
 1,236,April,1,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,109.8,0,3,Group,0,1,0,1,EUR
 1,31,April,1,2,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,120.0,0,0,Group,0,1,0,1,OTH
 1,48,April,1,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,180.0,0,1,Group,0,1,0,1,OTH
 1,84,April,1,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,127.8,0,0,Group,0,1,0,1,EUR
 1,133,April,1,2,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,99.0,0,0,Group,0,1,0,1,EUR
 1,213,April,1,2,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,103.05,0,3,Group,0,1,0,1,OTH
-1,212,April,1,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,103.05,0,3,Family,0,1,0,1,OTH
+1,212,April,1,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,103.05,0,3,Group,0,1,0,1,OTH
 1,60,April,1,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,126.0,0,0,Group,0,1,0,1,EUR
 1,105,April,2,5,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,136.29,0,1,Family,0,1,0,1,EUR
 1,197,April,4,7,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,99.0,0,1,Group,0,1,0,1,EUR
@@ -65507,7 +65507,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,146,April,0,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,173.25,0,2,Group,0,1,0,1,EUR
 1,121,April,0,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,173.25,0,0,Group,0,1,0,1,EUR
 1,219,April,0,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,206.1,0,0,Family,0,1,0,1,EUR
-1,219,April,0,4,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,101.25,0,0,Family,0,1,0,1,EUR
+1,219,April,0,4,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,101.25,0,0,Group,0,1,0,1,EUR
 1,83,April,0,4,HB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,200.25,0,1,Group,0,1,0,1,EUR
 1,143,April,0,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,173.25,0,0,Group,0,1,0,1,EUR
 1,114,April,1,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,141.3,0,2,Group,0,1,0,1,EUR
@@ -65988,7 +65988,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,316,April,0,1,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,93.5,0,0,Group,0,1,0,1,OTH
 1,316,April,0,1,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,93.5,0,0,Group,0,1,0,1,OTH
 1,126,April,0,1,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,108.0,0,2,Group,0,1,0,1,EUR
-1,204,April,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,103.05,0,0,Family,0,1,0,1,EUR
+1,204,April,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,103.05,0,0,Group,0,1,0,1,EUR
 1,316,April,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,109.8,0,0,Group,0,1,0,1,OTH
 1,204,April,0,1,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,99.0,0,1,Group,0,1,0,1,EUR
 1,204,April,0,1,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,103.05,0,2,Group,0,1,0,1,EUR
@@ -66557,7 +66557,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,151,April,2,3,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,100.8,0,0,Group,0,1,0,1,EUR
 1,287,April,2,3,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,99.0,0,0,Group,0,1,0,1,EUR
 1,108,April,2,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,118.8,0,0,Group,0,1,0,1,EUR
-1,232,April,2,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,103.05,0,3,Family,0,1,0,1,EUR
+1,232,April,2,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,103.05,0,3,Group,0,1,0,1,EUR
 1,111,April,1,3,BB,Offline TA/TO,TA/TO,0,0,0,0,Non Refund,0,Transient,120.0,0,0,Group,0,1,0,1,PRT
 1,111,April,1,3,BB,Offline TA/TO,TA/TO,0,0,0,0,Non Refund,0,Transient,120.0,0,0,Group,0,1,0,1,PRT
 1,233,April,2,3,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,103.05,0,3,Group,0,1,0,1,EUR
@@ -67946,7 +67946,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,88,May,0,3,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,117.0,0,0,Group,0,1,0,1,EUR
 1,88,May,0,3,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,117.0,0,0,Group,0,1,0,1,EUR
 1,395,May,0,3,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,90.0,0,0,Group,0,1,0,1,PRT
-1,266,May,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,108.95,0,2,Family,0,1,0,1,EUR
+1,266,May,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,108.95,0,2,Group,0,1,0,1,EUR
 1,88,May,0,3,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,117.0,0,0,Group,0,1,0,1,EUR
 1,61,May,0,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,162.0,0,1,Group,0,1,0,1,EUR
 1,66,May,0,4,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,144.0,0,0,Group,0,1,0,1,EUR
@@ -68367,7 +68367,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,270,May,2,3,HB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,126.54,0,1,Group,0,1,0,1,EUR
 1,211,May,2,4,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,197.1,0,1,Family,0,1,0,1,EUR
 1,211,May,2,4,HB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,136.5,0,1,Group,0,1,0,1,EUR
-1,209,May,2,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,110.75,0,1,Family,0,1,0,1,EUR
+1,209,May,2,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,110.75,0,1,Group,0,1,0,1,EUR
 1,211,May,2,4,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,110.75,0,1,Group,0,1,0,1,EUR
 1,29,May,2,5,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,190.0,0,2,Group,0,1,0,1,OTH
 1,29,May,2,5,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,190.0,0,4,Group,0,1,0,1,OTH
@@ -68502,7 +68502,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,357,May,0,3,HB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,193.5,0,0,Group,0,1,0,1,EUR
 1,194,May,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,134.67,0,1,Group,0,1,0,1,PRT
 1,13,May,0,3,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,99.0,0,0,Group,0,1,0,1,EUR
-1,273,May,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,108.95,0,2,Family,0,1,0,1,EUR
+1,273,May,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,108.95,0,2,Group,0,1,0,1,EUR
 1,357,May,0,3,HB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,193.5,0,0,Group,0,1,0,1,EUR
 1,352,May,0,3,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,99.0,0,0,Group,0,1,0,1,EUR
 1,341,May,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,123.3,0,1,Group,0,1,0,1,EUR
@@ -68530,7 +68530,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,249,May,0,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,157.5,0,2,Group,0,1,0,1,EUR
 1,262,May,0,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,157.5,0,2,Group,0,1,0,1,EUR
 1,262,May,0,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,157.5,0,2,Group,0,1,0,1,EUR
-1,310,May,0,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,99.45,0,0,Family,0,1,0,1,EUR
+1,310,May,0,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,99.45,0,0,Group,0,1,0,1,EUR
 1,250,May,0,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,125.1,0,1,Group,0,1,0,1,EUR
 1,262,May,0,4,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,133.2,0,2,Group,0,1,0,1,EUR
 1,311,May,0,4,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,99.45,0,0,Group,0,1,0,1,EUR
@@ -68557,9 +68557,9 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,270,May,0,4,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,127.75,0,0,Group,0,0,0,1,PRT
 1,73,May,0,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,317.5,0,0,Family,0,1,0,1,PRT
 1,173,May,0,4,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,108.0,0,2,Group,0,1,0,1,EUR
-1,311,May,0,4,BB,Online TA,TA/TO,0,0,0,2,No Deposit,0,Transient,99.45,0,0,Family,0,1,0,1,EUR
+1,311,May,0,4,BB,Online TA,TA/TO,0,0,0,2,No Deposit,0,Transient,99.45,0,0,Group,0,1,0,1,EUR
 1,262,May,0,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,138.6,0,2,Group,0,1,0,1,EUR
-1,310,May,0,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,99.45,0,0,Family,0,1,0,1,EUR
+1,310,May,0,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,99.45,0,0,Group,0,1,0,1,EUR
 1,225,May,0,4,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,107.1,0,0,Group,0,1,0,1,EUR
 1,211,May,0,4,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,107.1,0,0,Single,0,1,0,1,EUR
 1,211,May,0,4,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,107.1,0,0,Group,0,1,0,1,EUR
@@ -69274,7 +69274,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,34,June,1,5,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,130.0,0,1,Single,0,1,0,1,OTH
 1,148,June,1,5,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,141.0,0,2,Family,0,1,0,1,EUR
 1,238,June,2,5,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,106.35,0,1,Group,0,1,0,1,EUR
-1,238,June,2,5,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,106.35,0,1,Family,0,1,0,1,EUR
+1,238,June,2,5,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,106.35,0,1,Group,0,1,0,1,EUR
 1,83,June,3,6,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,153.0,0,0,Group,0,1,0,1,EUR
 1,154,June,3,7,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,126.0,0,0,Group,0,1,0,1,EUR
 1,437,June,0,1,BB,Groups,TA/TO,0,0,0,0,Non Refund,0,Transient-Party,90.0,0,0,Group,0,1,0,1,PRT
@@ -70897,7 +70897,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,405,July,0,2,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,80.0,0,0,Group,0,1,0,1,PRT
 1,405,July,0,2,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,80.0,0,0,Group,0,1,0,1,PRT
 1,230,July,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,107.1,0,1,Group,0,1,0,1,EUR
-1,257,July,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,93.65,0,1,Family,0,1,0,1,OTH
+1,257,July,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,93.65,0,1,Group,0,1,0,1,OTH
 1,243,July,0,3,BB,Offline TA/TO,TA/TO,0,0,0,1,No Deposit,0,Transient,90.0,0,0,Group,0,1,0,1,PRT
 1,405,July,0,2,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,80.0,0,0,Group,0,1,0,1,PRT
 1,214,July,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,125.1,0,0,Family,0,1,0,1,OTH
@@ -71023,12 +71023,12 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,365,July,0,1,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,100.0,0,0,Group,0,0,0,1,PRT
 1,315,July,0,1,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,91.85,0,3,Group,0,1,0,1,OTH
 1,315,July,0,1,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,89.1,0,2,Group,0,1,0,1,OTH
-1,315,July,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,91.85,0,2,Family,0,1,0,1,OTH
+1,315,July,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,91.85,0,2,Group,0,1,0,1,OTH
 1,315,July,0,1,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,91.85,0,3,Group,0,1,0,1,OTH
-1,315,July,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,91.85,0,2,Family,0,1,0,1,OTH
+1,315,July,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,91.85,0,2,Group,0,1,0,1,OTH
 1,288,July,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,123.3,0,1,Family,0,1,0,1,OTH
 1,288,July,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,123.3,0,1,Family,0,1,0,1,OTH
-1,315,July,0,1,BB,Online TA,TA/TO,0,0,0,2,No Deposit,0,Transient,91.85,0,2,Family,0,1,0,1,OTH
+1,315,July,0,1,BB,Online TA,TA/TO,0,0,0,2,No Deposit,0,Transient,91.85,0,2,Group,0,1,0,1,OTH
 1,26,July,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,160.0,0,1,Group,0,1,0,1,PRT
 1,86,July,0,1,BB,Corporate,Corporate,0,0,0,0,No Deposit,0,Transient,80.0,0,0,Single,0,0,1,1,PRT
 1,315,July,0,1,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,91.85,0,3,Group,0,1,0,1,OTH
@@ -71180,7 +71180,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,19,July,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,150.0,0,1,Group,0,1,0,1,EUR
 1,107,July,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,136.8,0,0,Group,0,1,0,1,PRT
 1,161,July,2,2,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,89.1,0,0,Group,0,1,0,1,EUR
-1,340,July,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,90.05,0,2,Family,0,1,0,1,EUR
+1,340,July,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,90.05,0,2,Group,0,1,0,1,EUR
 1,8,July,2,3,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,128.0,0,1,Group,0,1,0,1,EUR
 1,187,July,2,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,120.6,0,0,Group,0,1,0,1,EUR
 1,111,July,2,3,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,108.0,0,0,Group,0,1,0,1,EUR
@@ -72649,7 +72649,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,267,August,0,3,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient,90.0,0,0,Group,0,1,0,1,PRT
 1,209,August,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,148.5,0,2,Family,0,1,0,1,EUR
 1,97,August,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,145.0,0,1,Group,0,1,0,1,EUR
-1,308,August,0,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,96.25,0,0,Family,0,1,0,1,EUR
+1,308,August,0,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,96.25,0,0,Group,0,1,0,1,EUR
 1,309,August,0,4,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,96.25,0,0,Group,0,1,0,1,EUR
 1,309,August,0,4,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,89.1,0,0,Group,0,1,0,1,EUR
 1,114,August,0,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,195.0,0,0,Group,0,1,0,1,EUR
@@ -72698,7 +72698,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,84,August,0,3,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,130.0,0,1,Group,0,1,0,1,EUR
 1,88,August,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,200.0,0,0,Group,0,1,0,1,EUR
 1,25,August,0,3,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,160.0,0,1,Group,0,1,0,1,EUR
-1,316,August,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,104.05,0,3,Family,0,1,0,1,EUR
+1,316,August,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,104.05,0,3,Group,0,1,0,1,EUR
 1,92,August,0,3,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient,80.1,0,0,Group,0,1,0,1,PRT
 1,84,August,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,200.0,0,0,Group,0,1,0,1,EUR
 1,293,August,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,156.6,0,2,Group,0,1,0,1,OTH
@@ -79109,7 +79109,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,28,October,0,1,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,130.0,0,0,Single,1,1,0,1,PRT
 0,28,October,0,1,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,130.0,0,0,Single,0,1,0,1,PRT
 0,34,October,2,3,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient,90.0,0,1,Family,0,1,0,1,EUR
-0,296,October,2,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,65.29,0,0,Family,0,1,0,1,EUR
+0,296,October,2,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,65.29,0,0,Group,0,1,0,1,EUR
 0,296,October,2,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,56.01,0,0,Group,0,1,0,1,EUR
 0,28,October,0,1,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,130.0,0,0,Single,0,1,0,1,PRT
 0,28,October,0,1,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,130.0,0,0,Single,1,1,0,1,PRT
@@ -80739,7 +80739,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,0,December,1,1,BB,Direct,Direct,0,0,0,1,No Deposit,0,Transient,95.0,0,0,Group,0,0,0,1,OTH
 0,0,December,1,0,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,226.0,0,0,Group,0,0,0,1,OTH
 0,21,December,1,2,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Contract,77.92,0,1,Group,0,1,0,1,EUR
-0,13,December,1,2,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,87.08,0,1,Family,0,1,0,1,EUR
+0,13,December,1,2,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,87.08,0,1,Group,0,1,0,1,EUR
 0,0,December,1,1,BB,Online TA,TA/TO,0,0,0,2,No Deposit,0,Transient,73.0,0,1,Group,0,1,0,1,PRT
 0,0,December,1,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,73.64,0,0,Group,0,1,0,1,PRT
 1,33,December,2,5,BB,Offline TA/TO,TA/TO,0,1,0,0,No Deposit,0,Transient,40.0,0,0,Single,0,1,0,1,PRT
@@ -80887,7 +80887,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 1,292,December,2,4,BB,Online TA,TA/TO,0,1,0,0,No Deposit,0,Transient-Party,72.25,0,1,Group,0,1,0,1,PRT
 1,292,December,2,4,BB,Online TA,TA/TO,0,1,0,0,No Deposit,0,Transient-Party,72.25,0,1,Group,0,1,0,1,PRT
 1,22,December,1,4,BB,Direct,Direct,0,0,0,1,No Deposit,0,Transient,80.75,0,0,Group,0,1,0,1,PRT
-1,22,December,1,4,BB,Direct,Direct,0,0,0,1,No Deposit,0,Transient,80.75,0,1,Family,0,1,0,1,PRT
+1,22,December,1,4,BB,Direct,Direct,0,0,0,1,No Deposit,0,Transient,80.75,0,1,Group,0,1,0,1,PRT
 0,6,December,2,2,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient,58.0,0,0,Group,1,1,0,1,EUR
 0,4,December,0,2,BB,Corporate,Corporate,0,0,0,1,No Deposit,0,Transient,65.0,0,0,Single,0,1,0,1,PRT
 0,8,December,0,1,BB,Corporate,Corporate,0,0,0,0,No Deposit,0,Transient,79.0,0,0,Single,0,1,0,1,EUR
@@ -81713,7 +81713,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,3,December,1,1,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,37.5,0,1,Group,0,1,0,1,PRT
 0,3,December,1,1,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,37.5,0,1,Group,0,1,0,1,PRT
 1,13,December,2,5,BB,Direct,Direct,0,1,0,1,No Deposit,0,Transient-Party,135.64,0,1,Group,0,0,0,1,OTH
-1,13,December,2,5,BB,Direct,Direct,0,1,0,1,No Deposit,0,Transient-Party,7.8,0,1,Family,0,0,0,1,OTH
+1,13,December,2,5,BB,Direct,Direct,0,1,0,1,No Deposit,0,Transient-Party,7.8,0,1,Group,0,0,0,1,OTH
 0,12,December,2,2,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient,85.0,0,0,Group,0,1,0,1,EUR
 0,19,December,2,1,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient,58.0,0,0,Group,1,1,0,1,PRT
 0,95,December,2,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Contract,67.5,0,2,Single,0,1,0,1,EUR
@@ -81799,7 +81799,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,92,December,0,4,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient,60.0,0,0,Group,0,1,0,1,EUR
 0,19,December,0,2,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient-Party,83.75,0,1,Group,0,0,0,1,PRT
 0,19,December,0,2,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient-Party,83.75,0,1,Group,0,0,0,1,PRT
-0,0,January,0,1,BB,Direct,Direct,1,0,1,1,No Deposit,0,Transient,6.0,0,1,Family,0,0,0,1,PRT
+0,0,January,0,1,BB,Direct,Direct,1,0,1,1,No Deposit,0,Transient,6.0,0,1,Group,0,0,0,1,PRT
 0,53,December,0,1,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Contract,67.5,0,1,Group,0,1,0,1,EUR
 0,17,December,1,4,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient,58.0,0,0,Group,1,1,0,1,EUR
 0,90,December,1,4,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient,60.0,0,0,Group,0,1,0,1,EUR
@@ -81815,7 +81815,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,35,December,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,97.0,0,1,Group,0,1,0,1,PRT
 0,35,December,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,97.0,0,1,Group,0,1,0,1,EUR
 0,5,December,0,5,BB,Complementary,Direct,0,0,0,1,No Deposit,0,Transient,1.6,1,0,Group,0,0,0,1,EUR
-0,5,December,0,5,BB,Complementary,Direct,0,0,0,1,No Deposit,0,Transient,0.0,0,0,Family,0,0,0,1,PRT
+0,5,December,0,5,BB,Complementary,Direct,0,0,0,1,No Deposit,0,Transient,0.0,0,0,Group,0,0,0,1,PRT
 0,72,December,0,3,BB,Direct,Direct,0,0,0,1,No Deposit,0,Transient,85.5,0,1,Family,0,1,0,1,EUR
 0,58,December,0,4,HB,Offline TA/TO,TA/TO,0,0,0,1,No Deposit,0,Transient,56.6,1,0,Single,0,1,0,1,EUR
 0,58,December,0,4,HB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient,58.3,0,0,Group,0,1,0,1,PRT
@@ -82160,7 +82160,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,56,December,1,4,SC,Online TA,TA/TO,0,0,0,1,No Deposit,0,Contract,105.75,0,2,Group,0,1,0,1,EUR
 1,21,January,8,22,BB,Direct,Direct,0,1,0,0,No Deposit,0,Transient,52.5,0,0,Group,0,0,0,1,PRT
 1,150,March,1,3,BB,Online TA,TA/TO,0,1,0,0,No Deposit,0,Transient-Party,89.67,0,1,Group,0,1,0,1,PRT
-1,150,March,1,3,BB,Online TA,TA/TO,0,1,0,0,No Deposit,0,Transient-Party,6.0,0,1,Family,0,1,0,1,PRT
+1,150,March,1,3,BB,Online TA,TA/TO,0,1,0,0,No Deposit,0,Transient-Party,6.0,0,1,Group,0,1,0,1,PRT
 0,83,December,1,4,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,80.5,0,0,Group,0,1,0,1,EUR
 0,56,December,1,4,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Contract,105.75,0,2,Group,0,1,0,1,EUR
 1,49,February,2,5,BB,Offline TA/TO,TA/TO,1,1,0,0,No Deposit,0,Transient,91.44,0,0,Group,0,1,0,1,PRT
@@ -82500,7 +82500,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,106,January,0,5,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient,62.0,0,0,Group,0,1,0,1,EUR
 0,20,January,1,5,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient,48.33,0,0,Group,0,1,0,1,EUR
 0,0,January,0,2,BB,Direct,Direct,0,0,0,1,No Deposit,0,Transient-Party,75.75,0,0,Group,0,0,0,1,EUR
-0,0,January,0,2,BB,Direct,Direct,0,0,0,1,No Deposit,0,Transient-Party,9.0,0,1,Family,0,0,0,1,PRT
+0,0,January,0,2,BB,Direct,Direct,0,0,0,1,No Deposit,0,Transient-Party,9.0,0,1,Group,0,0,0,1,PRT
 0,28,January,0,2,HB,Offline TA/TO,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,97.0,0,0,Group,0,1,0,1,EUR
 0,28,January,0,2,HB,Offline TA/TO,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,97.0,0,0,Group,0,1,0,1,EUR
 0,28,January,0,2,HB,Offline TA/TO,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,97.0,0,0,Group,0,1,0,1,EUR
@@ -82717,7 +82717,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,6,January,0,1,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,87.0,0,0,Group,0,1,0,1,PRT
 0,4,January,0,2,BB,Complementary,Direct,0,0,0,1,No Deposit,0,Transient,1.0,1,1,Group,0,0,0,1,PRT
 0,2,January,0,1,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,96.0,0,1,Group,0,0,0,1,EUR
-0,13,January,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,77.25,0,0,Family,0,1,0,1,PRT
+0,13,January,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,77.25,0,0,Group,0,1,0,1,PRT
 0,4,January,0,2,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,84.0,1,1,Group,0,1,0,1,EUR
 0,85,January,0,2,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient,66.6,0,0,Group,0,1,0,1,EUR
 0,0,January,0,1,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,67.5,0,1,Group,0,1,0,1,EUR
@@ -83149,7 +83149,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,18,February,2,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,81.8,0,1,Single,0,1,0,1,EUR
 0,1,February,2,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,85.0,0,0,Single,0,1,0,1,OTH
 0,28,February,2,2,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,77.39,0,1,Group,0,1,0,1,EUR
-0,28,February,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,73.39,0,1,Family,0,1,0,1,PRT
+0,28,February,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,73.39,0,1,Group,0,1,0,1,PRT
 0,28,February,2,2,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,84.65,0,0,Group,0,1,0,1,EUR
 0,1,February,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,62.91,0,1,Single,0,1,0,1,OTH
 0,12,February,2,0,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,136.5,0,1,Family,0,1,0,1,PRT
@@ -83558,7 +83558,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,121,February,1,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Group,58.91,0,2,Group,0,1,0,1,EUR
 0,126,February,1,3,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,104.8,0,1,Group,1,1,0,1,EUR
 0,18,February,2,6,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,79.88,0,0,Single,0,1,0,1,OTH
-0,121,February,1,3,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Group,58.91,0,2,Family,0,1,0,1,EUR
+0,121,February,1,3,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Group,58.91,0,2,Group,0,1,0,1,EUR
 0,27,February,0,1,BB,Online TA,TA/TO,0,0,0,2,No Deposit,0,Transient,127.0,0,1,Group,0,1,0,1,OTH
 0,4,February,0,2,BB,Direct,Direct,0,0,0,1,No Deposit,0,Transient,80.0,0,0,Single,0,0,0,1,EUR
 0,0,February,1,3,BB,Aviation,TA/TO,0,0,0,0,No Deposit,0,Transient,88.0,1,0,Single,0,1,0,1,PRT
@@ -83966,7 +83966,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,7,February,0,3,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient,82.0,0,0,Group,0,1,0,1,EUR
 0,0,February,0,1,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,79.0,0,1,Group,0,1,0,1,EUR
 0,68,February,2,5,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient,43.43,0,0,Group,0,1,0,1,EUR
-0,39,February,1,4,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,68.76,0,0,Family,0,1,0,1,EUR
+0,39,February,1,4,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,68.76,0,0,Group,0,1,0,1,EUR
 0,1,February,0,1,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,81.0,0,0,Group,0,1,0,1,PRT
 0,81,February,0,3,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient,92.1,0,0,Group,1,1,0,1,EUR
 1,1,February,0,0,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,0.0,0,0,Single,0,1,0,1,EUR
@@ -84054,7 +84054,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,7,February,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,92.0,0,1,Group,0,1,0,1,EUR
 0,3,February,0,3,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient,81.0,0,0,Group,0,1,0,1,EUR
 0,14,February,0,3,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient,118.0,0,1,Group,1,1,0,1,EUR
-0,1,February,0,3,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,71.0,0,0,Family,0,1,0,1,EUR
+0,1,February,0,3,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,71.0,0,0,Group,0,1,0,1,EUR
 0,0,February,0,2,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,0.0,0,0,Group,0,0,0,1,PRT
 0,1,February,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,102.0,0,1,Group,0,1,0,1,EUR
 0,1,February,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,103.0,0,1,Group,0,1,0,1,EUR
@@ -85553,7 +85553,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,37,March,0,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,138.15,0,2,Family,1,1,0,1,EUR
 0,23,March,0,1,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,285.0,0,0,Family,0,1,0,1,OTH
 0,0,March,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,178.0,0,0,Family,1,1,0,1,PRT
-0,130,March,0,1,BB,Complementary,Direct,0,0,0,1,No Deposit,0,Contract,6.0,0,2,Family,1,0,0,1,EUR
+0,130,March,0,1,BB,Complementary,Direct,0,0,0,1,No Deposit,0,Contract,6.0,0,2,Group,1,0,0,1,EUR
 0,33,March,0,2,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,143.1,0,1,Family,0,1,0,1,EUR
 0,29,March,0,3,SC,Offline TA/TO,TA/TO,0,0,0,1,No Deposit,0,Transient,64.8,0,0,Group,0,1,0,1,EUR
 0,75,March,0,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,108.45,1,0,Group,0,1,0,1,EUR
@@ -86311,7 +86311,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,83,April,0,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,84.58,0,1,Group,0,1,0,1,EUR
 0,58,April,0,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,105.3,0,1,Group,0,1,0,1,OTH
 0,0,April,0,1,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,89.0,0,0,Group,0,0,0,1,PRT
-0,0,April,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,6.0,1,0,Family,1,1,0,1,EUR
+0,0,April,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,6.0,1,0,Group,1,1,0,1,EUR
 0,36,April,0,1,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,103.95,1,0,Group,1,1,0,1,EUR
 0,33,April,0,4,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient,85.5,0,0,Group,0,1,0,1,EUR
 0,1,April,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,101.0,0,1,Group,0,1,0,1,PRT
@@ -86716,7 +86716,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,152,April,0,4,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Contract,75.0,0,0,Group,1,1,0,1,EUR
 0,94,April,0,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,90.95,0,1,Group,0,1,0,1,EUR
 0,122,April,0,1,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,56,Transient-Party,85.0,0,0,Group,0,1,0,1,PRT
-0,70,April,0,4,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,9.0,0,1,Family,0,1,0,1,PRT
+0,70,April,0,4,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,9.0,0,1,Group,0,1,0,1,PRT
 0,70,April,0,4,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,95.0,0,0,Group,0,1,0,1,EUR
 0,32,April,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,140.7,0,1,Group,0,1,0,1,EUR
 0,0,April,0,1,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,99.0,0,0,Group,1,0,0,1,EUR
@@ -87869,7 +87869,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,27,May,0,1,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient,85.0,0,0,Group,0,1,0,1,PRT
 0,108,May,1,2,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,94.5,0,1,Group,0,1,0,1,EUR
 0,41,April,2,3,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,127.83,0,2,Group,0,1,0,1,EUR
-0,40,April,2,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,127.83,0,1,Family,0,1,0,1,EUR
+0,40,April,2,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,127.83,0,1,Group,0,1,0,1,EUR
 0,110,May,1,2,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,68.04,0,1,Family,1,1,0,1,EUR
 0,107,April,2,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,99.45,0,2,Group,0,1,0,1,EUR
 0,24,May,1,2,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,129.0,0,1,Group,0,1,0,1,EUR
@@ -88498,7 +88498,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,36,May,1,2,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,116.1,0,2,Group,0,1,0,1,EUR
 0,56,May,1,2,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,116.1,0,1,Group,0,1,0,1,EUR
 0,57,May,1,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,119.85,0,1,Group,0,1,0,1,PRT
-0,38,May,1,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,127.39,0,0,Family,0,1,0,1,EUR
+0,38,May,1,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,127.39,0,0,Group,0,1,0,1,EUR
 0,39,May,1,2,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,127.39,0,0,Group,0,1,0,1,EUR
 0,56,May,1,2,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,116.1,0,1,Group,0,1,0,1,PRT
 0,56,May,1,2,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,116.1,0,1,Group,0,1,0,1,EUR
@@ -88661,7 +88661,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,125,May,2,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,101.49,0,2,Family,0,1,0,1,EUR
 0,0,May,2,1,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,103.5,0,0,Group,1,1,0,1,EUR
 0,54,May,1,1,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,118.6,0,0,Group,0,1,0,1,EUR
-0,53,May,1,1,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,127.6,0,0,Family,0,1,0,1,PRT
+0,53,May,1,1,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,127.6,0,0,Group,0,1,0,1,PRT
 0,97,May,1,1,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient,80.75,0,0,Group,0,1,0,1,PRT
 0,114,May,1,1,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,94.5,0,0,Group,0,1,0,1,EUR
 0,75,May,3,6,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,150.45,0,0,Group,0,1,0,1,EUR
@@ -89385,7 +89385,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,14,May,0,1,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,73.0,0,0,Group,1,1,0,1,PRT
 0,14,May,0,1,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,62.5,0,0,Single,0,1,0,1,PRT
 0,14,May,0,1,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,62.5,0,0,Single,0,1,0,1,PRT
-0,84,May,0,2,BB,Direct,Direct,0,0,0,1,No Deposit,0,Transient,128.78,0,0,Family,0,1,0,1,PRT
+0,84,May,0,2,BB,Direct,Direct,0,0,0,1,No Deposit,0,Transient,128.78,0,0,Group,0,1,0,1,PRT
 0,84,May,0,2,BB,Direct,Direct,0,0,0,1,No Deposit,0,Transient,128.78,0,1,Group,0,1,0,1,PRT
 0,1,May,0,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,176.0,0,1,Group,1,1,0,1,OTH
 0,101,May,0,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,132.6,0,0,Group,0,1,0,1,EUR
@@ -89629,9 +89629,9 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,1,May,0,2,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,128.0,0,1,Group,0,1,0,1,EUR
 0,6,June,0,1,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,129.0,0,0,Group,0,0,0,1,PRT
 0,88,May,2,2,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,112.01,0,1,Group,0,1,0,1,EUR
-0,87,May,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,112.01,0,1,Family,0,1,0,1,PRT
+0,87,May,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,112.01,0,1,Group,0,1,0,1,PRT
 0,88,May,2,2,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,112.01,0,1,Group,0,1,0,1,PRT
-0,87,May,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,112.01,0,1,Family,0,1,0,1,PRT
+0,87,May,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,112.01,0,1,Group,0,1,0,1,PRT
 0,1,May,0,2,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,119.0,0,1,Group,0,1,0,1,EUR
 0,109,May,3,7,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,138.54,1,0,Group,0,1,0,1,EUR
 0,14,May,0,2,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,80.08,0,0,Single,0,1,0,1,PRT
@@ -90299,10 +90299,10 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,107,June,0,2,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,130.0,0,1,Group,0,1,0,1,PRT
 0,107,June,0,2,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,130.0,0,1,Group,0,1,0,1,PRT
 0,107,June,0,2,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,130.0,0,1,Group,0,1,0,1,PRT
-0,14,June,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,116.49,0,0,Family,0,1,0,1,EUR
+0,14,June,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,116.49,0,0,Group,0,1,0,1,EUR
 0,107,June,0,2,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,130.0,0,1,Group,0,1,0,1,PRT
 0,107,June,0,2,BB,Offline TA/TO,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,120.0,0,0,Single,0,1,0,1,PRT
-0,14,June,0,3,BB,Online TA,TA/TO,0,0,0,2,No Deposit,0,Transient,116.49,0,2,Family,0,1,0,1,EUR
+0,14,June,0,3,BB,Online TA,TA/TO,0,0,0,2,No Deposit,0,Transient,116.49,0,2,Group,0,1,0,1,EUR
 0,107,June,0,2,BB,Offline TA/TO,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,120.0,0,0,Single,0,1,0,1,PRT
 0,3,June,0,2,BB,Offline TA/TO,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,120.0,0,0,Single,1,1,0,1,PRT
 0,107,June,0,2,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,130.0,0,1,Group,0,1,0,1,PRT
@@ -90497,7 +90497,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,15,June,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,95.0,0,1,Single,0,1,0,1,EUR
 0,11,June,0,1,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,78.8,0,0,Single,0,1,0,1,PRT
 0,11,June,0,1,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,78.8,0,0,Single,0,1,0,1,EUR
-0,34,June,2,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,119.5,0,1,Family,0,1,0,1,OTH
+0,34,June,2,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,119.5,0,1,Group,0,1,0,1,OTH
 0,34,June,2,1,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,119.5,0,1,Group,0,1,0,1,OTH
 0,29,June,0,1,SC,Direct,Direct,0,0,0,0,No Deposit,0,Transient,108.0,0,1,Group,0,1,0,1,PRT
 0,5,June,0,1,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient,84.0,0,0,Single,0,1,0,1,EUR
@@ -90663,7 +90663,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,76,June,1,3,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient,116.28,0,0,Group,0,1,0,1,EUR
 0,256,June,0,2,HB,Offline TA/TO,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,90.0,0,0,Single,0,1,0,1,PRT
 0,4,June,0,1,BB,Online TA,TA/TO,0,0,0,2,No Deposit,0,Transient,263.55,0,0,Family,0,1,0,1,EUR
-0,3,June,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,131.78,0,0,Family,0,1,0,1,EUR
+0,3,June,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,131.78,0,0,Group,0,1,0,1,EUR
 0,256,June,0,2,HB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,115.0,0,1,Group,0,1,0,1,EUR
 0,243,June,0,3,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,106.2,0,0,Group,0,1,0,1,EUR
 0,22,June,1,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,206.0,0,2,Group,0,1,0,1,EUR
@@ -91644,7 +91644,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,6,June,1,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,141.0,0,1,Group,0,1,0,1,PRT
 0,152,June,1,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,90.95,0,1,Group,0,1,0,1,EUR
 0,2,June,0,1,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,127.0,0,0,Single,0,1,0,1,PRT
-0,131,June,2,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,83.83,0,1,Family,0,1,0,1,PRT
+0,131,June,2,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,83.83,0,1,Group,0,1,0,1,PRT
 0,119,June,0,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,146.7,0,2,Group,1,1,0,1,PRT
 0,2,June,0,1,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,127.0,0,0,Single,0,1,0,1,PRT
 0,119,June,0,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,146.7,0,2,Group,1,1,0,1,PRT
@@ -91674,7 +91674,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,14,July,0,1,BB,Direct,Direct,0,0,0,1,No Deposit,0,Transient,141.0,0,3,Single,0,1,0,1,OTH
 0,90,June,2,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,108.3,0,0,Group,0,1,0,1,EUR
 0,121,June,0,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,88.77,0,1,Group,0,1,0,1,EUR
-0,120,June,0,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,97.55,0,0,Family,0,1,0,1,EUR
+0,120,June,0,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,97.55,0,0,Group,0,1,0,1,EUR
 0,124,June,0,2,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,97.55,0,0,Group,0,1,0,1,EUR
 0,124,June,0,2,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,88.76,0,1,Group,0,1,0,1,PRT
 0,160,June,2,5,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,208.13,0,1,Family,1,1,0,1,EUR
@@ -93185,7 +93185,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,175,July,1,1,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,85.5,0,1,Group,0,1,0,1,EUR
 0,175,July,1,1,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,85.5,0,1,Group,0,1,0,1,EUR
 0,74,July,1,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,142.5,0,0,Group,0,1,0,1,PRT
-0,237,July,1,0,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient-Party,6.0,0,1,Family,0,1,0,1,EUR
+0,237,July,1,0,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient-Party,6.0,0,1,Group,0,1,0,1,EUR
 0,237,July,1,0,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient-Party,81.45,0,0,Group,0,1,0,1,EUR
 0,172,July,1,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,108.3,1,1,Group,0,1,0,1,PRT
 0,172,July,1,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,140.7,1,2,Group,0,1,0,1,EUR
@@ -93228,7 +93228,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,64,July,1,0,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,94.5,0,0,Group,0,1,0,1,OTH
 0,0,July,2,0,SC,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,119.0,0,0,Single,0,1,0,1,PRT
 0,83,July,2,1,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,97.54,0,1,Group,0,1,0,1,PRT
-0,82,July,2,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,97.54,0,1,Family,0,1,0,1,EUR
+0,82,July,2,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,97.54,0,1,Group,0,1,0,1,EUR
 0,80,July,2,0,SC,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,94.5,0,1,Single,0,1,0,1,EUR
 0,39,July,1,0,BB,Corporate,Corporate,0,0,0,0,No Deposit,0,Transient,67.0,1,0,Single,0,0,1,1,PRT
 0,165,July,2,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,99.45,0,2,Group,0,1,0,1,EUR
@@ -93353,7 +93353,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,7,July,2,7,BB,Complementary,Direct,0,0,0,0,No Deposit,0,Transient,0.0,0,1,Single,0,0,0,1,OTH
 0,46,July,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,152.1,0,2,Family,1,1,0,1,EUR
 0,96,July,2,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,188.16,0,2,Family,0,1,0,1,OTH
-0,72,July,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,97.54,0,0,Family,0,1,0,1,OTH
+0,72,July,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,97.54,0,0,Group,0,1,0,1,OTH
 0,115,July,0,2,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,94.5,0,1,Group,0,0,0,1,PRT
 0,65,July,2,2,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,94.5,0,1,Group,0,1,0,1,EUR
 0,61,July,2,2,BB,Corporate,Corporate,0,0,0,1,No Deposit,0,Transient,40.0,0,1,Single,0,0,1,1,PRT
@@ -93417,7 +93417,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,86,July,0,3,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,97.54,0,1,Group,0,1,0,1,EUR
 0,48,July,0,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,135.9,0,0,Group,0,1,0,1,EUR
 0,169,July,1,3,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,89.25,0,1,Group,0,1,0,1,EUR
-0,85,July,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,106.54,0,1,Family,0,1,0,1,EUR
+0,85,July,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,106.54,0,1,Group,0,1,0,1,EUR
 0,119,July,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,137.7,0,0,Group,0,1,0,1,EUR
 0,182,July,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,128.7,0,2,Group,0,1,0,1,EUR
 0,149,July,2,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,99.45,0,1,Group,0,1,0,1,EUR
@@ -93430,7 +93430,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,14,July,2,4,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient,85.0,0,0,Group,0,1,0,1,EUR
 0,178,July,2,4,HB,Online TA,TA/TO,0,0,0,3,No Deposit,0,Transient,132.25,1,2,Family,0,1,0,1,EUR
 0,159,July,2,5,HB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,132.96,0,1,Group,0,1,0,1,EUR
-0,1,July,4,9,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,0.0,0,1,Family,1,1,0,1,EUR
+0,1,July,4,9,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,0.0,0,1,Group,1,1,0,1,EUR
 0,104,July,4,9,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,146.36,0,1,Group,1,1,0,1,EUR
 0,1,July,0,2,BB,Corporate,Corporate,0,0,0,0,No Deposit,0,Transient-Party,65.0,0,0,Single,0,0,1,1,PRT
 0,63,July,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,137.7,0,2,Group,1,1,0,1,EUR
@@ -93609,7 +93609,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,200,July,0,4,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,80.75,0,0,Group,0,1,0,1,EUR
 0,63,July,0,5,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient,131.75,0,2,Family,0,1,0,1,PRT
 0,196,July,2,5,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,158.95,0,0,Family,0,1,0,1,EUR
-0,242,July,0,2,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient-Party,6.0,0,1,Family,0,1,0,1,EUR
+0,242,July,0,2,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient-Party,6.0,0,1,Group,0,1,0,1,EUR
 0,188,July,0,3,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient-Party,80.75,0,0,Group,0,1,0,1,EUR
 0,188,July,0,3,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient-Party,80.75,0,0,Group,0,1,0,1,EUR
 0,188,July,0,3,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient-Party,80.75,0,0,Group,0,1,0,1,EUR
@@ -93967,7 +93967,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,43,August,0,1,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,131.15,0,2,Family,1,0,0,1,EUR
 0,22,August,1,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,159.0,1,1,Family,0,1,0,1,EUR
 0,66,August,0,1,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,127.38,0,1,Group,0,1,0,1,EUR
-0,65,August,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,127.38,0,1,Family,0,1,0,1,EUR
+0,65,August,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,127.38,0,1,Group,0,1,0,1,EUR
 0,1,August,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,151.0,0,1,Group,0,1,0,1,EUR
 0,178,July,2,7,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,127.22,0,1,Group,0,1,0,1,EUR
 0,1,August,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,151.0,0,1,Group,0,1,0,1,EUR
@@ -94075,7 +94075,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,175,August,0,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,99.45,0,1,Group,0,1,0,1,EUR
 0,188,August,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,105.3,0,1,Group,0,1,0,1,EUR
 0,188,August,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,105.3,0,1,Group,0,1,0,1,EUR
-0,94,August,0,2,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,90.25,0,1,Family,0,1,0,1,EUR
+0,94,August,0,2,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,90.25,0,1,Group,0,1,0,1,EUR
 0,206,August,0,1,HB,Direct,Direct,0,0,0,1,No Deposit,0,Transient,309.5,1,0,Family,0,1,0,1,EUR
 0,96,August,0,2,BB,Direct,Direct,0,0,0,2,No Deposit,0,Transient,90.25,0,1,Group,0,1,0,1,EUR
 0,147,August,0,1,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient,78.1,0,0,Family,0,1,0,1,EUR
@@ -94563,7 +94563,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,214,August,0,3,BB,Online TA,TA/TO,0,0,0,3,No Deposit,0,Transient-Party,90.9,0,1,Single,0,1,0,1,EUR
 0,93,August,0,1,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,109.83,0,1,Group,0,1,0,1,EUR
 0,93,August,0,1,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,112.5,0,1,Single,0,1,0,1,EUR
-0,93,August,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,109.83,0,1,Family,0,1,0,1,EUR
+0,93,August,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,109.83,0,1,Group,0,1,0,1,EUR
 0,190,August,0,5,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient,84.25,0,0,Group,0,1,0,1,EUR
 0,134,August,0,3,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,103.5,0,2,Group,0,1,0,1,EUR
 0,103,August,0,3,HB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,211.8,0,1,Group,0,0,0,1,EUR
@@ -94638,7 +94638,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,96,August,1,2,HB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,178.65,0,2,Family,0,1,0,1,EUR
 0,0,August,1,5,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,170.0,0,1,Group,0,1,0,1,EUR
 0,14,August,1,1,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,138.05,0,3,Group,0,1,0,1,EUR
-0,14,August,1,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,138.05,0,3,Family,0,1,0,1,EUR
+0,14,August,1,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,138.05,0,3,Group,0,1,0,1,EUR
 0,40,August,1,1,HB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,245.95,1,0,Family,0,1,0,1,EUR
 0,149,August,1,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,195.3,1,1,Family,0,1,0,1,EUR
 0,1,August,1,0,BB,Direct,Direct,0,0,0,2,No Deposit,0,Transient,208.0,0,1,Family,0,1,0,1,PRT
@@ -94767,7 +94767,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,0,August,0,1,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,138.0,0,0,Group,0,0,0,1,PRT
 0,0,August,0,1,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,138.0,0,0,Group,0,0,0,1,PRT
 0,137,August,1,1,BB,Direct,Direct,0,0,0,1,No Deposit,0,Transient-Party,120.63,1,0,Group,0,1,0,1,EUR
-0,136,August,1,1,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient-Party,120.63,0,0,Family,0,1,0,1,EUR
+0,136,August,1,1,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient-Party,120.63,0,0,Group,0,1,0,1,EUR
 0,306,August,2,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Contract,104.4,0,3,Group,0,1,0,1,EUR
 0,18,August,2,1,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient,132.8,0,0,Group,0,1,0,1,EUR
 0,306,August,2,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Contract,95.4,0,3,Group,0,1,0,1,EUR
@@ -94805,7 +94805,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,42,August,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,144.9,0,1,Group,0,1,0,1,EUR
 0,15,August,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,124.0,0,1,Single,0,1,0,1,EUR
 0,15,August,0,1,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,109.55,0,1,Group,0,1,0,1,EUR
-0,14,August,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,109.55,0,1,Family,0,1,0,1,EUR
+0,14,August,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,109.55,0,1,Group,0,1,0,1,EUR
 0,16,August,0,2,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,146.7,1,1,Group,0,1,0,1,EUR
 0,100,August,0,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,152.1,0,1,Group,1,1,0,1,EUR
 0,6,August,0,1,BB,Corporate,Corporate,0,0,0,0,No Deposit,0,Transient,79.0,0,0,Single,0,0,1,1,EUR
@@ -94831,7 +94831,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,3,August,0,1,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,125.0,0,0,Group,1,0,0,1,EUR
 0,47,August,2,2,HB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,170.1,0,1,Group,0,1,0,1,EUR
 0,145,August,1,2,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,115.32,1,0,Group,0,1,0,1,EUR
-0,145,August,1,2,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,106.32,0,0,Family,0,1,0,1,EUR
+0,145,August,1,2,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,106.32,0,0,Group,0,1,0,1,EUR
 0,2,August,1,2,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,169.33,0,0,Group,0,1,0,1,PRT
 0,2,August,1,2,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,169.33,0,0,Group,0,1,0,1,EUR
 0,107,August,0,1,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient,81.25,0,0,Group,0,1,0,1,EUR
@@ -94897,7 +94897,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,161,August,2,3,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,145.85,1,2,Group,0,1,0,1,EUR
 0,0,August,0,1,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,109.0,0,0,Single,1,0,0,1,OTH
 0,144,August,0,1,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,106.54,0,1,Group,0,1,0,1,EUR
-0,143,August,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,97.54,0,1,Family,0,1,0,1,EUR
+0,143,August,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,97.54,0,1,Group,0,1,0,1,EUR
 0,145,August,0,2,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,190.8,0,2,Family,0,1,0,1,EUR
 0,145,August,0,2,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,181.8,0,2,Family,0,1,0,1,EUR
 0,145,August,0,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,151.2,0,0,Group,0,1,0,1,EUR
@@ -94954,7 +94954,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,156,August,2,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,106.25,0,1,Group,0,1,0,1,EUR
 0,16,August,0,1,BB,Direct,Direct,0,0,0,1,No Deposit,0,Transient,158.95,0,0,Family,1,1,0,1,EUR
 0,203,August,2,5,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,122.76,0,1,Group,1,1,0,1,EUR
-0,11,August,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,127.6,0,1,Family,0,1,0,1,EUR
+0,11,August,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,127.6,0,1,Group,0,1,0,1,EUR
 0,11,August,0,1,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,127.6,0,1,Group,0,1,0,1,EUR
 0,126,August,1,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,126.0,0,0,Group,0,1,0,1,EUR
 0,189,August,0,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,112.2,0,2,Group,1,1,0,1,EUR
@@ -95120,7 +95120,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,0,August,0,1,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,92.17,0,0,Single,0,1,0,1,EUR
 0,197,August,0,3,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,112.0,0,1,Group,1,1,0,1,EUR
 0,180,August,0,1,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,97.54,0,1,Group,0,1,0,1,EUR
-0,180,August,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,97.54,0,1,Family,0,1,0,1,EUR
+0,180,August,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,97.54,0,1,Group,0,1,0,1,EUR
 0,0,August,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,178.33,0,1,Single,0,1,0,1,EUR
 0,0,August,0,1,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,109.65,0,0,Single,0,0,0,1,OTH
 0,5,August,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,130.0,0,3,Group,0,1,0,1,EUR
@@ -95158,7 +95158,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,219,August,1,1,HB,Groups,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,96.0,0,0,Group,0,1,0,1,EUR
 0,0,August,1,0,BB,Direct,Direct,0,0,0,2,No Deposit,0,Transient,164.0,0,0,Family,0,0,0,1,EUR
 0,123,August,1,0,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,146.7,1,0,Group,0,1,0,1,EUR
-0,120,August,1,5,HB,Direct,Direct,0,0,0,3,No Deposit,0,Transient-Party,53.4,0,3,Family,0,0,0,1,EUR
+0,120,August,1,5,HB,Direct,Direct,0,0,0,3,No Deposit,0,Transient-Party,53.4,0,3,Group,0,0,0,1,EUR
 0,120,August,1,5,HB,Direct,Direct,0,0,0,2,No Deposit,0,Transient-Party,178.2,0,3,Group,0,0,0,1,EUR
 0,193,August,1,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,99.45,0,1,Group,0,1,0,1,EUR
 0,138,August,1,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,141.3,0,2,Group,0,1,0,1,EUR
@@ -95180,7 +95180,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,6,August,1,1,SC,Direct,Direct,0,0,0,0,No Deposit,0,Transient,117.8,1,0,Group,0,1,0,1,EUR
 0,15,August,1,0,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,129.0,0,2,Group,1,1,0,1,EUR
 0,137,August,1,0,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,121.5,0,2,Family,1,1,0,1,EUR
-0,78,August,1,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,115.68,0,1,Family,0,1,0,1,EUR
+0,78,August,1,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,115.68,0,1,Group,0,1,0,1,EUR
 0,42,August,1,1,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,216.9,0,2,Family,0,1,0,1,EUR
 0,16,August,1,2,HB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,283.67,1,1,Family,0,1,0,1,EUR
 0,54,August,1,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,149.4,0,2,Group,0,1,0,1,EUR
@@ -95212,7 +95212,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,175,August,2,5,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,100.66,0,1,Group,0,1,0,1,EUR
 0,133,August,2,0,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,105.3,0,1,Group,0,1,0,1,EUR
 0,48,August,2,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,177.3,1,2,Group,0,1,0,1,EUR
-0,21,August,2,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,109.83,0,2,Family,0,1,0,1,EUR
+0,21,August,2,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,109.83,0,2,Group,0,1,0,1,EUR
 0,38,August,2,0,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,90.95,0,0,Single,0,1,0,1,OTH
 0,199,August,2,2,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,167.35,0,2,Group,0,1,0,1,PRT
 0,212,August,2,2,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient,96.9,0,1,Group,0,1,0,1,EUR
@@ -95459,7 +95459,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,3,August,1,3,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,98.56,0,1,Group,0,1,0,1,EUR
 0,142,August,2,3,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,95.79,0,1,Group,0,1,0,1,EUR
 0,130,August,0,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,100.8,0,1,Group,0,1,0,1,EUR
-0,142,August,2,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,95.79,0,1,Family,0,1,0,1,EUR
+0,142,August,2,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,95.79,0,1,Group,0,1,0,1,EUR
 0,130,August,0,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,109.8,1,1,Group,0,1,0,1,EUR
 0,12,August,0,2,BB,Online TA,TA/TO,0,0,0,3,No Deposit,0,Transient,164.0,1,3,Family,0,1,0,1,PRT
 0,172,August,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,102.3,0,0,Group,0,1,0,1,EUR
@@ -95618,7 +95618,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,29,August,1,2,BB,Online TA,TA/TO,0,0,0,2,No Deposit,0,Transient,150.8,0,1,Group,0,1,0,1,EUR
 0,3,August,1,2,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,195.0,0,2,Group,0,1,0,1,OTH
 0,180,August,1,1,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,88.77,0,0,Group,0,1,0,1,EUR
-0,178,August,1,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,88.77,0,0,Family,0,1,0,1,EUR
+0,178,August,1,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,88.77,0,0,Group,0,1,0,1,EUR
 0,158,August,1,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,90.95,0,1,Group,0,1,0,1,EUR
 0,203,August,1,2,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,72.25,0,0,Group,0,1,0,1,EUR
 0,203,August,1,2,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,72.25,0,0,Group,0,1,0,1,EUR
@@ -95688,7 +95688,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,4,August,1,0,SC,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,119.0,0,1,Group,0,1,0,1,EUR
 0,56,August,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,162.0,0,2,Group,0,1,0,1,EUR
 0,6,August,2,0,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient,120.5,0,0,Family,0,1,0,1,PRT
-0,185,August,2,3,BB,Online TA,TA/TO,0,0,0,2,No Deposit,0,Transient,84.82,0,0,Family,0,1,0,1,EUR
+0,185,August,2,3,BB,Online TA,TA/TO,0,0,0,2,No Deposit,0,Transient,84.82,0,0,Group,0,1,0,1,EUR
 0,188,August,2,3,BB,Online TA,TA/TO,0,0,0,3,No Deposit,0,Transient,84.82,0,1,Family,0,1,0,1,EUR
 0,42,August,2,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,140.58,0,0,Group,0,1,0,1,EUR
 0,100,August,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,150.3,0,1,Group,0,1,0,1,EUR
@@ -96307,7 +96307,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,15,September,1,2,BB,Online TA,TA/TO,1,0,1,0,No Deposit,0,Transient,164.0,0,0,Group,0,1,0,1,PRT
 0,75,November,0,5,BB,Offline TA/TO,TA/TO,1,0,2,0,No Deposit,0,Transient,75.0,0,0,Group,1,1,0,1,EUR
 0,188,September,2,2,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,112.01,0,1,Group,0,1,0,1,EUR
-0,186,September,2,2,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,112.01,0,1,Family,0,1,0,1,EUR
+0,186,September,2,2,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,112.01,0,1,Group,0,1,0,1,EUR
 0,84,September,0,1,BB,Corporate,Corporate,0,0,0,2,No Deposit,0,Transient,65.0,0,0,Single,0,0,1,1,PRT
 0,23,September,0,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,118.0,1,1,Group,1,1,0,1,EUR
 0,68,September,2,3,HB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient,106.75,0,0,Group,0,1,0,1,PRT
@@ -97258,7 +97258,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,253,September,1,0,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,115.2,0,2,Group,0,1,0,1,EUR
 0,5,September,1,0,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,159.0,0,1,Single,0,1,0,1,EUR
 0,35,September,2,0,BB,Online TA,TA/TO,0,0,0,2,No Deposit,0,Transient-Party,248.49,0,1,Family,0,1,0,1,OTH
-0,34,September,2,0,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,124.25,0,1,Family,0,1,0,1,OTH
+0,34,September,2,0,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,124.25,0,1,Group,0,1,0,1,OTH
 0,0,September,1,0,BB,Direct,Direct,0,0,0,1,No Deposit,0,Transient,103.0,0,0,Single,0,0,1,1,EUR
 0,0,September,2,0,BB,Complementary,Direct,0,0,0,0,No Deposit,0,Transient,0.0,0,0,Single,0,0,1,1,PRT
 0,1,March,0,1,BB,Complementary,Direct,1,0,1,0,No Deposit,0,Transient,0.0,0,2,Group,0,0,0,1,PRT
@@ -97516,7 +97516,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,2,September,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,194.0,0,3,Single,0,1,0,1,OTH
 0,10,October,2,2,SC,Online TA,TA/TO,1,0,1,0,No Deposit,0,Transient,134.5,0,4,Group,0,1,0,1,OTH
 0,3,September,0,3,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,155.68,0,4,Single,0,1,0,1,PRT
-0,3,September,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,155.68,0,4,Family,0,1,0,1,PRT
+0,3,September,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,155.68,0,4,Group,0,1,0,1,PRT
 0,77,September,1,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,149.4,0,2,Group,1,1,0,1,EUR
 0,15,September,0,1,SC,Direct,Direct,0,0,0,0,No Deposit,0,Transient,149.0,0,0,Group,1,1,0,1,PRT
 0,89,September,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,168.3,0,1,Group,0,1,0,1,PRT
@@ -97917,7 +97917,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,80,September,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,135.9,0,0,Group,0,1,0,1,PRT
 0,24,September,0,1,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,119.0,0,1,Group,1,1,0,1,PRT
 0,16,September,0,2,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,129.0,0,1,Group,0,1,0,1,EUR
-0,107,September,2,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,127.38,0,3,Family,1,1,0,1,EUR
+0,107,September,2,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,127.38,0,3,Group,1,1,0,1,EUR
 0,108,September,2,3,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,127.38,0,3,Group,1,1,0,1,EUR
 0,6,September,2,2,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,211.41,0,1,Single,0,1,0,1,PRT
 0,83,September,0,1,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,112.59,0,2,Group,1,1,0,1,OTH
@@ -98544,7 +98544,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,163,October,0,3,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient,100.8,0,0,Single,0,1,0,1,EUR
 0,30,October,0,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,144.8,0,1,Group,0,1,0,1,OTH
 0,260,October,2,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,95.13,0,1,Family,0,1,0,1,OTH
-0,71,October,0,1,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,108.0,0,1,Family,0,1,0,1,EUR
+0,71,October,0,1,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,108.0,0,1,Group,0,1,0,1,EUR
 0,32,October,0,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,157.5,0,2,Group,0,1,0,1,EUR
 0,5,October,0,3,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,98.1,0,1,Group,0,1,0,1,EUR
 0,71,October,0,1,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,108.0,0,1,Group,0,1,0,1,EUR
@@ -98820,7 +98820,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,99,October,2,2,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,118.0,0,1,Group,0,1,0,1,EUR
 0,124,October,2,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,118.8,0,2,Group,0,1,0,1,EUR
 0,89,October,2,2,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,108.0,0,3,Group,0,1,0,1,EUR
-0,88,October,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,108.0,0,3,Family,0,1,0,1,EUR
+0,88,October,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,108.0,0,3,Group,0,1,0,1,EUR
 0,24,October,2,1,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient,95.0,0,1,Group,0,1,0,1,EUR
 0,222,October,0,4,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient,80.75,0,1,Group,0,1,0,1,EUR
 0,124,October,2,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,118.8,0,2,Group,0,1,0,1,EUR
@@ -98914,7 +98914,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,112,October,0,2,BB,Offline TA/TO,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,120.0,0,0,Single,0,1,0,1,EUR
 0,181,October,0,2,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,120.0,0,1,Single,0,1,0,1,EUR
 0,187,October,1,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,78.41,0,0,Group,0,1,0,1,EUR
-0,125,October,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,110.7,0,4,Family,0,1,0,1,EUR
+0,125,October,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,110.7,0,4,Group,0,1,0,1,EUR
 0,40,October,1,2,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient,85.5,0,0,Group,0,1,0,1,EUR
 0,126,October,2,2,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,110.7,0,4,Group,0,1,0,1,EUR
 0,32,October,2,4,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,185.67,1,0,Group,0,1,0,1,EUR
@@ -99431,7 +99431,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,70,October,0,2,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,97.2,0,2,Group,0,1,0,1,OTH
 0,217,October,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,121.55,0,1,Group,0,1,0,1,EUR
 0,127,October,0,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,160.2,1,1,Group,0,1,0,1,EUR
-0,57,October,2,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,110.36,0,2,Family,1,1,0,1,EUR
+0,57,October,2,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,110.36,0,2,Group,1,1,0,1,EUR
 0,188,October,0,2,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,105.5,0,1,Group,0,1,0,1,EUR
 0,1,October,0,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,154.5,0,0,Single,0,1,0,1,EUR
 0,41,October,2,2,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient,85.5,0,0,Group,0,1,0,1,EUR
@@ -99554,7 +99554,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,5,October,1,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,160.0,0,2,Group,0,1,0,1,EUR
 0,66,October,0,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,190.8,0,1,Family,0,1,0,1,OTH
 0,66,October,0,2,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,108.0,0,1,Group,0,1,0,1,OTH
-0,66,October,0,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,108.0,0,1,Family,0,1,0,1,OTH
+0,66,October,0,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,108.0,0,1,Group,0,1,0,1,OTH
 0,104,October,0,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,91.48,0,1,Group,0,1,0,1,EUR
 0,4,October,1,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,160.0,0,1,Group,0,1,0,1,EUR
 0,18,October,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,160.0,0,1,Group,0,1,0,1,EUR
@@ -99572,7 +99572,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,76,October,2,5,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient,90.95,0,0,Group,0,1,0,1,OTH
 0,256,October,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,96.3,0,3,Group,0,1,0,1,EUR
 0,256,October,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,96.3,0,3,Group,0,1,0,1,EUR
-0,130,October,0,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,110.7,0,1,Family,0,1,0,1,EUR
+0,130,October,0,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,110.7,0,1,Group,0,1,0,1,EUR
 0,133,October,0,2,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,110.7,0,1,Group,0,1,0,1,EUR
 0,205,October,0,3,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,95.5,0,1,Single,0,1,0,1,EUR
 0,22,October,0,3,BB,Direct,Direct,0,0,0,2,No Deposit,0,Transient,131.75,1,2,Group,0,1,0,1,EUR
@@ -99892,7 +99892,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,97,October,2,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,121.14,0,3,Group,0,1,0,1,EUR
 0,64,October,0,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,85.93,0,1,Group,0,1,0,1,EUR
 0,65,October,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,75.54,0,1,Group,1,1,0,1,PRT
-0,208,October,2,2,BB,Online TA,TA/TO,0,0,0,3,No Deposit,0,Transient-Party,88.77,0,2,Family,0,1,0,1,EUR
+0,208,October,2,2,BB,Online TA,TA/TO,0,0,0,3,No Deposit,0,Transient-Party,88.77,0,2,Group,0,1,0,1,EUR
 0,208,October,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,88.77,0,2,Group,0,1,0,1,EUR
 0,115,October,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,90.9,0,1,Group,0,1,0,1,EUR
 0,267,October,0,2,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient,80.75,0,0,Group,0,1,0,1,EUR
@@ -99963,7 +99963,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,62,October,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,111.6,0,1,Group,1,1,0,1,EUR
 0,21,October,0,3,SC,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient,85.0,0,0,Single,0,1,0,1,PRT
 0,22,October,0,3,BB,Online TA,TA/TO,0,0,0,2,No Deposit,0,Transient,139.0,1,1,Group,0,1,0,1,PRT
-0,216,October,2,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,83.83,0,3,Family,0,1,0,1,EUR
+0,216,October,2,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,83.83,0,3,Group,0,1,0,1,EUR
 0,119,October,1,3,BB,Online TA,TA/TO,0,0,0,2,No Deposit,0,Transient,81.47,0,1,Group,0,1,0,1,EUR
 0,32,October,1,3,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient,85.0,0,0,Group,0,1,0,1,EUR
 0,88,October,2,4,HB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient,106.25,0,0,Group,0,1,0,1,EUR
@@ -100147,7 +100147,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,199,October,0,2,BB,Groups,TA/TO,0,0,0,2,No Deposit,0,Transient-Party,109.0,0,0,Family,1,1,0,1,PRT
 0,199,October,0,2,BB,Groups,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,123.0,0,0,Group,0,1,0,1,EUR
 0,98,October,1,5,HB,Online TA,TA/TO,0,0,0,2,No Deposit,0,Transient,89.5,0,2,Group,1,1,0,1,EUR
-0,0,October,0,3,HB,Online TA,TA/TO,0,0,0,3,No Deposit,0,Transient,18.6,0,2,Family,1,1,0,1,EUR
+0,0,October,0,3,HB,Online TA,TA/TO,0,0,0,3,No Deposit,0,Transient,18.6,0,2,Group,1,1,0,1,EUR
 0,6,October,0,4,BB,Aviation,Corporate,0,0,0,0,No Deposit,0,Transient,110.0,0,0,Single,0,0,1,1,EUR
 0,35,October,0,2,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,104.13,0,0,Group,1,0,0,1,PRT
 0,26,October,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,130.0,0,1,Group,0,1,0,1,EUR
@@ -100185,7 +100185,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,0,October,0,0,BB,Offline TA/TO,TA/TO,1,0,0,0,No Deposit,0,Transient,0.0,0,1,Group,1,1,0,1,PRT
 0,268,October,1,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,96.3,0,2,Group,0,1,0,1,EUR
 0,71,October,1,0,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,75.54,0,1,Group,0,1,0,1,EUR
-0,92,October,1,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,81.5,0,2,Family,0,1,0,1,EUR
+0,92,October,1,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,81.5,0,2,Group,0,1,0,1,EUR
 0,93,October,1,1,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,81.5,0,2,Group,0,1,0,1,EUR
 0,32,October,1,5,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,92.88,0,0,Group,0,1,0,1,EUR
 0,5,October,1,2,HB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,200.33,1,2,Group,1,1,0,1,EUR
@@ -100318,7 +100318,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,88,October,2,1,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,75.4,0,3,Group,0,0,0,1,OTH
 0,9,October,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,137.63,0,1,Group,0,1,0,1,EUR
 0,243,October,2,2,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,81.76,0,3,Group,0,1,0,1,EUR
-0,241,October,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,81.76,0,1,Family,0,1,0,1,EUR
+0,241,October,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,81.76,0,1,Group,0,1,0,1,EUR
 0,68,October,2,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,96.6,0,1,Group,0,1,0,1,EUR
 0,68,October,2,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,96.6,0,1,Group,0,1,0,1,EUR
 0,226,October,2,2,BB,Offline TA/TO,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,70.0,0,1,Group,0,1,0,1,EUR
@@ -100382,7 +100382,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,19,November,0,1,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient,75.0,0,0,Single,0,1,0,1,EUR
 0,18,November,0,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,120.0,0,1,Group,0,1,0,1,EUR
 0,200,October,1,2,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,82.92,0,3,Group,0,1,0,1,EUR
-0,200,October,1,2,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,82.92,0,3,Family,0,1,0,1,EUR
+0,200,October,1,2,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,82.92,0,3,Group,0,1,0,1,EUR
 0,91,October,2,2,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,61.33,0,1,Group,0,1,0,1,EUR
 0,45,October,2,2,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient,75.0,0,0,Group,1,1,0,1,EUR
 0,102,October,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,85.05,0,2,Group,0,1,0,1,EUR
@@ -100457,7 +100457,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,43,November,0,3,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,85.07,0,1,Single,0,1,0,1,EUR
 0,183,October,1,3,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,83.5,0,2,Group,1,1,0,1,EUR
 0,45,October,2,3,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient,75.0,0,0,Group,1,1,0,1,EUR
-0,182,October,1,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,83.5,0,1,Family,0,1,0,1,EUR
+0,182,October,1,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,83.5,0,1,Group,0,1,0,1,EUR
 0,8,October,2,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,127.4,0,1,Group,0,1,0,1,EUR
 0,186,November,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,123.3,0,0,Group,0,1,0,1,EUR
 0,25,November,0,3,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,100.0,0,1,Group,0,1,0,1,EUR
@@ -102141,7 +102141,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,138,November,0,3,SC,Online TA,TA/TO,0,0,0,3,No Deposit,0,Transient,82.2,0,2,Single,0,1,0,1,OTH
 0,53,November,0,4,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,103.7,0,2,Family,0,1,0,1,EUR
 0,30,November,0,4,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,74.8,0,1,Group,0,1,0,1,EUR
-0,53,November,0,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,77.86,0,2,Family,1,1,0,1,EUR
+0,53,November,0,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,77.86,0,2,Group,1,1,0,1,EUR
 0,53,November,0,4,BB,Online TA,TA/TO,0,0,0,2,No Deposit,0,Transient,77.86,0,2,Group,1,1,0,1,EUR
 0,73,December,0,1,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,60.98,0,1,Group,1,1,0,1,OTH
 0,18,November,2,5,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient,68.0,0,0,Group,0,1,0,1,EUR
@@ -102287,7 +102287,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,0,December,1,0,SC,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,88.0,0,0,Single,0,1,0,1,EUR
 0,50,December,2,1,BB,Direct,Direct,0,0,0,1,No Deposit,0,Transient,88.2,0,1,Family,0,1,0,1,EUR
 0,5,December,2,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,185.33,0,0,Family,0,1,0,1,EUR
-0,38,December,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,77.86,0,1,Family,1,1,0,1,EUR
+0,38,December,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,77.86,0,1,Group,1,1,0,1,EUR
 0,38,December,2,2,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,77.86,0,1,Group,1,1,0,1,EUR
 0,143,December,2,0,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,88.69,0,1,Group,0,1,0,1,OTH
 0,0,December,2,1,BB,Direct,Direct,0,0,0,2,No Deposit,0,Transient,103.67,0,0,Group,0,0,0,1,OTH
@@ -102449,7 +102449,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,44,December,0,4,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,90.0,0,0,Family,0,1,0,1,EUR
 0,44,December,0,4,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,94.5,0,1,Group,0,1,0,1,EUR
 0,129,December,0,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,101.18,0,3,Family,0,1,0,1,OTH
-0,56,December,0,3,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,82.44,0,1,Family,1,1,0,1,EUR
+0,56,December,0,3,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,82.44,0,1,Group,1,1,0,1,EUR
 0,56,December,0,3,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,82.44,0,1,Group,1,1,0,1,EUR
 0,66,December,1,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,68.07,0,1,Group,0,1,0,1,OTH
 0,17,December,0,1,BB,Corporate,Corporate,0,0,0,0,No Deposit,0,Transient,65.0,0,0,Single,0,0,1,1,PRT
@@ -102460,7 +102460,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,3,December,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,131.0,0,0,Group,0,1,0,1,PRT
 0,62,December,0,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,118.8,0,2,Family,1,1,0,1,EUR
 0,79,December,0,3,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient,105.0,0,0,Group,1,1,0,1,EUR
-0,61,December,0,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,91.6,0,0,Family,0,1,0,1,PRT
+0,61,December,0,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,91.6,0,0,Group,0,1,0,1,PRT
 0,27,December,0,4,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,74.8,0,1,Group,0,1,0,1,EUR
 0,34,December,2,5,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,54.71,0,1,Group,0,1,0,1,EUR
 0,15,December,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,106.33,0,0,Group,0,1,0,1,EUR
@@ -102509,7 +102509,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,157,December,0,3,BB,Offline TA/TO,TA/TO,0,0,0,2,No Deposit,0,Transient-Party,68.0,0,0,Group,0,1,0,1,EUR
 0,103,December,0,2,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,79.2,0,2,Group,0,1,0,1,OTH
 0,209,December,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,81.9,0,1,Single,0,1,0,1,EUR
-0,56,December,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,82.44,0,1,Family,1,1,0,1,EUR
+0,56,December,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,82.44,0,1,Group,1,1,0,1,EUR
 0,157,December,0,3,BB,Offline TA/TO,TA/TO,0,0,0,2,No Deposit,0,Transient-Party,68.0,0,0,Group,0,1,0,1,EUR
 0,122,December,0,3,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,68.0,0,0,Group,0,1,0,1,PRT
 0,57,December,0,3,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,82.44,0,1,Group,1,1,0,1,EUR
@@ -102872,7 +102872,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,13,December,1,1,SC,Online TA,GDS,0,0,0,0,No Deposit,0,Transient,78.0,0,0,Single,0,1,0,1,EUR
 0,1,December,0,1,SC,Online TA,TA/TO,0,0,0,2,No Deposit,0,Transient,79.5,0,2,Single,0,1,0,1,PRT
 0,7,December,1,1,BB,Direct,Direct,0,0,0,1,No Deposit,0,Transient,88.0,0,0,Group,0,1,0,1,PRT
-0,109,December,2,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,77.86,0,2,Family,0,1,0,1,OTH
+0,109,December,2,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,77.86,0,2,Group,0,1,0,1,OTH
 0,13,December,1,1,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,79.2,0,0,Single,0,1,0,1,PRT
 0,83,December,2,1,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient,75.0,0,0,Group,1,1,0,1,EUR
 0,83,December,2,1,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient,75.0,0,0,Group,1,1,0,1,EUR
@@ -102988,7 +102988,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,197,December,1,4,HB,Offline TA/TO,TA/TO,0,0,0,3,No Deposit,0,Transient-Party,160.6,0,0,Group,1,1,0,1,EUR
 0,197,December,1,4,HB,Offline TA/TO,TA/TO,0,0,0,3,No Deposit,0,Transient-Party,160.6,0,0,Group,1,1,0,1,EUR
 0,197,December,1,4,HB,Offline TA/TO,TA/TO,0,0,0,2,No Deposit,0,Transient-Party,113.4,0,0,Group,0,1,0,1,EUR
-0,197,December,1,4,HB,Offline TA/TO,TA/TO,0,0,0,7,No Deposit,0,Transient-Party,43.8,0,0,Family,0,1,0,1,EUR
+0,197,December,1,4,HB,Offline TA/TO,TA/TO,0,0,0,7,No Deposit,0,Transient-Party,43.8,0,0,Group,0,1,0,1,EUR
 0,197,December,1,4,HB,Offline TA/TO,TA/TO,0,0,0,3,No Deposit,0,Transient-Party,137.0,0,0,Family,1,1,0,1,EUR
 0,197,December,1,4,HB,Offline TA/TO,TA/TO,0,0,0,2,No Deposit,0,Transient-Party,113.4,0,0,Group,0,1,0,1,EUR
 0,9,December,1,4,HB,Groups,TA/TO,0,0,0,2,No Deposit,0,Transient-Party,113.4,0,0,Group,0,1,0,1,EUR
@@ -103123,7 +103123,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,41,December,0,1,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,65.0,0,1,Group,0,1,0,1,OTH
 0,39,December,0,1,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,65.0,0,1,Group,0,1,0,1,OTH
 0,41,December,0,1,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,65.0,0,0,Group,0,1,0,1,OTH
-0,104,December,2,1,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,91.6,0,2,Family,1,1,0,1,PRT
+0,104,December,2,1,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,91.6,0,2,Group,1,1,0,1,PRT
 0,41,December,0,1,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,65.0,0,0,Group,0,1,0,1,OTH
 0,1,December,0,1,SC,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,65.6,0,0,Single,0,1,0,1,EUR
 0,41,December,0,1,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,65.0,0,1,Group,0,1,0,1,OTH
@@ -103133,7 +103133,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,106,December,2,1,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,91.6,0,2,Group,1,1,0,1,EUR
 0,79,December,0,1,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,126.0,0,2,Family,0,1,0,1,EUR
 0,79,December,0,1,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,156.6,0,1,Family,0,1,0,1,EUR
-0,104,December,2,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,91.6,0,2,Family,1,1,0,1,EUR
+0,104,December,2,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,91.6,0,2,Group,1,1,0,1,EUR
 0,106,December,2,1,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,91.6,0,2,Group,1,1,0,1,EUR
 0,16,December,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,98.6,0,1,Group,0,1,0,1,OTH
 0,9,January,1,0,BB,Online TA,TA/TO,0,0,1,0,No Deposit,0,Group,148.0,0,1,Group,0,1,0,1,OTH
@@ -103146,7 +103146,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,108,December,2,3,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,93.4,0,0,Group,0,1,0,1,OTH
 0,116,December,2,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,88.4,0,1,Group,0,1,0,1,EUR
 0,173,December,1,2,BB,Direct,Direct,0,0,0,1,No Deposit,0,Transient,132.0,0,1,Family,0,0,0,1,OTH
-0,247,December,2,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,67.26,0,1,Family,1,1,0,1,PRT
+0,247,December,2,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,67.26,0,1,Group,1,1,0,1,PRT
 0,248,December,2,3,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,67.26,0,1,Group,1,1,0,1,EUR
 0,77,December,2,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,74.61,0,1,Group,0,1,0,1,OTH
 0,0,December,0,1,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,88.0,0,0,Group,0,1,0,1,PRT
@@ -103572,7 +103572,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,110,January,0,2,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,91.6,0,2,Group,1,1,0,1,EUR
 0,0,January,1,2,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,109.67,0,0,Single,0,0,0,1,PRT
 0,0,January,1,1,BB,Corporate,Corporate,1,0,1,0,No Deposit,0,Transient,80.0,0,1,Single,0,0,1,1,PRT
-0,110,January,0,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,91.6,0,1,Family,1,1,0,1,EUR
+0,110,January,0,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,91.6,0,1,Group,1,1,0,1,EUR
 0,37,January,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,72.38,0,1,Single,0,1,0,1,EUR
 0,139,January,1,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,112.5,0,0,Group,0,1,0,1,EUR
 0,130,January,0,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,165.6,0,2,Family,1,1,0,1,EUR
@@ -103771,7 +103771,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,3,January,1,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,87.69,0,1,Group,0,1,0,1,OTH
 0,107,January,1,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,102.6,0,0,Group,0,1,0,1,EUR
 0,128,January,1,2,BB,Online TA,TA/TO,0,0,0,3,No Deposit,0,Transient,82.44,0,0,Group,1,1,0,1,EUR
-0,128,January,1,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,82.44,0,0,Family,1,1,0,1,OTH
+0,128,January,1,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,82.44,0,0,Group,1,1,0,1,OTH
 0,4,January,1,0,SC,Direct,Direct,0,0,0,0,No Deposit,0,Transient,79.5,0,1,Group,0,0,0,1,EUR
 0,24,January,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,90.1,0,2,Group,0,1,0,1,EUR
 0,87,January,2,5,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,68.07,0,1,Group,0,1,0,1,OTH
@@ -104058,7 +104058,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,16,January,1,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,82.88,0,2,Group,0,1,0,1,EUR
 0,10,January,2,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,88.2,0,2,Group,0,1,0,1,EUR
 0,138,January,2,2,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,77.86,0,0,Group,0,1,0,1,EUR
-0,137,January,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,86.86,0,0,Family,0,1,0,1,EUR
+0,137,January,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,86.86,0,0,Group,0,1,0,1,EUR
 0,5,January,2,1,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,58.52,0,1,Group,0,1,0,1,EUR
 0,12,January,2,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,85.77,0,0,Group,0,1,0,1,EUR
 0,52,January,2,1,BB,Online TA,TA/TO,0,0,0,2,No Deposit,0,Transient,87.75,0,0,Group,0,1,0,1,OTH
@@ -104250,7 +104250,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,10,January,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,125.0,1,1,Group,0,1,0,1,PRT
 0,29,January,0,3,BB,Groups,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,65.0,0,0,Single,0,1,0,1,PRT
 0,77,January,2,4,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,77.86,0,2,Group,1,1,0,1,OTH
-0,76,January,2,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,77.86,0,2,Family,1,1,0,1,OTH
+0,76,January,2,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,77.86,0,2,Group,1,1,0,1,OTH
 0,29,January,0,3,BB,Groups,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,65.0,0,0,Single,1,1,0,1,EUR
 0,29,January,0,3,BB,Groups,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,65.0,0,0,Single,0,1,0,1,EUR
 0,0,January,0,3,SC,Direct,Direct,0,0,0,0,No Deposit,0,Transient,88.0,0,2,Group,0,0,0,1,PRT
@@ -104390,7 +104390,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,1,January,0,0,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,0.0,0,0,Group,0,1,0,1,PRT
 0,18,January,2,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,97.5,0,0,Group,0,1,0,1,PRT
 0,7,January,2,0,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,98.0,0,1,Single,0,1,0,1,EUR
-0,16,January,2,2,BB,Direct,Direct,0,0,0,1,No Deposit,0,Transient-Party,6.0,1,1,Family,0,0,0,1,PRT
+0,16,January,2,2,BB,Direct,Direct,0,0,0,1,No Deposit,0,Transient-Party,6.0,1,1,Group,0,0,0,1,PRT
 0,16,January,2,2,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient-Party,42.5,1,1,Group,0,0,0,1,PRT
 0,10,January,2,0,BB,Offline TA/TO,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,65.0,0,0,Single,0,1,0,1,PRT
 0,2,January,2,1,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,48.05,0,1,Single,0,1,0,1,EUR
@@ -104862,7 +104862,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,11,February,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,108.0,0,0,Group,0,1,0,1,EUR
 0,15,February,0,2,BB,Groups,TA/TO,0,0,0,2,No Deposit,0,Transient-Party,80.0,0,0,Single,1,0,1,1,PRT
 0,53,February,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,95.4,0,3,Group,0,1,0,1,OTH
-0,0,February,0,1,BB,Direct,Direct,0,0,0,1,No Deposit,0,Transient-Party,6.0,0,0,Family,0,0,0,1,PRT
+0,0,February,0,1,BB,Direct,Direct,0,0,0,1,No Deposit,0,Transient-Party,6.0,0,0,Group,0,0,0,1,PRT
 0,53,February,0,1,SC,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,79.2,0,2,Single,0,1,0,1,OTH
 0,24,February,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,107.0,0,0,Group,0,1,0,1,EUR
 0,69,February,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,93.6,0,1,Group,0,1,0,1,EUR
@@ -106301,7 +106301,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,75,February,1,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,90.95,0,2,Group,0,1,0,1,EUR
 0,38,February,2,3,BB,Offline TA/TO,TA/TO,0,0,0,1,No Deposit,0,Transient,75.0,0,0,Group,0,1,0,1,EUR
 0,202,February,1,3,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,76.16,0,2,Group,1,1,0,1,EUR
-0,201,February,1,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,76.16,0,2,Family,1,1,0,1,EUR
+0,201,February,1,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,76.16,0,2,Group,1,1,0,1,EUR
 0,148,February,1,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,119.0,0,2,Group,0,1,0,1,EUR
 0,4,February,0,3,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,98.0,0,3,Single,0,1,0,1,EUR
 0,5,February,1,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,73.44,0,0,Group,0,1,0,1,EUR
@@ -107967,7 +107967,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,79,March,2,1,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient,72.0,0,1,Group,0,1,0,1,EUR
 0,76,March,2,3,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient,68.0,0,1,Group,0,1,0,1,EUR
 0,34,March,2,5,BB,Direct,Direct,0,0,0,1,No Deposit,0,Transient,93.82,0,0,Group,1,1,0,1,PRT
-0,34,March,2,5,BB,Direct,Direct,0,0,0,1,No Deposit,0,Transient,93.82,0,0,Family,1,1,0,1,OTH
+0,34,March,2,5,BB,Direct,Direct,0,0,0,1,No Deposit,0,Transient,93.82,0,0,Single,1,1,0,1,OTH
 0,0,March,0,1,BB,Online TA,TA/TO,1,0,0,1,No Deposit,0,Transient,108.0,0,2,Single,0,1,0,1,OTH
 0,0,June,0,2,BB,Online TA,TA/TO,1,0,1,0,No Deposit,0,Transient,150.0,0,1,Single,0,1,0,1,OTH
 1,31,July,2,0,BB,Direct,Direct,1,0,2,1,No Deposit,0,Transient,135.0,0,2,Single,0,0,0,1,OTH
@@ -108450,7 +108450,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,55,April,1,0,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,171.0,0,0,Group,0,1,0,1,OTH
 0,18,April,2,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,193.04,0,1,Group,0,1,0,1,EUR
 0,83,April,2,1,BB,Direct,Direct,0,0,0,1,No Deposit,0,Transient-Party,98.55,0,0,Group,0,1,0,1,EUR
-0,82,April,2,1,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient-Party,98.55,0,0,Family,0,1,0,1,EUR
+0,82,April,2,1,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient-Party,98.55,0,0,Group,0,1,0,1,EUR
 0,67,March,2,2,HB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,146.2,0,2,Group,0,1,0,1,EUR
 0,67,March,2,2,HB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,146.2,0,2,Group,0,1,0,1,EUR
 0,62,March,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,214.5,0,0,Family,0,1,0,1,EUR
@@ -108941,7 +108941,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,248,April,2,0,BB,Groups,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,80.0,0,1,Group,0,1,0,1,EUR
 0,248,April,2,0,BB,Groups,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,80.0,0,1,Group,0,1,0,1,EUR
 0,178,April,2,2,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,103.05,0,0,Group,1,1,0,1,EUR
-0,177,April,2,2,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,103.05,0,0,Family,1,1,0,1,EUR
+0,177,April,2,2,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,103.05,0,0,Group,1,1,0,1,EUR
 0,8,April,2,1,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,115.0,0,0,Group,0,1,0,1,EUR
 0,189,April,2,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,88.4,0,0,Group,0,1,0,1,PRT
 0,82,April,2,1,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,129.97,0,3,Group,0,1,0,1,EUR
@@ -108967,7 +108967,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,2,April,0,1,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,150.0,0,1,Group,0,1,0,1,PRT
 0,202,April,2,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,149.4,0,2,Group,0,1,0,1,OTH
 0,82,April,2,1,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient,85.0,0,0,Group,1,1,0,1,EUR
-0,202,April,2,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,103.05,0,1,Family,0,1,0,1,OTH
+0,202,April,2,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,103.05,0,1,Group,0,1,0,1,OTH
 0,77,April,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,162.0,0,1,Group,0,1,0,1,EUR
 0,96,April,2,1,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient,89.1,0,0,Group,0,1,0,1,EUR
 0,96,April,2,1,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient,89.1,0,0,Group,0,1,0,1,EUR
@@ -109196,7 +109196,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,5,April,0,3,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,165.67,1,1,Group,0,1,0,1,EUR
 0,0,April,0,2,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,123.0,0,0,Group,0,1,0,1,EUR
 0,6,April,0,2,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,160.0,0,1,Group,0,1,0,1,PRT
-0,182,April,0,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,103.05,0,2,Family,1,1,0,1,EUR
+0,182,April,0,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,103.05,0,2,Group,1,1,0,1,EUR
 0,183,April,0,4,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,103.05,0,1,Group,1,1,0,1,EUR
 0,6,April,0,2,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,169.0,0,1,Group,0,1,0,1,PRT
 0,102,April,0,1,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,139.5,0,1,Group,0,1,0,1,EUR
@@ -109213,7 +109213,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,96,April,0,2,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,108.0,0,1,Group,0,1,0,1,OTH
 0,96,April,0,2,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,108.0,0,2,Group,0,1,0,1,OTH
 0,64,April,0,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,144.0,1,2,Group,0,1,0,1,EUR
-0,181,April,1,4,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,103.05,0,2,Family,1,1,0,1,EUR
+0,181,April,1,4,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,103.05,0,2,Group,1,1,0,1,EUR
 0,76,April,0,4,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient,85.0,0,0,Group,1,1,0,1,EUR
 0,139,April,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,141.0,0,2,Family,0,1,0,1,EUR
 0,82,April,0,3,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,114.0,0,1,Group,0,1,0,1,EUR
@@ -109576,7 +109576,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,215,April,0,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,117.0,0,2,Group,1,1,0,1,EUR
 0,114,April,1,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,126.0,0,2,Group,0,1,0,1,EUR
 0,169,April,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,90.09,0,1,Group,1,1,0,1,OTH
-0,255,April,2,6,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,101.7,0,1,Family,0,1,0,1,OTH
+0,255,April,2,6,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,101.7,0,1,Group,0,1,0,1,OTH
 0,145,April,1,3,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,99.0,0,0,Group,0,0,0,1,EUR
 0,20,April,0,2,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,115.0,0,2,Group,1,1,0,1,OTH
 0,106,April,2,3,BB,Direct,Direct,0,0,0,2,No Deposit,0,Transient,126.88,0,2,Single,0,1,0,1,EUR
@@ -109915,7 +109915,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,59,April,0,1,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,130.5,0,2,Group,0,1,0,1,EUR
 0,204,April,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,210.0,0,4,Family,0,1,0,1,EUR
 0,204,April,2,2,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,114.5,0,4,Group,1,1,0,1,EUR
-0,202,April,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,114.5,0,3,Family,1,1,0,1,EUR
+0,202,April,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,114.5,0,3,Group,1,1,0,1,EUR
 0,137,April,1,2,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,105.25,0,0,Group,0,0,0,1,EUR
 0,41,April,0,1,BB,Corporate,Corporate,0,0,0,0,No Deposit,0,Transient-Party,110.0,0,0,Single,0,0,1,1,EUR
 0,110,April,2,3,HB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,175.5,0,0,Group,0,1,0,1,EUR
@@ -112241,7 +112241,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,178,May,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,126.0,0,2,Group,0,1,0,1,EUR
 0,180,May,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,126.0,0,1,Group,0,1,0,1,EUR
 0,180,May,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,144.0,0,0,Family,0,1,0,1,EUR
-0,248,May,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,123.05,0,2,Family,1,1,0,1,EUR
+0,248,May,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,123.05,0,2,Group,1,1,0,1,EUR
 0,249,May,0,3,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,123.05,0,3,Group,1,1,0,1,EUR
 0,180,May,0,3,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,166.0,0,1,Group,0,1,0,1,EUR
 0,233,May,0,3,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,107.1,0,2,Group,0,1,0,1,EUR
@@ -112265,7 +112265,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,225,May,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,91.51,0,1,Group,0,1,0,1,EUR
 0,131,May,0,2,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,108.0,0,1,Group,0,1,0,1,EUR
 0,29,May,0,1,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,160.0,0,0,Group,0,1,0,1,EUR
-0,159,May,0,4,HB,Online TA,TA/TO,0,0,0,5,No Deposit,0,Transient,129.6,0,0,Family,0,1,0,1,EUR
+0,159,May,0,4,HB,Online TA,TA/TO,0,0,0,5,No Deposit,0,Transient,129.6,0,0,Group,0,1,0,1,EUR
 0,194,May,0,3,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,129.9,0,0,Group,0,1,0,1,EUR
 0,159,May,0,4,HB,Online TA,TA/TO,0,0,0,4,No Deposit,0,Transient,129.6,0,0,Group,0,1,0,1,EUR
 0,159,May,0,4,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient,89.1,0,0,Group,0,1,0,1,PRT
@@ -113252,7 +113252,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,55,June,0,1,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,140.0,0,1,Group,0,1,0,1,OTH
 0,1,June,0,1,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,175.5,0,2,Group,0,1,0,1,PRT
 0,74,June,0,2,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,140.0,0,1,Group,0,1,0,1,EUR
-0,239,June,2,5,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,107.45,0,1,Family,0,1,0,1,EUR
+0,239,June,2,5,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,107.45,0,1,Single,0,1,0,1,EUR
 0,74,June,0,2,SC,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,140.0,0,1,Group,0,1,0,1,EUR
 0,212,June,0,2,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,99.0,0,1,Group,0,1,0,1,EUR
 0,38,June,0,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,190.0,0,3,Group,0,1,0,1,EUR
@@ -113403,8 +113403,8 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,109,June,1,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,153.0,0,0,Group,0,1,0,1,EUR
 0,8,June,2,1,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient,129.0,0,1,Group,0,1,0,1,EUR
 0,12,June,2,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,130.0,0,2,Single,0,1,0,1,EUR
-0,28,June,0,1,SC,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,109.0,0,2,Family,0,1,0,1,EUR
-0,28,June,0,1,SC,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,109.0,0,2,Family,0,1,0,1,EUR
+0,28,June,0,1,SC,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,109.0,0,2,Group,0,1,0,1,EUR
+0,28,June,0,1,SC,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient-Party,109.0,0,2,Group,0,1,0,1,EUR
 0,28,June,0,1,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient-Party,109.0,0,2,Group,0,1,0,1,EUR
 0,11,June,1,1,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,95.0,0,0,Single,0,1,0,1,PRT
 0,11,June,1,1,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,95.0,0,0,Single,0,1,0,1,EUR
@@ -115467,7 +115467,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,33,July,0,2,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,120.0,0,1,Group,0,1,0,1,EUR
 0,33,July,0,2,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,120.0,0,1,Group,0,1,0,1,EUR
 0,252,July,2,3,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,93.65,0,1,Group,0,1,0,1,OTH
-0,250,July,2,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,93.65,0,1,Family,0,1,0,1,OTH
+0,250,July,2,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,93.65,0,1,Group,0,1,0,1,OTH
 0,170,July,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,152.1,0,0,Group,0,1,0,1,EUR
 0,33,July,2,2,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,130.0,0,1,Group,0,1,0,1,OTH
 0,46,July,1,2,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,120.0,0,2,Group,0,1,0,1,EUR
@@ -115709,7 +115709,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,26,July,0,1,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,108.0,0,1,Group,0,1,0,1,EUR
 0,316,July,0,5,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,117.0,0,3,Group,0,1,0,1,EUR
 0,316,July,0,5,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,91.85,0,3,Group,1,1,0,1,EUR
-0,315,July,0,5,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,91.85,0,3,Family,1,1,0,1,EUR
+0,315,July,0,5,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,91.85,0,3,Group,1,1,0,1,EUR
 0,44,July,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,147.6,0,0,Family,0,1,0,1,EUR
 0,181,July,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,86.25,0,1,Group,0,1,0,1,EUR
 0,17,July,0,2,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,130.0,0,1,Group,0,1,0,1,EUR
@@ -116069,7 +116069,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,148,July,0,3,BB,Direct,Direct,0,0,0,2,No Deposit,0,Transient,118.1,1,2,Family,0,1,0,1,EUR
 0,118,July,2,5,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,126.0,0,0,Group,0,1,0,1,EUR
 0,116,July,0,3,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,142.33,1,1,Group,0,1,0,1,EUR
-0,295,July,0,2,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient-Party,91.4,0,1,Family,0,0,0,1,OTH
+0,295,July,0,2,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient-Party,91.4,0,1,Group,0,0,0,1,OTH
 0,295,July,0,2,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient-Party,100.4,0,1,Group,0,0,0,1,OTH
 0,86,July,0,2,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,120.0,0,2,Group,0,1,0,1,EUR
 0,138,July,0,1,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,108.0,0,0,Group,0,1,0,1,EUR
@@ -116343,7 +116343,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,108,July,1,1,BB,Online TA,TA/TO,0,0,0,3,No Deposit,0,Transient,127.1,0,0,Group,0,1,0,1,OTH
 0,307,July,0,1,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,89.1,0,2,Group,1,1,0,1,EUR
 0,7,July,2,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,160.0,0,1,Group,0,1,0,1,EUR
-0,14,July,1,1,BB,Direct,Direct,0,0,0,1,No Deposit,0,Transient-Party,0.0,0,3,Family,0,0,0,1,PRT
+0,14,July,1,1,BB,Direct,Direct,0,0,0,1,No Deposit,0,Transient-Party,0.0,0,3,Group,0,0,0,1,PRT
 0,14,July,1,1,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient-Party,119.0,0,1,Group,0,0,0,1,OTH
 0,129,July,2,3,HB,Direct,Direct,0,0,0,2,No Deposit,0,Transient,239.0,0,2,Family,0,1,0,1,EUR
 0,112,July,2,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,155.0,0,1,Group,0,1,0,1,EUR
@@ -116639,9 +116639,9 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,47,July,0,2,HB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,307.0,0,0,Family,0,1,0,1,EUR
 0,76,July,0,3,BB,Corporate,Corporate,0,0,0,0,No Deposit,0,Transient,114.0,0,0,Group,0,0,1,1,PRT
 0,352,July,0,3,BB,Online TA,TA/TO,0,0,0,2,No Deposit,0,Transient,90.05,0,1,Family,1,1,0,1,EUR
-0,351,July,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,90.05,0,1,Family,1,1,0,1,EUR
+0,351,July,0,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,90.05,0,1,Group,1,1,0,1,EUR
 0,278,July,0,4,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,165.6,0,2,Group,0,1,0,1,EUR
-0,329,July,1,5,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,91.85,0,3,Family,0,1,0,1,EUR
+0,329,July,1,5,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,91.85,0,3,Group,0,1,0,1,EUR
 0,331,July,1,5,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,91.85,0,3,Group,0,1,0,1,EUR
 0,140,July,2,5,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,94.5,0,0,Group,0,1,0,1,EUR
 0,91,July,0,3,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,112.5,0,0,Group,0,1,0,1,EUR
@@ -116715,7 +116715,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,28,July,1,1,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,134.0,0,1,Single,0,1,0,1,OTH
 0,207,July,1,1,BB,Direct,Direct,0,0,0,0,No Deposit,0,Transient,187.5,0,0,Family,0,1,0,1,EUR
 0,296,July,1,3,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,98.85,0,1,Group,1,1,0,1,EUR
-0,296,July,1,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,98.85,0,1,Family,1,1,0,1,EUR
+0,296,July,1,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,98.85,0,1,Group,1,1,0,1,EUR
 0,64,July,1,2,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,119.33,0,1,Group,0,1,0,1,EUR
 0,0,July,1,1,SC,Direct,Direct,0,0,0,2,No Deposit,0,Transient,189.0,0,0,Group,0,0,0,1,EUR
 0,198,July,1,5,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,170.0,0,2,Group,0,1,0,1,EUR
@@ -116785,7 +116785,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,164,July,2,0,BB,Offline TA/TO,TA/TO,0,0,0,1,No Deposit,0,Transient,84.6,0,1,Single,0,1,0,1,OTH
 0,117,July,2,1,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient,80.1,0,0,Group,0,1,0,1,EUR
 0,276,July,2,1,BB,Online TA,TA/TO,0,0,0,3,No Deposit,0,Transient,93.64,0,2,Family,0,1,0,1,EUR
-0,276,July,2,1,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,93.64,0,2,Family,0,1,0,1,EUR
+0,276,July,2,1,BB,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,93.64,0,2,Group,0,1,0,1,EUR
 0,62,August,0,1,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,71.1,0,0,Group,0,1,0,1,EUR
 0,58,July,2,2,BB,Online TA,TA/TO,0,0,0,2,No Deposit,0,Transient,231.5,0,1,Family,0,1,0,1,EUR
 0,103,July,2,2,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,125.0,0,1,Group,0,1,0,1,EUR
@@ -116814,7 +116814,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,20,July,1,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,234.0,0,0,Family,0,1,0,1,OTH
 0,14,July,1,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,144.5,0,1,Single,0,1,0,1,EUR
 0,155,July,2,3,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,130.5,0,0,Group,0,1,0,1,EUR
-0,291,July,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,98.85,0,1,Family,1,1,0,1,PRT
+0,291,July,2,2,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,98.85,0,1,Group,1,1,0,1,PRT
 0,154,July,2,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,104.4,0,0,Group,0,1,0,1,EUR
 0,270,July,1,1,SC,Online TA,TA/TO,0,0,0,2,No Deposit,0,Transient,98.1,1,1,Group,0,1,0,1,EUR
 0,270,July,1,1,SC,Online TA,TA/TO,0,0,0,2,No Deposit,0,Transient,98.1,0,1,Group,0,1,0,1,EUR
@@ -116964,7 +116964,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,186,July,1,3,BB,Offline TA/TO,TA/TO,0,0,0,0,No Deposit,0,Transient,80.1,0,0,Group,0,1,0,1,EUR
 0,0,August,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,219.0,0,0,Family,0,1,0,1,EUR
 0,1,August,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,188.0,0,3,Group,0,1,0,1,EUR
-0,159,July,1,3,SC,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,121.88,0,1,Family,0,1,0,1,EUR
+0,159,July,1,3,SC,Online TA,TA/TO,0,0,0,1,No Deposit,0,Transient,121.88,0,1,Group,0,1,0,1,EUR
 0,159,July,1,3,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,121.88,0,1,Group,0,1,0,1,EUR
 0,2,August,0,2,BB,Corporate,Corporate,0,0,0,1,No Deposit,0,Transient,74.0,1,0,Single,0,0,1,1,PRT
 0,20,August,0,1,BB,Online TA,TA/TO,0,0,0,4,No Deposit,0,Transient-Party,190.0,0,2,Group,0,1,0,1,OTH
@@ -117711,7 +117711,7 @@ is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_n
 0,89,August,2,2,SC,Online TA,TA/TO,0,0,0,5,No Deposit,0,Transient,125.0,0,2,Group,1,1,0,1,EUR
 0,173,August,2,4,HB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,173.7,0,1,Group,0,1,0,1,EUR
 0,170,August,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,139.5,1,1,Group,0,1,0,1,EUR
-0,10,August,2,2,BB,Direct,Direct,0,0,0,1,No Deposit,0,Transient-Party,6.0,0,1,Family,1,0,0,1,OTH
+0,10,August,2,2,BB,Direct,Direct,0,0,0,1,No Deposit,0,Transient-Party,6.0,0,1,Group,1,0,0,1,OTH
 0,10,August,2,2,BB,Direct,Direct,0,0,0,1,No Deposit,0,Transient-Party,99.0,0,0,Group,1,0,0,1,OTH
 0,58,August,0,1,BB,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,180.0,0,1,Family,1,1,0,1,PRT
 0,154,August,2,5,SC,Online TA,TA/TO,0,0,0,0,No Deposit,0,Transient,121.43,0,0,Group,0,1,0,1,EUR
