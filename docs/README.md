@@ -69,30 +69,94 @@
 
 ```text
 SKN30-2nd-3Team/
-│
-├── README.md                       # 프로젝트 개요
-├── .gitignore
-│
-├── data/
-│   ├── raw/                        # 원본 데이터
-│   ├── external/                   # 날씨/환율
-│   └── processed/                  # 최종 병합본
-│
-├── sql/                            # 테이블 생성, ERD
-│   ├── schema.sql
-│   └── merge_query.sql
-│
-├── notebooks/                      # 팀원별 작업
-│   ├── 01_preprocessing.ipynb
+.
+├── dataset
+│   ├── preprocessed
+│   │   ├── hotel_bookings.csv
+│   │   ├── hotel_bookings_dummy.csv
+│   │   └── weather.csv
+│   └── raw
+│       ├── country_currencies.csv
+│       ├── euro-daily-hist_1999_2022.csv
+│       ├── hotel_bookings.csv
+│       └── weather.csv
+├── docs
+│   ├── AGENTS.md
+│   ├── ERD.png
+│   ├── README.md
+│   ├── Report
+│   │   ├── 인공지능 데이터 전처리 결과서.md
+│   │   ├── 인공지능 학습 결과서.md
+│   │   └── 학습된 인공지능 모델.md
+│   ├── convention.md
+│   ├── erd 설계.mwb
+│   ├── EDA_분석_정리.md
+│   ├── pipeline.pdf
+│   ├── pipeline.png
+│   └── 호텔 예약 취소 예측 및 운영 최적화 프로젝트 초기 기획안.pdf
+├── eda
 │   ├── 02_eda.ipynb
-│   ├── 03_ml_model.ipynb
-│   └── 04_dl_model.ipynb
-│
-├── images/                         # 그래프 저장
-├── presentation/                   # 최종 발표자료
-│
-└── docs/
-    └── convention.md
+│   ├── clustering.ipynb
+│   └── graph.ipynb
+├── main.py
+├── modeling
+│   ├── dl
+│   │   ├── MLP.ipynb
+│   │   └── final.ipynb
+│   └── ml
+│       ├── 03_ml_model.ipynb
+│       ├── randomforest.ipynb
+│       └── xgboost.ipynb
+│   └── saved
+│       ├── best_mlp.pkl
+│       ├── best_rf.pkl
+│       └── best_xgb.pkl
+├── preprocessing
+│   ├── preprocessing_euro_daily.ipynb
+│   ├── preprocessing_hotel.ipynb
+│   └── preprocessing_weather.ipynb
+├── results
+│   ├── mlp_result.csv
+│   ├── rf_result.csv
+│   └── xgb_result.csv
+├── pyproject.toml
+├── uv.lock
+└── visualization
+    ├── eda
+    │   ├── adr
+    │   │   ├── adr_box.png
+    │   │   ├── adr_cancellation_kde.png
+    │   │   ├── adr_cancellation_rate_hist.png
+    │   │   └── adr_cancellation_rate_kde.png
+    │   ├── deposit_type
+    │   │   ├── deposit_cancellation_rate.png
+    │   │   ├── deposit_no_booking_count.png
+    │   │   ├── deposit_nonrefund_booking_count.png
+    │   │   ├── deposit_refundable_booking_count.png
+    │   │   └── noshow_deposit_type_ratio.png
+    │   ├── distribution_channel
+    │   │   ├── channel_booking_distribution.png
+    │   │   ├── channel_booking_rate_cancellation.png
+    │   │   └── channel_noshow_rate.png
+    │   ├── hotel
+    │   │   ├── hotel_actual_stay_comparison.png
+    │   │   └── hotel_overview.png
+    │   ├── lead_time
+    │   │   ├── leadtime_cancellation_boxplot.png
+    │   │   ├── leadtime_cancellation_rate.png
+    │   │   ├── leadtime_cancellation_trend.png
+    │   │   ├── leadtime_distribution_comparison.png
+    │   │   └── leadtime_noshow_rate.png
+    │   ├── market_segment
+    │   │   ├── market_segment_booking_cancellation.png
+    │   │   └── market_segment_booking_distribution.png
+    │   ├── ref
+    │   │   ├── ref_all_features.png
+    │   │   └── ref_overview.png
+    │   └── stays_in_weekend_nights
+    │       └── weekend_noshow_rate.png
+    └── model_results
+        └── total_model_comparison.png
 ```
 ---
 
