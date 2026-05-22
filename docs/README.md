@@ -105,9 +105,9 @@ SKN30-2nd-3Team/
 
 ### 🚀 Machine Learning Models
 <div>
-    <img src="https://xgboost.ai/images/logo/xgboost-logo-trimmed.png" height="35" alt="XGBoost"/>
-    <img src="https://velog.velcdn.com/images/sunny10/post/3db85049-365c-4c71-bbb9-b305eb589e20/image.png" height="35" alt="LightGBM"/>
-    <img src="https://www.tutorialspoint.com/catboost/images/catboost-mini-logo.jpg" height="35" alt="CatBoost"/>
+    <img src="/docs/images/XGBoost.png" height="35" alt="XGBoost"/>
+    <img src="/docs/images/LightGBM.png" height="35" alt="LightGBM"/>
+    <img src="/docs/images/MatCatBoostplotlib.png" height="35" alt="CatBoost"/>
 </div>
 
 ### 📦 Data Pipeline
@@ -119,8 +119,7 @@ SKN30-2nd-3Team/
 ### 📊 Visualization
 <div>
     <img src="/docs/images/Matplotlib.png" height="30" alt="Matplotlib"/>
-    <img src="/images/Matplotlib.png" height="30" alt="Matplotlib"/>
-    <img src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN30-2nd-3Team/blob/develop/docs/images/Seaborn.png" height="30" alt="Seaborn"/>
+    <img src="/docs/images/Seaborn.png" height="30" alt="Seaborn"/>
 </div>
   
 ---
