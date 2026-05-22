@@ -111,6 +111,7 @@ SKN30-2nd-3Team/
 ### 📦 Data Pipeline
 <img src="https://shields.io/badge/pandas%203.0.3-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 <img src="https://shields.io/badge/numpy%202.4.5-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://shields.io/badge/scipy%201.17.1-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"/>
 <img src="https://shields.io/badge/Imbalanced--Learn%200.14.1-F0A422?style=for-the-badge" alt="Imbalanced-Learn"/>
 
 ### 📊 Visualization
