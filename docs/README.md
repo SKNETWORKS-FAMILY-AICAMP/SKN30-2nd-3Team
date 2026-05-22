@@ -107,7 +107,7 @@ SKN30-2nd-3Team/
 <div>
     <img src="/docs/images/XGBoost.png" height="35" alt="XGBoost"/>
     <img src="/docs/images/LightGBM.png" height="35" alt="LightGBM"/>
-    <img src="/docs/images/MatCatBoostplotlib.png" height="35" alt="CatBoost"/>
+    <img src="/docs/images/CatBoost.png" height="35" alt="CatBoost"/>
 </div>
 
 ### 📦 Data Pipeline
