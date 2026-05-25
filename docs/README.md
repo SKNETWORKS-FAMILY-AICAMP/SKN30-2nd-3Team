@@ -65,52 +65,6 @@
 
 ---
 
-## 프로젝트 구조
-
-```text
-SKN30-2nd-3Team/
-.
-├── dataset/
-│   ├── preprocessed/       # 전처리 완료된 CSV 파일
-│   └── raw/                # 원본 데이터 (수정 금지)
-│
-├── docs/
-│   ├── Report/             # 최종 결과서 (md / pdf / html)
-│   ├── images/             # 라이브러리 로고 이미지
-│   ├── AGENTS.md
-│   ├── EDA_분석_정리.md
-│   ├── ERD.png
-│   ├── pipeline.png        # 전체 파이프라인 흐름도
-│   └── convention.md       # 코드 컨벤션 정의
-│
-├── eda/                    # 탐색적 데이터 분석 노트북
-│   ├── 02_eda.ipynb
-│   ├── clustering.ipynb
-│   └── graph.ipynb
-│
-├── modeling/
-│   ├── dl/                 # 딥러닝 (MLP)
-│   ├── ml/                 # 머신러닝 (RF, XGBoost 등)
-│   └── saved/              # 학습된 모델 .pkl 저장소
-│
-├── preprocessing/          # 데이터별 전처리 노트북
-│
-├── results/                # 모델별 예측 결과 CSV
-│
-├── streamlit/              # 웹 앱 (취소 예측 서비스)
-│   ├── home.py             # 메인 페이지
-│   └── pages/              # 서브 페이지 (1_취소_예측.py)
-│
-├── visualization/
-│   ├── eda/                # EDA 시각화 결과 이미지 (변수별 분류)
-│   └── model_results/      # 모델 비교 결과 시각화
-│
-├── main.py                 # 프로젝트 진입점
-├── pyproject.toml          # 의존성 및 환경 설정
-└── uv.lock                 # 패키지 잠금 파일 (uv 사용)
-```
----
-
 ## 기술 스택
 
 ### 💻 Core Frameworks
@@ -136,15 +90,6 @@ SKN30-2nd-3Team/
     <img src="/docs/images/Matplotlib.png" height="30" alt="Matplotlib"/>
     <img src="/docs/images/Seaborn.png" height="30" alt="Seaborn"/>
 </div>
-  
----
-
-## Git 협업 가이드
-
-본 프로젝트는 `develop` 브랜치 기반 협업 방식으로 진행됩니다.
-
-자세한 Git 작업 절차 및 커밋 규칙은  
-`docs/convention.md`를 참고해주세요.
 
 ---
 
@@ -192,9 +137,79 @@ SKN30-2nd-3Team/
 
 ---
 
+## 🖥️ 서비스 데모 (Streamlit)
+
+### 홈 대시보드
+<img src="main.png" width="700"/>
+- 총 예약 건수, 취소율, 평균 ADR 등 핵심 운영 지표를 한눈에 확인할 수 있는 메인 대시보드.
+
+
+### 취소 확률 예측 페이지
+<img src="prediction.png" width="700"/>
+- 보증금 유형, 리드타임, ADR 등 주요 피처를 입력하면 MLP 모델 기반으로 취소 확률을 실시간 예측.
+
+> ⚠️ 서비스 구현의 간결성을 위해 주요 피처 6개만 입력값으로 사용하여, 전체 피처 대비 예측 정확도에 일부 차이가 있을 수 있습니다. 
+
+---
+
 ## 프로젝트 파이프라인
 
 <img src="pipeline.png" width="700"/>
+
+---
+## 프로젝트 구조
+
+```text
+SKN30-2nd-3Team/
+.
+├── dataset/
+│   ├── preprocessed/       # 전처리 완료된 CSV 파일
+│   └── raw/                # 원본 데이터 (수정 금지)
+│
+├── docs/
+│   ├── Report/             # 최종 결과서 (md / pdf / html)
+│   ├── images/             # 라이브러리 로고 이미지
+│   ├── AGENTS.md
+│   ├── EDA_분석_정리.md
+│   ├── ERD.png
+│   ├── pipeline.png        # 전체 파이프라인 흐름도
+│   └── convention.md       # 코드 컨벤션 정의
+│
+├── eda/                    # 탐색적 데이터 분석 노트북
+│   ├── 02_eda.ipynb
+│   ├── clustering.ipynb
+│   └── graph.ipynb
+│
+├── modeling/
+│   ├── dl/                 # 딥러닝 (MLP)
+│   ├── ml/                 # 머신러닝 (RF, XGBoost 등)
+│   └── saved/              # 학습된 모델 .pkl 저장소
+│
+├── preprocessing/          # 데이터별 전처리 노트북
+│
+├── results/                # 모델별 예측 결과 CSV
+│
+├── streamlit/              # 웹 앱 (취소 예측 서비스)
+│   ├── home.py             # 메인 페이지
+│   └── pages/              # 서브 페이지 (1_취소_예측.py)
+│
+├── visualization/
+│   ├── eda/                # EDA 시각화 결과 이미지 (변수별 분류)
+│   └── model_results/      # 모델 비교 결과 시각화
+│
+├── main.py                 # 프로젝트 진입점
+├── pyproject.toml          # 의존성 및 환경 설정
+└── uv.lock                 # 패키지 잠금 파일 (uv 사용)
+```
+
+---
+
+## Git 협업 가이드
+
+본 프로젝트는 `develop` 브랜치 기반 협업 방식으로 진행됩니다.
+
+자세한 Git 작업 절차 및 커밋 규칙은  
+`docs/convention.md`를 참고해주세요.
 
 ---
 
