@@ -6,7 +6,7 @@
 
 ## 팀원 및 역할 분담 (Team)
 - **박세빈**: 프로젝트 총괄, SQL 테이블 구축 및 ERD 작성, 발표자료 제작
-- **김효선**: 데이터 전처리 및 외부 환경 데이터(환율 파생 변수 등) 병합 
+- **김효선**: 데이터 전처리 및 외부 환경 데이터(환율, 날씨, 파생 변수 등) 검토 
 - **남태식**: 탐색적 데이터 분석(EDA) 및 데이터 시각화 자료 생성
 - **이동욱**: 머신러닝(ML) 알고리즘 적용 및 모델링 구축
 - **정민규**: 딥러닝(DL) 알고리즘 적용 및 모델 성능 비교 평가
@@ -65,55 +65,55 @@
 
 ---
 
-## 프로젝트 구조
+## 기술 스택
 
-```text
-SKN30-2nd-3Team/
-│
-├── README.md                       # 프로젝트 개요
-├── .gitignore
-│
-├── data/
-│   ├── raw/                        # 원본 데이터
-│   ├── external/                   # 날씨/환율
-│   └── processed/                  # 최종 병합본
-│
-├── sql/                            # 테이블 생성, ERD
-│   ├── schema.sql
-│   └── merge_query.sql
-│
-├── notebooks/                      # 팀원별 작업
-│   ├── 01_preprocessing.ipynb
-│   ├── 02_eda.ipynb
-│   ├── 03_ml_model.ipynb
-│   └── 04_dl_model.ipynb
-│
-├── images/                         # 그래프 저장
-├── presentation/                   # 최종 발표자료
-│
-└── docs/
-    └── convention.md
-```
----
+### 💻 Core Frameworks
+![Python](https://shields.io/badge/Python%203.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-Learn](https://shields.io/badge/Scikit--Learn%201.8.0-F7931E?style=for-the-badge&logo=Scikit-Learn&logoColor=white)
+![PyTorch](https://shields.io/badge/PyTorch%202.12.0-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 
-## 기술 스택 (업데이트 예정)
+### 🚀 Machine Learning Models
+<div>
+    <img src="/docs/images/XGBoost.png" height="35" alt="XGBoost"/>
+    <img src="/docs/images/LightGBM.png" height="35" alt="LightGBM"/>
+    <img src="/docs/images/CatBoost.png" height="35" alt="CatBoost"/>
+</div>
 
-> 프로젝트 진행 과정에서 확정된 기술 스택 및 라이브러리를 반영하여 업데이트 예정
-  
----
+### 📦 Data Pipeline
+![Pandas](https://shields.io/badge/pandas%203.0.3-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://shields.io/badge/numpy%202.4.5-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://shields.io/badge/scipy%201.17.1-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Imbalanced-Learn](https://shields.io/badge/Imbalanced--Learn%200.14.1-F0A422?style=for-the-badge)
 
-## Git 협업 가이드
+### 📊 Visualization
+<div>
+    <img src="/docs/images/Matplotlib.png" height="30" alt="Matplotlib"/>
+    <img src="/docs/images/Seaborn.png" height="30" alt="Seaborn"/>
+</div>
 
-본 프로젝트는 `develop` 브랜치 기반 협업 방식으로 진행됩니다.
-
-자세한 Git 작업 절차 및 커밋 규칙은  
-`docs/convention.md`를 참고해주세요.
+### 🛠️ Tools
+![MySQL Workbench](https://shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Figma](https://shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Streamlit](https://shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ---
 
 ## 데이터 전처리
 
-> 프로젝트 진행 후 업데이트 예정
+### 📌 핵심 전처리 방향
+
+* **품질 최적화**: 국적 불명 488건 제거 및 미성년/대행사 누락값 무결성 처리 (최종 118,902행)
+* **차원 축소**: 불필요한 도착 연/일 및 객실 코드를 제거하여 기존 32개 열을 24개 열로 압축
+* **도메인 피처 생성**: 투숙객 유형(guest_type), 객실 변경 여부(diff_reserved_room_type) 등 모델 해석력을 높이는 파생 변수 4종 확보
+* **데이터 누수 방지**: 타겟 사후 변수(reservation_status 등)를 전면 배제하여 예측 모델 유효성 보장
+
+### 📊 전처리 전/후 데이터 구조 비교
+
+| 구분 | 전처리 전 (Raw Data) | 전처리 후 | 변동 사항 |
+|---|---|---|---|
+| 행 (Rows) | 119,390개 | 118,902개 | 불확실 국적 데이터 삭제 (-488행) |
+| 열 (Columns) | 32개 | 24개 | 날짜/원본 피처 제거 및 파생 변수 추가 |
+| 타겟 (Target) | is_canceled (int64) | is_canceled (int64) | 변동 없음 (이진 분류 문제) |
 
 ---
 
@@ -125,13 +125,96 @@ SKN30-2nd-3Team/
 
 ## 모델링
 
-> 프로젝트 진행 후 업데이트 예정
+### 1. 모델 선정 및 불균형 데이터 처리
+* **클래스 불균형 해결**: 타겟 변수(`is_canceled`)의 불균형 문제를 해결하기 위해 `Imbalanced-Learn` 패키지를 활용, 오버샘플링(SMOTE) 및 전처리를 수행하여 모델의 예측 편향을 방지했습니다.
+* **앙상블 및 딥러닝 최적화**: 정형 데이터 최적화 알고리즘인 **XGBoost, Random Forest**를 교차 검증하며 최적의 하이퍼파라미터를 탐색했고, 거시적 외부 변수(날씨, 환율 등) 결합에 따른 비선형 패턴 포착을 위해 **PyTorch 기반의 MLP** 모델을 구축하여 성능을 비교·평가했습니다.
+* **최종 모델(Final Model) 도출**: 개별 모델들의 예측력을 결합하고 과적합을 방지하기 위해 앙상블 기반의 **Final Model**을 구축하여 가장 우수한 성능을 확보했습니다.
+
+### 2. 모델 성능 비교 평가
+호텔 수익 관리(Revenue Management) 측면에서 취소 위험 고객을 정확히 식별(Recall)하면서도 오예측으로 인한 리스크를 최소화하기 위해 **Recall**과 **F1-Score**를 주요 지표로 평가했습니다.
+
+| 모델 (구분) | Accuracy (정확도) | Recall (재현율) | F1-Score (종합점수) |
+| :--- | :---: | :---: | :---: |
+| 🏆 **Final model** | **0.878** | **0.803** | **0.831** |
+| Random Forest | 0.877 | 0.793 | 0.828 |
+| XGBoost | 0.876 | 0.802 | 0.828 |
+| MLP | 0.855 | 0.760 | 0.796 |
+
+---
+
+## 🖥️ 서비스 데모 (Streamlit)
+
+### 홈 대시보드
+<img src="main.png" width="700"/>
+- 총 예약 건수, 취소율, 평균 ADR 등 핵심 운영 지표를 한눈에 확인할 수 있는 메인 대시보드.
+
+
+### 취소 확률 예측 페이지
+<img src="prediction.png" width="700"/>
+- 보증금 유형, 리드타임, ADR 등 주요 피처를 입력하면 MLP 모델 기반으로 취소 확률을 실시간 예측.
+
+> ⚠️ 서비스 구현의 간결성을 위해 주요 피처 6개만 입력값으로 사용하여, 전체 피처 대비 예측 정확도에 일부 차이가 있을 수 있습니다. 
 
 ---
 
 ## 프로젝트 파이프라인
 
 <img src="pipeline.png" width="700"/>
+
+---
+## 프로젝트 구조
+
+```text
+SKN30-2nd-3Team/
+.
+├── dataset/
+│   ├── preprocessed/       # 전처리 완료된 CSV 파일
+│   └── raw/                # 원본 데이터 (수정 금지)
+│
+├── docs/
+│   ├── Report/             # 최종 결과서 (md / pdf / html)
+│   ├── images/             # 라이브러리 로고 이미지
+│   ├── AGENTS.md
+│   ├── EDA_분석_정리.md
+│   ├── ERD.png
+│   ├── pipeline.png        # 전체 파이프라인 흐름도
+│   └── convention.md       # 코드 컨벤션 정의
+│
+├── eda/                    # 탐색적 데이터 분석 노트북
+│   ├── 02_eda.ipynb
+│   ├── clustering.ipynb
+│   └── graph.ipynb
+│
+├── modeling/
+│   ├── dl/                 # 딥러닝 (MLP)
+│   ├── ml/                 # 머신러닝 (RF, XGBoost 등)
+│   └── saved/              # 학습된 모델 .pkl 저장소
+│
+├── preprocessing/          # 데이터별 전처리 노트북
+│
+├── results/                # 모델별 예측 결과 CSV
+│
+├── streamlit/              # 웹 앱 (취소 예측 서비스)
+│   ├── home.py             # 메인 페이지
+│   └── pages/              # 서브 페이지 (1_취소_예측.py)
+│
+├── visualization/
+│   ├── eda/                # EDA 시각화 결과 이미지 (변수별 분류)
+│   └── model_results/      # 모델 비교 결과 시각화
+│
+├── main.py                 # 프로젝트 진입점
+├── pyproject.toml          # 의존성 및 환경 설정
+└── uv.lock                 # 패키지 잠금 파일 (uv 사용)
+```
+
+---
+
+## Git 협업 가이드
+
+본 프로젝트는 `develop` 브랜치 기반 협업 방식으로 진행됩니다.
+
+자세한 Git 작업 절차 및 커밋 규칙은  
+`docs/convention.md`를 참고해주세요.
 
 ---
 
@@ -152,8 +235,6 @@ SKN30-2nd-3Team/
 ---
 
 ## 📂 최종 산출물 (Deliverables)
-- 호텔 예약 및 취소 패턴 데이터 분석 결과 보고서
-- 인사이트 발굴을 위한 데이터 시각화 자료
-- 적용 알고리즘 간 머신러닝/딥러닝 모델 성능 비교 결과
-- 취소 여부에 가장 큰 영향을 미치는 핵심 변수 영향 분석(Feature Importance) 결과 
-- 데이터 기반 예약 취소 대응 및 운영 개선 전략 제안서
+- 인공지능 데이터 전처리 결과서
+- 인공지능 학습 결과서
+- 학습된 인공지능 모델

@@ -1,0 +1,364 @@
+<h2 id="인공지능-데이터-전처리-결과서-preprocessing-report">1. 📄
+인공지능 데이터 전처리 결과서 (Preprocessing Report)</h2>
+<h1 id="목차">목차</h1>
+<ol type="1">
+<li>프로젝트 개요
+<ul>
+<li>전처리 목적</li>
+<li>데이터 구조 설명</li>
+</ul></li>
+<li>원본 데이터 설명
+<ul>
+<li>데이터 출처</li>
+<li>변수 설명</li>
+<li>데이터 크기</li>
+</ul></li>
+<li>결측치 및 이상치 처리
+<ul>
+<li>변수별 처리 방법</li>
+</ul></li>
+<li>데이터 변환
+<ul>
+<li>범주형 인코딩 (Label / One-hot)</li>
+<li>날짜 데이터 처리</li>
+</ul></li>
+<li>Feature Engineering
+<ul>
+<li>파생 변수 생성 (예: lead_time, rain_group 등)</li>
+<li>제거된 변수</li>
+</ul></li>
+<li>최종 전처리 데이터 구조
+<ul>
+<li>최종 feature 리스트</li>
+<li>shape</li>
+</ul></li>
+</ol>
+<hr />
+<h1 id="프로젝트-개요">1. 프로젝트 개요</h1>
+<h3 id="전처리-목적">전처리 목적</h3>
+<ul>
+<li>호텔 예약 데이터의 노이즈를 제거하고, 도메인 지식 기반의 파생 변수를
+생성하여 ’예약 취소 예측 모델’의 성능 및 해석력 극대화</li>
+</ul>
+<h3 id="데이터-구조-설명">데이터 구조 설명</h3>
+<ul>
+<li>호텔 유형(City/Resort), 고객 인원 구성, 예약 시점, 객실 종류,
+에이전트 정보 등 예약 행태와 관련된 수치형 및 범주형 변수가 혼합된
+구조</li>
+</ul>
+<hr />
+<h1 id="원본-데이터-설명">2. 원본 데이터 설명</h1>
+<h3 id="데이터-출처">데이터 출처</h3>
+<ul>
+<li>포르투갈 지역 호텔의 예약/취소 이력을 담은 원시 데이터</li>
+</ul>
+<h3 id="변수-설명">변수 설명</h3>
+<ul>
+<li>예약 리드 타임, 숙박 일수, 고객 정보(인원, 국적), 예약 경로, 객실
+유형, 과거 취소 이력, 최종 요금(ADR) 및 취소 여부(is_canceled) 등으로
+구성</li>
+</ul>
+<h3 id="데이터-크기">데이터 크기</h3>
+<ul>
+<li><strong>관측치 수</strong>: 119,390 행 (Entries)</li>
+<li><h2 id="변수-수-32-열-columns"><strong>변수 수</strong>: 32 열
+(Columns)</h2></li>
+</ul>
+<h1 id="결측치-및-이상치-처리">3. 결측치 및 이상치 처리</h1>
+<blockquote>
+<p><strong>[기본 전제]</strong></p>
+<ul>
+<li><strong>데이터 무결성</strong>: 데이터 수집 시 누락된 값 없이
+수집되었음이 명시됨</li>
+<li><strong>해당 없음 판단</strong>: 간혹 누락된 값이 존재할 경우, 이는
+데이터 오류가 아닌 ’<strong>해당사항 없음</strong>’으로 간주하여
+처리함</li>
+</ul>
+</blockquote>
+<h3 id="변수별-처리-방법">변수별 처리 방법</h3>
+<ul>
+<li><strong><code>children</code></strong>: 동반 미성년자가 없는 것으로
+판단하여 <code>0</code>으로 대체</li>
+<li><strong><code>agent</code> / <code>company</code></strong>: 여행사나
+대리 회사를 거치지 않은 개인 예약으로 간주하여 신규 코드 <code>0</code>
+부여</li>
+<li><strong><code>country</code></strong>: 본국(포르투갈)으로 예상되나
+데이터 불확실성 제거를 위해 결측치 행 <strong>삭제(Drop)</strong></li>
+</ul>
+<hr />
+<h1 id="데이터-변환">4. 데이터 변환</h1>
+<h3 id="범주형-인코딩-label-one-hot">범주형 인코딩 (Label /
+One-hot)</h3>
+<ul>
+<li>이진화(Binary Encoding)
+<ul>
+<li><code>hotel</code>: unique 값이 2개 존재, ‘Resort Hotel’ <span
+class="math inline">→</span> 1, ‘City Hotel’ <span
+class="math inline">→</span> 0</li>
+<li><code>agent</code>, <code>company</code>: ID 값 대신 대행 여부만
+식별하도록 1, 0 반환</li>
+</ul></li>
+<li>재범주화(Regrouping)
+<ul>
+<li><strong><code>country</code></strong>: 백 수식 개의 국가 코드를
+단순화하기 위해 자국인 포르투갈(<code>PRT</code>), 포르투갈 외
+유럽(<code>EUR</code>), 그 외 대륙(<code>OTH</code>) 3개 카테고리로 ###
+날짜 데이터 처리</li>
+</ul></li>
+<li><strong><code>arrival_date_year</code>,
+<code>arrival_date_week_number</code>,
+<code>arrival_date_day_of_month</code></strong>: 차원 축소를 위해
+제거</li>
+<li><strong><code>arrival_date_month</code></strong>: 계절성을 반영하는
+인자로 판단하여 유지</li>
+</ul>
+<hr />
+<h1 id="feature-engineering">5. Feature Engineering</h1>
+<h3 id="파생-변수-생성">파생 변수 생성</h3>
+<ul>
+<li><code>guest_type</code>: <code>adults</code>, <code>children</code>,
+<code>babies</code> 조합
+<ul>
+<li><code>Family</code>: 성인 <span class="math inline">≥</span> 1명 +
+아동 또는 유아 <span class="math inline">≥</span> 1명</li>
+<li><code>Single</code>: 1명으로만 구성</li>
+<li><code>Group</code>: 그 외 조합 (예: 성인만 2명 이상 등)</li>
+<li><code>Undefined</code>: 인원 정보가 모두 0인 경우</li>
+</ul></li>
+<li><code>diff_reserved_room_type</code>:
+<code>reserved_room_type</code>과 <code>assigned_room_type</code> 비교
+<ul>
+<li><code>1</code>: 예약한 방과 실제 배정받은 방이 다른 경우
+(업/다운그레이드 변동 발생)</li>
+<li><code>0</code>: 예약한 방과 배정받은 방이 일치하는 경우 ### 제거된
+변수</li>
+</ul></li>
+<li><strong>필요하지 않은 변수</strong>: <code>arrival_date_year</code>,
+<code>arrival_date_week_number</code>,
+<code>arrival_date_day_of_month</code></li>
+<li><strong>파생 변수 변환 후 원본 삭제</strong>: <code>hotel</code>,
+<code>reserved_room_type</code>, <code>assigned_room_type</code>,
+<code>agent</code>, <code>company</code></li>
+<li><strong>데이터 누수(Data Leakage) 방지</strong>:
+<code>reservation_status</code>,
+<code>reservation_status_date</code></li>
+</ul>
+<hr />
+<h1 id="최종-전처리-데이터-구조">7. 최종 전처리 데이터 구조</h1>
+<h3 id="최종-feature-리스트">최종 feature 리스트</h3>
+<table>
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: left;">번호</th>
+<th style="text-align: left;">컬럼명</th>
+<th style="text-align: left;">데이터 타입</th>
+<th style="text-align: left;">설명</th>
+<th style="text-align: left;">변환 유형</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">1</td>
+<td style="text-align: left;"><strong>is_canceled</strong></td>
+<td style="text-align: left;">int64</td>
+<td style="text-align: left;">예약 취소 여부 (1: 취소됨, 0: 취소 안 됨)
+※ Target 변수</td>
+<td style="text-align: left;">원본</td>
+</tr>
+<tr>
+<td style="text-align: left;">2</td>
+<td style="text-align: left;"><strong>lead_time</strong></td>
+<td style="text-align: left;">int64</td>
+<td style="text-align: left;">PMS 예약 입력일과 도착일 사이의 경과
+일수</td>
+<td style="text-align: left;">원본</td>
+</tr>
+<tr>
+<td style="text-align: left;">3</td>
+<td style="text-align: left;"><strong>arrival_date_month</strong></td>
+<td style="text-align: left;">str</td>
+<td style="text-align: left;">도착일 - 월 (계절성 반영 인자)</td>
+<td style="text-align: left;">원본</td>
+</tr>
+<tr>
+<td style="text-align: left;">4</td>
+<td
+style="text-align: left;"><strong>stays_in_weekend_nights</strong></td>
+<td style="text-align: left;">int64</td>
+<td style="text-align: left;">주말(토/일) 숙박 또는 예약 일수</td>
+<td style="text-align: left;">원본</td>
+</tr>
+<tr>
+<td style="text-align: left;">5</td>
+<td style="text-align: left;"><strong>stays_in_week_nights</strong></td>
+<td style="text-align: left;">int64</td>
+<td style="text-align: left;">평일(월~금) 숙박 또는 예약 일수</td>
+<td style="text-align: left;">원본</td>
+</tr>
+<tr>
+<td style="text-align: left;">6</td>
+<td style="text-align: left;"><strong>meal</strong></td>
+<td style="text-align: left;">str</td>
+<td style="text-align: left;">예약한 식사 종류 패키지 코드 (BB, HB, FB,
+SC, Undefined)</td>
+<td style="text-align: left;">원본</td>
+</tr>
+<tr>
+<td style="text-align: left;">7</td>
+<td style="text-align: left;"><strong>market_segment</strong></td>
+<td style="text-align: left;">str</td>
+<td style="text-align: left;">시장 부문 명칭 (예: TA/TO 등 여행사 및
+운영업체 분류)</td>
+<td style="text-align: left;">원본</td>
+</tr>
+<tr>
+<td style="text-align: left;">8</td>
+<td style="text-align: left;"><strong>distribution_channel</strong></td>
+<td style="text-align: left;">str</td>
+<td style="text-align: left;">예약 유통 채널 명칭</td>
+<td style="text-align: left;">원본</td>
+</tr>
+<tr>
+<td style="text-align: left;">9</td>
+<td style="text-align: left;"><strong>is_repeated_guest</strong></td>
+<td style="text-align: left;">int64</td>
+<td style="text-align: left;">재방문 고객 여부 (1: 재방문, 0: 첫
+방문)</td>
+<td style="text-align: left;">원본</td>
+</tr>
+<tr>
+<td style="text-align: left;">10</td>
+<td
+style="text-align: left;"><strong>previous_cancellations</strong></td>
+<td style="text-align: left;">int64</td>
+<td style="text-align: left;">현재 예약 이전 고객이 취소했던 예약
+건수</td>
+<td style="text-align: left;">원본</td>
+</tr>
+<tr>
+<td style="text-align: left;">11</td>
+<td
+style="text-align: left;"><strong>previous_bookings_not_canceled</strong></td>
+<td style="text-align: left;">int64</td>
+<td style="text-align: left;">현재 예약 이전 고객이 취소하지 않고 투숙한
+횟수</td>
+<td style="text-align: left;">원본</td>
+</tr>
+<tr>
+<td style="text-align: left;">12</td>
+<td style="text-align: left;"><strong>booking_changes</strong></td>
+<td style="text-align: left;">int64</td>
+<td style="text-align: left;">예약 입력 후 체크인/취소 전까지의 예약
+변경 횟수</td>
+<td style="text-align: left;">원본</td>
+</tr>
+<tr>
+<td style="text-align: left;">13</td>
+<td style="text-align: left;"><strong>deposit_type</strong></td>
+<td style="text-align: left;">str</td>
+<td style="text-align: left;">보증금 납부 방식 유형 (보증금 없음, 환불
+불가, 환불 가능)</td>
+<td style="text-align: left;">원본</td>
+</tr>
+<tr>
+<td style="text-align: left;">14</td>
+<td style="text-align: left;"><strong>days_in_waiting_list</strong></td>
+<td style="text-align: left;">int64</td>
+<td style="text-align: left;">예약 확정 전까지 대기자 명단(Waiting
+List)에 있었던 일수</td>
+<td style="text-align: left;">원본</td>
+</tr>
+<tr>
+<td style="text-align: left;">15</td>
+<td style="text-align: left;"><strong>customer_type</strong></td>
+<td style="text-align: left;">str</td>
+<td style="text-align: left;">예약 유형 분류 (계약, 그룹, 개별, 일시적
+예약 등)</td>
+<td style="text-align: left;">원본</td>
+</tr>
+<tr>
+<td style="text-align: left;">16</td>
+<td style="text-align: left;"><strong>adr</strong></td>
+<td style="text-align: left;">float64</td>
+<td style="text-align: left;">일일 평균 요금 (Average Daily Rate)</td>
+<td style="text-align: left;">원본</td>
+</tr>
+<tr>
+<td style="text-align: left;">17</td>
+<td
+style="text-align: left;"><strong>required_car_parking_spaces</strong></td>
+<td style="text-align: left;">int64</td>
+<td style="text-align: left;">고객이 요구한 주차 공간 수</td>
+<td style="text-align: left;">원본</td>
+</tr>
+<tr>
+<td style="text-align: left;">18</td>
+<td
+style="text-align: left;"><strong>total_of_special_requests</strong></td>
+<td style="text-align: left;">int64</td>
+<td style="text-align: left;">고객이 요청한 특별 요구사항 총 개수</td>
+<td style="text-align: left;">원본</td>
+</tr>
+<tr>
+<td style="text-align: left;">19</td>
+<td style="text-align: left;"><strong>guest_type</strong></td>
+<td style="text-align: left;">str</td>
+<td style="text-align: left;">투숙객 구성 형태 (Single, Family, Group,
+Undefined)</td>
+<td style="text-align: left;">신규</td>
+</tr>
+<tr>
+<td style="text-align: left;">20</td>
+<td
+style="text-align: left;"><strong>diff_reserved_room_type</strong></td>
+<td style="text-align: left;">int64</td>
+<td style="text-align: left;">예약한 방과 실제 배정 방의 상이 여부 (1:
+변경됨, 0: 동일)</td>
+<td style="text-align: left;">신규</td>
+</tr>
+<tr>
+<td style="text-align: left;">21</td>
+<td style="text-align: left;"><strong>is_agent</strong></td>
+<td style="text-align: left;">int64</td>
+<td style="text-align: left;">여행사(Agent)를 경유한 예약 여부 (1: 경유,
+0: 직접 예약)</td>
+<td style="text-align: left;">이진화</td>
+</tr>
+<tr>
+<td style="text-align: left;">22</td>
+<td style="text-align: left;"><strong>is_company</strong></td>
+<td style="text-align: left;">int64</td>
+<td style="text-align: left;">기업/기관(Company)을 통한 예약 여부 (1:
+기업, 0: 개인)</td>
+<td style="text-align: left;">이진화</td>
+</tr>
+<tr>
+<td style="text-align: left;">23</td>
+<td style="text-align: left;"><strong>is_city_hotel</strong></td>
+<td style="text-align: left;">int64</td>
+<td style="text-align: left;">시티 호텔 여부 (1: City Hotel, 0: Resort
+Hotel)</td>
+<td style="text-align: left;">이진화</td>
+</tr>
+<tr>
+<td style="text-align: left;">24</td>
+<td style="text-align: left;"><strong>country_region</strong></td>
+<td style="text-align: left;">str</td>
+<td style="text-align: left;">국적 대그룹 범주 (PRT: 자국, EUR: 유럽,
+OTH: 비유럽)</td>
+<td style="text-align: left;">범주 재조정</td>
+</tr>
+</tbody>
+</table>
+<h3 id="shape">shape</h3>
+<ul>
+<li>행(Rows): 118,902개</li>
+<li>열(Columns): 24개</li>
+</ul>
