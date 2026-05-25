@@ -155,8 +155,6 @@ SKN30-2nd-3Team/
     │   │   └── ref_overview.png
     │   └── stays_in_weekend_nights
     │       └── weekend_noshow_rate.png
-    └── model_results
-        └── total_model_comparison.png
 ```
 ---
 
@@ -224,7 +222,20 @@ SKN30-2nd-3Team/
 
 ## 모델링
 
-> 프로젝트 진행 후 업데이트 예정
+### 1. 모델 선정 및 불균형 데이터 처리
+* **클래스 불균형 해결**: 타겟 변수(`is_canceled`)의 불균형 문제를 해결하기 위해 `Imbalanced-Learn` 패키지를 활용, 오버샘플링(SMOTE) 및 전처리를 수행하여 모델의 예측 편향을 방지했습니다.
+* **앙상블 및 딥러닝 최적화**: 정형 데이터 최적화 알고리즘인 **XGBoost, Random Forest**를 교차 검증하며 최적의 하이퍼파라미터를 탐색했고, 거시적 외부 변수(날씨, 환율 등) 결합에 따른 비선형 패턴 포착을 위해 **PyTorch 기반의 MLP** 모델을 구축하여 성능을 비교·평가했습니다.
+* **최종 모델(Final Model) 도출**: 개별 모델들의 예측력을 결합하고 과적합을 방지하기 위해 앙상블 기반의 **Final Model**을 구축하여 가장 우수한 성능을 확보했습니다.
+
+### 2. 모델 성능 비교 평가
+호텔 수익 관리(Revenue Management) 측면에서 취소 위험 고객을 정확히 식별(Recall)하면서도 오예측으로 인한 리스크를 최소화하기 위해 **Recall**과 **F1-Score**를 주요 지표로 평가했습니다.
+
+| 모델 (구분) | Accuracy (정확도) | Recall (재현율) | F1-Score (종합점수) |
+| :--- | :---: | :---: | :---: |
+| 🏆 **Final model** | **0.878** | **0.803** | **0.831** |
+| Random Forest | 0.877 | 0.793 | 0.828 |
+| XGBoost | 0.876 | 0.802 | 0.828 |
+| MLP | 0.855 | 0.760 | 0.796 |
 
 ---
 
