@@ -91,6 +91,11 @@
     <img src="/docs/images/Seaborn.png" height="30" alt="Seaborn"/>
 </div>
 
+### 🛠️ Tools
+![MySQL Workbench](https://shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Figma](https://shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Streamlit](https://shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
 ---
 
 ## 데이터 전처리
