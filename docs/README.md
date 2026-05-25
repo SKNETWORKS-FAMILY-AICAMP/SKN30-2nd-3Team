@@ -70,91 +70,44 @@
 ```text
 SKN30-2nd-3Team/
 .
-├── dataset
-│   ├── preprocessed
-│   │   ├── hotel_bookings.csv
-│   │   ├── hotel_bookings_dummy.csv
-│   │   └── weather.csv
-│   └── raw
-│       ├── country_currencies.csv
-│       ├── euro-daily-hist_1999_2022.csv
-│       ├── hotel_bookings.csv
-│       └── weather.csv
-├── docs
+├── dataset/
+│   ├── preprocessed/       # 전처리 완료된 CSV 파일
+│   └── raw/                # 원본 데이터 (수정 금지)
+│
+├── docs/
+│   ├── Report/             # 최종 결과서 (md / pdf / html)
+│   ├── images/             # 라이브러리 로고 이미지
 │   ├── AGENTS.md
-│   ├── ERD.png
-│   ├── README.md
-│   ├── Report
-│   │   ├── 인공지능 데이터 전처리 결과서.md
-│   │   ├── 인공지능 학습 결과서.md
-│   │   └── 학습된 인공지능 모델.md
-│   ├── convention.md
-│   ├── erd 설계.mwb
 │   ├── EDA_분석_정리.md
-│   ├── pipeline.pdf
-│   ├── pipeline.png
-│   └── 호텔 예약 취소 예측 및 운영 최적화 프로젝트 초기 기획안.pdf
-├── eda
+│   ├── ERD.png
+│   ├── pipeline.png        # 전체 파이프라인 흐름도
+│   └── convention.md       # 코드 컨벤션 정의
+│
+├── eda/                    # 탐색적 데이터 분석 노트북
 │   ├── 02_eda.ipynb
 │   ├── clustering.ipynb
 │   └── graph.ipynb
-├── main.py
-├── modeling
-│   ├── dl
-│   │   ├── MLP.ipynb
-│   │   └── final.ipynb
-│   └── ml
-│       ├── 03_ml_model.ipynb
-│       ├── randomforest.ipynb
-│       └── xgboost.ipynb
-│   └── saved
-│       ├── best_mlp.pkl
-│       ├── best_rf.pkl
-│       └── best_xgb.pkl
-├── preprocessing
-│   ├── preprocessing_euro_daily.ipynb
-│   ├── preprocessing_hotel.ipynb
-│   └── preprocessing_weather.ipynb
-├── results
-│   ├── mlp_result.csv
-│   ├── rf_result.csv
-│   └── xgb_result.csv
-├── pyproject.toml
-├── uv.lock
-└── visualization
-    ├── eda
-    │   ├── adr
-    │   │   ├── adr_box.png
-    │   │   ├── adr_cancellation_kde.png
-    │   │   ├── adr_cancellation_rate_hist.png
-    │   │   └── adr_cancellation_rate_kde.png
-    │   ├── deposit_type
-    │   │   ├── deposit_cancellation_rate.png
-    │   │   ├── deposit_no_booking_count.png
-    │   │   ├── deposit_nonrefund_booking_count.png
-    │   │   ├── deposit_refundable_booking_count.png
-    │   │   └── noshow_deposit_type_ratio.png
-    │   ├── distribution_channel
-    │   │   ├── channel_booking_distribution.png
-    │   │   ├── channel_booking_rate_cancellation.png
-    │   │   └── channel_noshow_rate.png
-    │   ├── hotel
-    │   │   ├── hotel_actual_stay_comparison.png
-    │   │   └── hotel_overview.png
-    │   ├── lead_time
-    │   │   ├── leadtime_cancellation_boxplot.png
-    │   │   ├── leadtime_cancellation_rate.png
-    │   │   ├── leadtime_cancellation_trend.png
-    │   │   ├── leadtime_distribution_comparison.png
-    │   │   └── leadtime_noshow_rate.png
-    │   ├── market_segment
-    │   │   ├── market_segment_booking_cancellation.png
-    │   │   └── market_segment_booking_distribution.png
-    │   ├── ref
-    │   │   ├── ref_all_features.png
-    │   │   └── ref_overview.png
-    │   └── stays_in_weekend_nights
-    │       └── weekend_noshow_rate.png
+│
+├── modeling/
+│   ├── dl/                 # 딥러닝 (MLP)
+│   ├── ml/                 # 머신러닝 (RF, XGBoost 등)
+│   └── saved/              # 학습된 모델 .pkl 저장소
+│
+├── preprocessing/          # 데이터별 전처리 노트북
+│
+├── results/                # 모델별 예측 결과 CSV
+│
+├── streamlit/              # 웹 앱 (취소 예측 서비스)
+│   ├── home.py             # 메인 페이지
+│   └── pages/              # 서브 페이지 (1_취소_예측.py)
+│
+├── visualization/
+│   ├── eda/                # EDA 시각화 결과 이미지 (변수별 분류)
+│   └── model_results/      # 모델 비교 결과 시각화
+│
+├── main.py                 # 프로젝트 진입점
+├── pyproject.toml          # 의존성 및 환경 설정
+└── uv.lock                 # 패키지 잠금 파일 (uv 사용)
 ```
 ---
 
@@ -262,8 +215,6 @@ SKN30-2nd-3Team/
 ---
 
 ## 📂 최종 산출물 (Deliverables)
-- 호텔 예약 및 취소 패턴 데이터 분석 결과 보고서
-- 인사이트 발굴을 위한 데이터 시각화 자료
-- 적용 알고리즘 간 머신러닝/딥러닝 모델 성능 비교 결과
-- 취소 여부에 가장 큰 영향을 미치는 핵심 변수 영향 분석(Feature Importance) 결과 
-- 데이터 기반 예약 취소 대응 및 운영 개선 전략 제안서
+- 인공지능 데이터 전처리 결과서
+- 인공지능 학습 결과서
+- 학습된 인공지능 모델
