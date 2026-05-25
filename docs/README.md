@@ -173,7 +173,7 @@ SKN30-2nd-3Team/
 │
 ├── docs/
 │   ├── Report/             # 최종 결과서 (md / pdf / html)
-│   ├── images/             # 라이브러리 로고 이미지
+│   ├── images/             # 문서 작성용 이미지 모음
 │   ├── AGENTS.md
 │   ├── EDA_분석_정리.md
 │   ├── ERD.png
